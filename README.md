@@ -7,3 +7,14 @@ This respository will include the plan of action, reading materials, and notes i
 [David Rieder](chass.ncsu.edu/people/dmrieder/), North Carolina State University
 [Michelle McMullin](chass.ncsu.edu/people/mmcmull/), North Carolina State University
 [Fernanda Duarte](chass.ncsu.edu/people/fduarte/), North Carolina State University
+
+# List Directory
+├───ai_infrastructure | Object List
+│   ├───notes
+│   └───readings
+├───critical_making | Methods List
+│   ├───notes
+│   └───readings
+└───new_materia(list) | Theory List
+    ├───notes
+    └───readings
