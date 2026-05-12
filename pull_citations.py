@@ -1,10 +1,13 @@
 import os
+import sys
 import pandas as pd
 import pyalex
 from pyalex import Works
 from dotenv import load_dotenv
 
 load_dotenv()
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 # Set your email for OpenAlex's polite pool (faster rate limits, no key needed)
 # Add OPENALEX_EMAIL=you@example.com to a .env file or your environment
@@ -84,5 +87,12 @@ for _, row in df.iterrows():
     print(f"  Added {len(refs)} edges for: {title}")
 
 edge_df = pd.DataFrame(edges)
-edge_df.to_csv("citation_network.csv", index=False)
-print(f"\nEdgelist saved to citation_network.csv ({len(edges)} total edges)")
+
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
+for reading_list, group in edge_df.groupby("reading_list"):
+    out_path = os.path.join(base_dir, reading_list, "citation_network.csv")
+    group.to_csv(out_path, index=False)
+    print(f"  {reading_list}: {len(group)} edges → {out_path}")
+
+print(f"\nDone. {len(edges)} total edges across {edge_df['reading_list'].nunique()} lists.")
