@@ -160,6 +160,8 @@ date_created: {date_created}
 ## Key Terms / Concepts
 
 ## Qualifying Exam Relevance
+
+# References
 """
 
 with open(output_path, "w", encoding="utf-8") as f:

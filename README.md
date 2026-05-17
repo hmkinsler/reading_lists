@@ -19,3 +19,6 @@ This respository will include the plan of action, reading materials, and notes i
 | doi.csv                      | Datasheet containing DOIs for each source for OpenAlex                    | 
 | notes_template.py            | Script to generate Markdown template for reading notes                    | 
 | pull_ciations.py             | Script to pull sources cited in each reading for citation network analyis | 
+
+
+** NOTE: I frequently use speech-to-text as an accessibility tool for writing. Remnants of transcription errors may take shape in the form of spelling errors and the like.
