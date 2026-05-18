@@ -22,7 +22,7 @@ Ahmed, S. (2008). Open forum imaginary prohibitions: Some preliminary remarks on
 - How is biological being theorized in the paper?
 
 ### Read: Take notes on how you answer your questions as you read
-[Reading Notes](new_materialism\readings\ahmed_2008.pdf)
+[Annotations](new_materialism\readings\ahmed_2008.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 In this case this article raised a lot more questions for me than it did answers. Essentially, ahmed's argument is that new materialist scholarship , as part of the argument for its disciplinary necessity, has framed prior feminist scholarship as overly preoccupied with language, discourse, and representation, to the detriment of materialist and biological analysis. Ahmed thus assesses a wide range of feminist scholarship that identifies itself as explicitly concerned with biology, particularly in its implications for understanding women's lives and lived experiences. She rightfully points out that critiques of biological essentialism on the part of feminists can be misconstrued as a denial of biology rather than recognizing that these scholars are simply rejecting that particular model of biology that mistakenly attributes all social behavior to biology, and she seems to be suggesting that part of this issue that she has identified in the founding gestures of new materialist scholarship may arise out of that reduction or misinterpretation of that work. At the same time, she does also point out that there is quite a bit of a focus on biology in posthumanism, which does raise the question as to why new materialist scholars are situating their focus as different.
