@@ -3,10 +3,10 @@ title: (En)tangled ethics and relational mobilities: Reflections on decolonial f
 tags: [critical_making]
 date_created: 2026-06-11
 ---
-# Notes for (En)tangled ethics and relational mobilities: Reflections on decolonial feminist digital participatory action research (Mayhurst, L. M. C., 2025)
+# Notes for (En)tangled ethics and relational mobilities: Reflections on decolonial feminist digital participatory action research (Hayhurst, L. M. C., 2025)
 
 ## Citation Information
-Mayhurst, L. M. C. (2025). (En)tangled ethics and relational mobilities: Reflections on decolonial feminist digital participatory action research. *Action Research*, *0*(0), 1-21. https://doi.org/10.1177/14767503251403419
+Hayhurst, L. M. C. (2025). (En)tangled ethics and relational mobilities: Reflections on decolonial feminist digital participatory action research. *Action Research*, *0*(0), 1-21. https://doi.org/10.1177/14767503251403419
 
 # Reading Notes
 ## SQR3
