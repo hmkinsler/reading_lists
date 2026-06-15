@@ -11,10 +11,13 @@ Itchuaqiyaq, C. U., & Matheson, B. (2021). Decolonial dinners: Ethical considera
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- 
 
 ### Query: Write questions to consider as you read
+- 
 
 ### Read: Take notes on how you answer your questions as you read
+- [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
