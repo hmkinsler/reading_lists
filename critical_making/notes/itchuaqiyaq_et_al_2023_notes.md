@@ -36,7 +36,7 @@ Itchuaqiyaq, C. U., Lindren, C. A., & Kramer, C. Q. (2023). Decolonizing communi
 - How does a specific focus on informed cultural humility take shape in differnt local contexts, such as the Fourth Ward, for example?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\itchuaqiyaq_et_al_2023.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

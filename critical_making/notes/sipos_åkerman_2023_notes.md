@@ -30,7 +30,7 @@ Sipos, R., & Åkerman, M. (2023). Introducing the critical making responsibility
 - How might we make sense of the critical Making Responsibility Framework from the perspective or context of decolonial research and design practices? In what ways does the framework succeed or fail to respond to issues of colonialism and techno solutionism or technoliberalism that have been criticized in previous approaches to maker research and education?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations]()
+[Annotations](critical_making\readings\sipos_åkerman_2023.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
