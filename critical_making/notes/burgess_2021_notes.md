@@ -1,12 +1,12 @@
 ---
 title: Machine dream anthropocene: On taking a bot to the MLA
 tags: [critical_making]
-date_created: 2026-06-11
+date_created: 2026-06-17
 ---
-# Notes for Machine dream anthropocene: On taking a bot to the MLA (Burgess, H. J., 2021)
+# Notes for Machine dream anthropocene: On taking a bot to the MLA (Burgess, H., 2021)
 
 ## Citation Information
-Burgess, H. J. (2021). Machine dream anthropocene: On taking a bot to the MLA. *Configurations*, *29*(1), 73-95. https://doi.org/10.1353/con.2021.0003
+Burgess, H. (2021). Machine dream anthropocene: On taking a bot to the MLA. *Configurations*, *29*(1), 73-95. https://doi.org/10.1353/con.2021.0003
 
 # Reading Notes
 ## SQR3
@@ -15,6 +15,7 @@ Burgess, H. J. (2021). Machine dream anthropocene: On taking a bot to the MLA. *
 ### Query: Write questions to consider as you read
 
 ### Read: Take notes on how you answer your questions as you read
+- [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
