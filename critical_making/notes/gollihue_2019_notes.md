@@ -11,8 +11,10 @@ Gollihue, K. N. (2019). Re-making the makerspace: Body, power, and identity in c
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- 
 
 ### Query: Write questions to consider as you read
+- 
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()

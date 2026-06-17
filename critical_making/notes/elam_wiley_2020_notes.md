@@ -11,8 +11,18 @@ Elam, J., & Wiley, S. (2020). Subjectivation in the making: The hybrid logics of
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- The chapter opens with the authors tracing the rise of maker culture especially in the context of maker spaces being established in universities and colleges across the United States, considering how they serve as sites for human-technological _hybridity_ that, through the joining of human and non-human agents, provides insight into subjectivation, a Deleuzean concept to refer to the dynamic and ongoing process by which one achieves a sense of self.
+
+- In particular, they draw on Participant observation and ethnographic data from a comparative analysis of two maker space events in a university library To consider how capitalist or productive and institutional logics impose particular paths of subjectivation upon students in these spaces while they're simultaneous ethos of technological plane experimentation may also offer new possibilities for unruly or resistant subjectivation processes. 
+
+- They offer detailed description of the maker space that is the focus of their study, Identifying key motivations of students who visit the space , whether they are for leisure, Developping prototypes for various institutional urose's, We're actively engaging in critical making as part of a pedagogical and research practice.
+
+- The first case study looks at Make-A-Thon, An annual competition In which teams of students develop their own prototypes By making use of the tools and materials offered by the Makerspace. Here, they focus on the entrepreneurial and institutional logics that shape students' sense of themselves as makers in this context.
+
+- The second case study looks at an experimental play session that was carried out spontaneously by one of the authors, considering how this free and open ended experimentation With the space's materials differs affectively from the first case study.
 
 ### Query: Write questions to consider as you read
+- How might the concept of subjectivation described in this chapter be taken up differently in the context of community based design projects, where multiple invididuals are engaging in maker processes?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()

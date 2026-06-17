@@ -11,8 +11,19 @@ Costanza-Chock, S. (2020). Introduction: #TravelingWhileTrans, design justice, a
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- The introduction opens with the author narrating their experience traveling through an airport and confronting the adequacies of the design for TSA checkpoint technologies to account for trans embodiment as a concrete example of the intersection between trans experiences and discriminatory design practices
+
+- They trace the inception and development of the Design Justice Network, a community made up of scholars and researchers who seek to promote more equitable practices in design
+
+- They offer some framing for the overall book in the introduction, including their positionality statement and their focus on participatory action research as methodology of choice
+
+- from there, They provide extended definitions of various key concepts and terms that are the focus of the books theoretical and analytical frameworks , including "design", "intersectionality", "the matrix of domination", and "design justice"
 
 ### Query: Write questions to consider as you read
+
+- How does the author think about concepts that have been coined by Black scholars, like the "matrix of domination", In the context of other marginalized groups, such as trans and non binary people?
+
+- How does the author think about design justice in the context of participatory action research, especially as opposed to participatory design research? 
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
