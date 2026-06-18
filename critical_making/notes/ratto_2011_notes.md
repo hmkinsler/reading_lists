@@ -49,6 +49,8 @@ Rato looks at two different workshops that he led, commenting on the challenges 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 Descriptive analysis, narrative account.
 
+Draws most heavily on scholarship in STS (Latour, Haraway), social construction of technology (Wajcman, Bijker), and constructionism (Papert, Knorr-Cetina)
+
 ## Key Terms / Concepts
 - Constructivism
 - Constructionism

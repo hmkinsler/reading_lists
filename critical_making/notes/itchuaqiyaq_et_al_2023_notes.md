@@ -41,6 +41,7 @@ Itchuaqiyaq, C. U., Lindren, C. A., & Kramer, C. Q. (2023). Decolonizing communi
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+Like many of the readings that I've encountered on Decolonial participatory action Research in Decolonial participatory design research, This article offers prompts for researcher reflection as they engage with Indigenous communities , suggesting an emphasis on reflexivity and understanding that the communities that we engage with as part of our research should be treated on epistemically equal footing as ourselves, especially as co-researchers (Becerra, 2026; Hayhurst, 2025)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
@@ -50,8 +51,12 @@ Itchuaqiyaq, C. U., Lindren, C. A., & Kramer, C. Q. (2023). Decolonizing communi
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- A fair portion of the literature review is focused on scholarship on the ethics and implications for research with Indigenous communities (Tagalik, n.d.; Veazey et al., 2022; Huntington et al., 2021)
 
 ## Key Terms / Concepts
+- Community-engaged research (CER)
+- Cultural humility
+- Nalukataq
 
 ## Qualifying Exam Relevance
 
