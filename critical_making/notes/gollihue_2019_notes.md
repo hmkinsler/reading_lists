@@ -11,13 +11,13 @@ Gollihue, K. N. (2019). Re-making the makerspace: Body, power, and identity in c
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
-- 
+- n/a -- read previously
 
 ### Query: Write questions to consider as you read
-- 
+- n/a -- read previously, focused instead on this iteration of reading
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\gollihue_2019.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -33,6 +33,20 @@ Gollihue, K. N. (2019). Re-making the makerspace: Body, power, and identity in c
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Multimodality
+- Critical making
+- Makingspace
+- Embodiment
+- Constellation
+- Cultural rhetorics
+- Multispecies kinship
+- Videovoice
+- Sensory ethnography
+- "walking-talking-imaging" ethnographies
+- Shared anthropology
+- Community-based photovoice methodology
+- Participatory video
+- Ordinary affects
 
 ## Qualifying Exam Relevance
 
