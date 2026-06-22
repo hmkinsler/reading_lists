@@ -23,7 +23,7 @@ Itchuaqiyaq, C. U., & Matheson, B. (2021). Decolonial dinners: Ethical considera
 - How might this article be read in conversation with Cusicanqui's (2012) "_Ch'ixinakax utxiwa_: A Reflection on the Practices and Discourses of Decolonization"?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\itchuaqiyaq_matheson_2021.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
