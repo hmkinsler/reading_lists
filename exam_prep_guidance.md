@@ -17,3 +17,4 @@
 - Continuously tie back the readings to your research, asking how they inform or intersect with your proposed topic
 - Create your own questions based on the lists and practice answering them without notes
 - Draw on note-taking models that aid in tracking the major arguments of each source (i.e. SQR3, intervention / evidence / argument)
+- Even when focusing on a specific chapter(s) from a book, you should briefly read through and skim through the rest of the text, especially the introduction and conclusion sections, to understand where the argument that the author(s) hone in on within that specific section are situated in relation to the broader context of the text

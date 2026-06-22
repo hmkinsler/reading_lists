@@ -17,6 +17,8 @@ Itchuaqiyaq, C. U., & Matheson, B. (2021). Decolonial dinners: Ethical considera
 
 - They stress the importance of not diluting, misrepresenting, or inappropriately applying the meaning of "decolonial" for research methodologies
 
+- Distinguish between meanings of "anticolonial" versus "decolonial" research
+
 ### Query: Write questions to consider as you read
 - How do the authors offer a definition of "decolonizing" and what tensions do they identify between the meaning and worldbuilding goals of that word with TPC scholarship that identifies itself as "decolonial" in name?
 
