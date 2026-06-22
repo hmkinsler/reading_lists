@@ -19,6 +19,20 @@ Shipka, J. (2011). *Toward a composition made whole*. University of Pittsburgh P
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
+#### Introduction
+
+#### Chapter One
+
+#### Chapter Two
+
+#### Chapter Three
+
+#### Chapter Four
+
+#### Chapter Five
+
+#### Concusion
+
 ### Relate: Identify connections or links to other readings and scholarship
 
 ## Intervention, Argument, Evidence

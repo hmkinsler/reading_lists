@@ -11,10 +11,16 @@ Itchuaqiyaq, C. U., & Matheson, B. (2021). Decolonial dinners: Ethical considera
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
-- 
+- The authors argue that, given the rise of interest in technical and professional communication scholars with decolonial perspectives on research and scholarship, there is a need to interrogate the meaning of "decolonial" as it is used in that scholarly context
+
+- In this particular article, the authors "using a critique of decolonial scholars... reconsider their use of 'decolonial' to describe their experience with urban foraging as a practice that subverts modern Euro-Western foodways" (p. 298)
+
+- They stress the importance of not diluting, misrepresenting, or inappropriately applying the meaning of "decolonial" for research methodologies
 
 ### Query: Write questions to consider as you read
-- 
+- How do the authors offer a definition of "decolonizing" and what tensions do they identify between the meaning and worldbuilding goals of that word with TPC scholarship that identifies itself as "decolonial" in name?
+
+- How might this article be read in conversation with Cusicanqui's (2012) "_Ch'ixinakax utxiwa_: A Reflection on the Practices and Discourses of Decolonization"?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()

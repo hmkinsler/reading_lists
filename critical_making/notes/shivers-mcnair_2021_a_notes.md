@@ -12,7 +12,9 @@ Shivers-McNair, A. (2021). Introduction. In *Beyond the makerspace: Making and r
 ## SQR3
 ### Survey: Skim the text and identify main ideas
 
+
 ### Query: Write questions to consider as you read
+
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
