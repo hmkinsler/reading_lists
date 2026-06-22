@@ -26,7 +26,7 @@ Costanza-Chock, S. (2020). Introduction: #TravelingWhileTrans, design justice, a
 - How does the author think about design justice in the context of participatory action research, especially as opposed to participatory design research? 
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\costanza-chock_2020.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

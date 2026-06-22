@@ -1,12 +1,12 @@
 ---
 title: In the field: Grassroots critical making
 tags: [critical_making]
-date_created: 2026-06-16
+date_created: 2026-06-22
 ---
 # Notes for In the field: Grassroots critical making (Sipos, R., 2025)
 
 ## Citation Information
-Sipos, R. (2025). In the field: Grassroots critical making. In *Critical technical practice in grassroots innovation: Proposals of change through Indonesian collective intrinsic design* (pp. 113-119). Springer.
+Sipos, R. (2025). In the field: Grassroots critical making. In *Critical technical practice in grassroots innovation: Proposals of change through Indonesian collective intrinsic design* (pp. 113-119). Springer. https://link.springer.com/book/10.1007/978-3-658-49695-1
 
 # Reading Notes
 ## SQR3

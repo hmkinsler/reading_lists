@@ -1,12 +1,12 @@
 ---
-title: Decolonizing design innovation: Design anthropology, critical anthropology, and Indigenous knowledge
+title: Decolonization and participatory design
 tags: [critical_making]
 date_created: 2026-06-22
 ---
-# Notes for Decolonizing design innovation: Design anthropology, critical anthropology, and Indigenous knowledge (Tunstall, E. D., 2013)
+# Notes for Decolonization and participatory design (Winschiers-Theophilus, H., Smith, R. C., van Amstel, F. M. C., & Botero, A., 2025)
 
 ## Citation Information
-Tunstall, E. D. (2013). Decolonizing design innovation: Design anthropology, critical anthropology, and Indigenous knowledge. In Gunn, W., Otto, T., Smith, R. C. (Eds.), *Design anthropology: Theory and practice* (pp. 232-250). Routledge.
+Winschiers-Theophilus, H., Smith, R. C., van Amstel, F. M. C., & Botero, A. (2025). Decolonization and participatory design. In Smith, R. C., Loi, D., Winschiers-Theophilus, H., Huybrechts, L., & Simonsen, J. (Eds.), *Routledge international handbook of contemporary participatory design* (pp. 111-137). Routledge. https://doi.org/10.4324/9781003334330
 
 # Reading Notes
 ## SQR3
