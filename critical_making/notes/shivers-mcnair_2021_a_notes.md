@@ -17,7 +17,7 @@ Shivers-McNair, A. (2021). Introduction. In *Beyond the makerspace: Making and r
 
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\shivers-mcnair_2021_a.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

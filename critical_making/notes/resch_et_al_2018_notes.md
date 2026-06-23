@@ -27,7 +27,7 @@ Resch, G., Southwick, D., Record, I., & Ratto, M. (2018). Thinking as handwork: 
 - The title, "thinking as handwork," suggests an embodied-epistemological perspective to knowledge production, which calls back to Ratto's (2011) investment in the critical making framework as a model for conceptualization through direct and active engagement with materials and technologies. How does this article continue to build on, trouble, or respond to his original description of that framework?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations]()
+[Annotations](critical_making\readings\resch_et_al_2018.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -35,14 +35,52 @@ Resch, G., Southwick, D., Record, I., & Ratto, M. (2018). Thinking as handwork: 
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+- "With a primary motivation to weigh various techniques that might make our object feel more or less 'real', we had to sift through and across a mangle of practice (Pickering, 1993) that requires a diverse array of digital pre-production techniques, exercise our own knowledge of processes--both material and digital--that constitute 3-D printing as a medium and negotiating critical issues of authenticity, curatorial and institutional authority, and the relationship between the materiality of museum artifacts and their digital-material surrogates. These concerns undergird our ongoing experiments in replication" (pp. 149-150).
 
 ### Argument: What are the core argument(s) being made in the text?
+- "Among the most interesting discoveries we have encountered in our engagements with cultural institutions is a heightened sensitivity to how preparing an object for display can be a more important locus of epistemic activity than the exhibited object itself" (p. 153).
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- 3D printing
+- Reproduction
+- Digital humanities
+- Mangle of practice
+- STS
+- Critical making
+- Digital-material relations
+- Participatory making
+- Agency
+- Cultural institutions
+- Materiality
+- Network analysis
+- Epistemic cultures
+- Curatorial regimes
+- Ocularcentrism
+- Memory
+- Memory institutions
+- Handwork
+- Material substrate
+- Skeuomorphism
+- Technological determinism
+- Social determinism
+- Entanglement
+- Matters of fact
+- Matters of concern
+- Matters of care
+- Positivism
+- Scientific realism
+- Empiricism
+- Social constructionism
+- Values
+- Culture
+- Epistemic objects
+- Boundary objects
+- Prototype
+- Distant reading vs. close reading
 
 ## Qualifying Exam Relevance
 

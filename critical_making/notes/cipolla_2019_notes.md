@@ -22,7 +22,7 @@ Cipolla, C. (2019). Build it better: Tinkering in feminist maker pedagogy. *Wome
 - Did students provide reflections or commentary on their sense of self or scholarly identities as students in STS or feminist technoscience?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations]()
+[Annotations](critical_making\readings\cipolla_2019.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 - In all honesty, I don't think that there is a ton that I feel like I would need to memorize or comment on about this article beyond it really effectively capturing some of my own personal feelings about bringing design thinking, feminist perspectives on technoscience , and critical making into the classroom. I think a lot of my notes in my annotations speak to my thoughts quite well. I really enjoyed reading this piece Because of how much it resonated with my own questions about what it means to take on an identity as an engineer, a designer, an architect, or a programmer as a marginalized person, a feminist, and a scholar in the humanities and social sciences.
