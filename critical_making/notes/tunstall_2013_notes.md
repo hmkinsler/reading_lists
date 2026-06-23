@@ -35,7 +35,7 @@ Tunstall, E. D. (2013). Decolonizing design innovation: Design anthropology, cri
 - She cites core scholarship in participatory design, but how is that methodology taken up variably across (inter)disciplinary contexts? In other words, how do participatory design methods take shape differently when employed by scholars in rhetoric and composition, anthropology, sociology, TPC, and so on?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\tunstall_2013.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
