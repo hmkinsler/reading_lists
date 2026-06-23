@@ -11,8 +11,10 @@ Shivers-McNair, A. (2021). Relational rhetorics. In *Beyond the makerspace: Maki
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- n/a -- read previously
 
 ### Query: Write questions to consider as you read
+- n/a -- read previously, focused instead on this iteration of reading
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations](critical_making\readings\shivers-mcnair_2021_b.pdf)
