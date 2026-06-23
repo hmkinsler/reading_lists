@@ -40,17 +40,47 @@ Tunstall, E. D. (2013). Decolonizing design innovation: Design anthropology, cri
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+Although there are very clear connections between this chapter and the scholarship that it directly cites or that is connected to that response to comic critiques, and otherwise interrogates discourses of development (Bah, 2008; Dutta, 2015; Melkote & Steeves, 2001) or perspectives on modernity that position Western models of rationality, positivism, and modernism (Wynter, 2003; Quijano, 2007) for design and innovation as the ideal to be imposed on marginalized communities, The issue of whether or not it is most appropriate to recognize this as truly decolonial or anticolonial methodology, much to Itchuaqiyaq and Matheson's (2021) point, still seems to be unresolved. This begs the question for whether "decolonial" as a term can be understood broadly in scholarly discourse when the particular dynamics of colonialism for any given space, place, and context will vary dramatically, and thus the goals or transformative potential of decolonial work will also necessarily differ. In other words, Is it truly enough that a design anthropology methodology is seeking to recognize and affirm the value of the epistemological and embodied experiences of Indigenous peoples to be considered decolonial in nature, or does this obfuscate and potentially detract from the material calls for rematriation at the term decolonial is intended to refer to? Likewise, How do we account for a richer understanding of the goals for decolonial work and scholarship in a location where a particular kind of settler colonialism is ongoing, as is the case in places like the United States, Australia, Palestine, and so on, as compared to regions that are dealing with the ramifications of independence following colonialism, or "postcolonial" states? In the case of the former, it is more easy to identify what the stakes for rematriation would be in terms of Indigenous sovereignty over their historic terrorial lands, But for the latter, Indigenous sovereignty is complicated due to the various social, economic, and material implications of colonialism, especially in the form of ongoing resource and labor extraction on the part of national corporations, asymmetrical power relations globally, etc.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+As the author explains in the first section of the chapter, Much of the intervention that she is seeking to make is driven by scholars criticism of the perpetuation of colonial and imperialist perspectives in Anthropology. Some of these major critiques include the over determination and classification of peoples, particularly from a Western standpoint, Orientalism and othering, hierarchical evaluation and classification of peoples, and failure to materially improve the lives of marginalized peoples who are engaged with and through anthropological scholarship.
 
 ### Argument: What are the core argument(s) being made in the text?
+The major argument is that anthropology and design researchers should consider Ways to embrace a Decolonized methodology as part of research practices with marginalized communities, especially in the Global South or with Indigenous communities who continue to confront settler colonialism on their land.
 
 ### Evidence: What evidence is used to support the argument(s)?
+she primarily looks at her work with the Aboriginal Smart Art project as a case study for what A decolonized anthropology or decolonial methodology for design and innovation research looks like in practice .
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+She draws on three major strains of scholarship and theoretical perspectives to inform the seven Principles of design anthropology that she sets forth, including:
+    - Ortiz's theory of _transculturation_
+    - Indigenous and decolonial design thinking
+    - Cooperative and participatory design
 
 ## Key Terms / Concepts
+- Handmaiden of colonialism
+- Colonialism
+- Imperialism
+- Innovation
+- Modernism
+- Development
+- Discourses of development
+- Hegemony
+- Design thinking
+- Methodology
+- Social impact
+- Transculturation
+- Cultural diversity
+- Cultural hybridity
+- Commodification
+- Design anthropology
+- Cooperative design
+- Co-design
+- Participatory design
+- Critical anthropology
+- Respectful design
+- Design innovation
 
 ## Qualifying Exam Relevance
 
