@@ -17,10 +17,14 @@ Tunstall, E. D. (2013). Decolonizing design innovation: Design anthropology, cri
 
 - These critiques include the distinguishing between local design practices as "craft" in opposition to modern design, discourses of development and innovation, failure to ensure long-term community benefits from research projects, and a hierarchy that situates Western designers as the ideal
 
-- Due to these issues, she proposes a decolonial methodology for design anthropology, of which she states there will ultimately seven principles, and she offers a description of three of those principles so far:
-    - "Value systems and cultures have to be accepted as dynamic, not static. Each generation goes through the process of negotiating the elements that make up its value systems and cultures."
-    - "One needs to recognize the mutual borrowing that happens among value systems and cultures and to seek to mitigate or eliminate the unequal circumstances in which that borrowing takes place."
-    - "One must look simultaneously at what is expressed as that to be gained, lost, and created new in the recombination of value systems and cultures by a group of people."
+- Due to these issues, she proposes a decolonial methodology for design anthropology, of which she states there are seven principles:
+    1. "Value systems and cultures have to be accepted as dynamic, not static. Each generation goes through the process of negotiating the elements that make up its value systems and cultures."
+    2. "One needs to recognize the mutual borrowing that happens among value systems and cultures and to seek to mitigate or eliminate the unequal circumstances in which that borrowing takes place."
+    3. "One must look simultaneously at what is expressed as that to be gained, lost, and created new in the recombination of value systems and cultures by a group of people."
+    4. "One should seek to eliminate false distinctions between art, craft, and design in order to better recognize all culturally important forms of making as a way in which people make value systems tangible to themselves and others."
+    5. "Researchers and designers ought to create processes that enable respectful dialogue and relational interactions such that everyone is able to contribute their expertise equally to the process of designing and those contributions are properly recognized and renumerated."
+    6. "Projects should use design processes and artifacts to work with groups to shift hegemonic value systems that are detrimental to the holistic well-being of vulnerable groups, dominant groups, adn their extended environments."
+    7. "The ultimate criteria for success of any design anthropological engagements are the recognized creation of conditions of compassion among the participants in a project and in harmony with their wider environments."
 
 - She looks at the _Aboriginal Smart Are Project_ in Australia as an example of design anthropology in practice.
 
