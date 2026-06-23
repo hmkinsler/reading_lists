@@ -31,6 +31,40 @@ Shivers-McNair, A. (2021). Relational rhetorics. In *Beyond the makerspace: Maki
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Relational rhetorics
+- New materialism
+- More-than-symbolic rhetorics
+- Multimodality
+- Multimodal rhetoric
+- Multimodal literacies
+- Technosolutionism
+- Neoliberalism
+- More-than-human rhetorics
+- Materiality
+- Agency
+- Intra-action
+- Eurocentrism
+- Epistemic genealogies
+- Decolonial methodologies
+- Border thinking
+- Pluriversality
+- Decolonial
+- Anticolonial
+- Interdependence
+- Intersectionality
+- Single-axis frameworks
+- Differential mattering
+- Axiology
+- Co-constituting relations
+- Queer rhetorics
+- Rhetorical listening
+- Situated knowledge
+- Cultural rhetorics
+- Maker movement
+- Makerspace
+- Empiricism
+- Story
+- Critical making
 
 ## Qualifying Exam Relevance
 

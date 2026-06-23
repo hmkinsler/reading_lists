@@ -33,6 +33,25 @@ Shivers-McNair, A. (2021). Introduction. In *Beyond the makerspace: Making and r
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Makerspace
+- Maker culture
+- Rhetoric and writing studies
+- Cultural rhetorics
+- Feminist rhetorics
+- Material rhetorics
+- Digital rhetorics
+- Multimodal composition
+- Professional and technical communication
+- Boundary-marking
+- Prototyping
+- (De)industrialization
+- STS
+- Relationality
+- Relational rhetorics
+- Longitudinal studies
+- Ethnography
+- Spatial manipulations
+- Fieldwork
 
 ## Qualifying Exam Relevance
 
