@@ -11,6 +11,8 @@
 # Considerations for exam process
 - Ensure that there is access to voice-to-text technologies to assist with writing
 - Identify which writing software(s) or any other writing materials will be useful to include for the written exams
+- Consider whether extra time is needed to make use of accessibility tools
+- Multimodal writing? Writing by hand? Access to drafting paper and / or materials like whiteboards?
 
 # Approaches for note taking
 - Develop thematic maps to help synthesize the research you are reading-- you might develop groups by topic, theoretical / methodological approach, or historical debates unfolding in the field

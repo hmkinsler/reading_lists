@@ -73,6 +73,62 @@ Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autono
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Ontological turn
+- Pluriverse
+- Ontological violence
+- Design thinking
+- Minor theory
+- Ontological design
+- Sustainment
+- Transition design
+- Autonomous design
+- Communality
+- Elimination design
+- Conviviality
+- Futurality
+- Speculative design
+- Critical design
+- Technocentrism
+- Matters of concern
+- Vernacular design
+- Vernacular architecture
+- The Stack
+- _nomos_
+- Codesign
+- Ecological design
+- Adversarial
+- Critical Studies of Design (CDS)
+- Meta-design
+- Design anthropology
+- Anthropology of design
+- Postconstructivist social theory
+- Political ontology (PO)
+- Prototyping paradigm
+- Discourses of development
+- Sustainability
+- Digital divide
+- Ubiquitous computing
+- Development design thinking
+- Subaltern
+- Political economy (PE)
+- Political economy of design
+- Social production of nature
+- Cultural production of nature
+- Postconstructivism
+- Neomaterialism
+- New materialism
+- Dualism
+- Systems theory
+- Marxism
+- Feminist political ecology (FPE)
+- Postdualism
+- Epistemologies of the South (ES)
+- Globalization
+- Ontological struggle
+- Ancestrality
+- One-World World (oww)
+- The commons
+- Ontological occupation
 
 ## Qualifying Exam Relevance
 
