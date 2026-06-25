@@ -35,7 +35,7 @@ Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autono
 - How does Escobar respond to existing research and scholarship on participatory design and action research? What intervention is he making in that area specifically, and how does his argument in this book shape future decolonial participatory work in turn?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\escobar_2018.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
