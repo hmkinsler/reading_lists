@@ -12,7 +12,7 @@ This respository will include the plan of action, reading materials, and notes i
 | File / Folder                | Description                                                               | 
 |------------------------------|---------------------------------------------------------------------------|
 | /ai_infrastructure           | Readings and notes for my AI Infrastructure list                          | 
-| /critical_making             | Readings and notes for my Critical Making                                 | 
+| /critical_making             | Readings and notes for my Critical Making list                            | 
 | /new_materialism             | Readings and notes for my New Materialism list                            | 
 | compare_reading_lists.r      | Visualization script for citation networks                                | 
 | visualize_citation_network.r | Visualization script for citation networks                                | 
