@@ -35,7 +35,7 @@ This strand notably has some overlap with decolonial strands of participatory de
 - Relatedly, is there any sound reasons behind this collapsing? Are there more holistic frameworks that could help bring these related strands together without fully reducing the nuanced differences between decolonial, anticolonial, and postcolonial perspectives?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\winschiers-theophilus_et_al_2024.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -43,14 +43,54 @@ This strand notably has some overlap with decolonial strands of participatory de
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+- "Within the contxt of current debates over the role and position of Participatory Design in relation to decolonization discourses and movements, this chapter recovers colonial histories that have been downplayed, or even systematically erased, with the implication that important conections have been lost or overlooked in Participatory Design and nearby fields" (p. 112)
 
 ### Argument: What are the core argument(s) being made in the text?
+- "We distinguish between anticolonial, postcolonial, and decolonial approaches, as identified by Davis and Walsh (2020), and add a fourth strand of pluriversality, as represented in more recent attemps to reconcile different worlds. With that, we believe to accomodate the multiple ways researchers and practitioners are finding their critical position within Participatory Desig to represent their geographical regions, local, and indigenous communities and collaborations" (pp. 111-112)
 
 ### Evidence: What evidence is used to support the argument(s)?
+This is primarily a literature review, considering trends in postcolonial, anticolonial, and decolonial scholarship in conversation with participatory design frameworks.
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Decolonial
+- Postcolonial
+- Anticolonial
+- Participatory design
+- Eurocentrism
+- Historicity
+- Pluriverse
+- Critical pedagogy
+- Participatory action research
+- Coloniality
+- Third space
+- Cultural hybridity
+- Design for autonomy
+- Autonomous design
+- Viable System Model
+- Design livre
+- Multiculturalism
+- Universalism
+- Relativism
+- Othering
+- Allochronism
+- Coevalness
+- Design anthropology
+- Thinging
+- Postcolonial computing
+- Conviviality
+- Safe space
+- Sentipensar
+- Corazonar
+- Modernity
+- Epistemic injustice
+- Epistemologies of the South
+- Onto-epistemology
+- Co-design
+- Interdependence
+- Digital colonialism
+- Extractivism
 
 ## Qualifying Exam Relevance
 
