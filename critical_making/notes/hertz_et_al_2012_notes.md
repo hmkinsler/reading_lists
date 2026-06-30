@@ -42,7 +42,7 @@ date_created: 2026-06-23
 - In some cases, contributors may be humanities or social science researchers who employ critical making in their research and pedagogical practice, but they may also be designers, engineers, or artists working in industry or otherwise. How do the positionalities of the contributors shape their described orientation to critical making?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\hertz_et_al_2012.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
