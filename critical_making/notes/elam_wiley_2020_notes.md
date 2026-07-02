@@ -25,7 +25,7 @@ Elam, J., & Wiley, S. (2020). Subjectivation in the making: The hybrid logics of
 - How might the concept of subjectivation described in this chapter be taken up differently in the context of community based design projects, where multiple invididuals are engaging in maker processes?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](critical_making\readings\elam_wiley_2020.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
