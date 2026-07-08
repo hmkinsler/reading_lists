@@ -11,6 +11,9 @@ Kitamura, M., & Pereira, G. (2025). "A network of collaborative intelligence": T
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- This paper looks at technological ecosystems, Flock and Gabriel, As examples of algorithmic surveillance platforms, or "systems for automated data surveillance, including license plate recognition and other smart cameras" (p. 2).
+
+- The study employs mixed methods to analyze publicly available materials from both companies, field work that involved the mapping of cameras and investigation into the APIs and conferences that are promoting these platforms, and interviews of people who are working in some manner related to issues of algorithmic surveillance.
 
 ### Query: Write questions to consider as you read
 
