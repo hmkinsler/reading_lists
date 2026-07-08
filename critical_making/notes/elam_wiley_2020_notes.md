@@ -28,6 +28,7 @@ Elam, J., & Wiley, S. (2020). Subjectivation in the making: The hybrid logics of
 - [Annotations](critical_making\readings\elam_wiley_2020.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+The primary argument of the paper is that one can look to the arrangements of a makerspace to understand how the various Kinds of logic that are informing that space thus produce various kinds of subjects.
 
 ### Relate: Identify connections or links to other readings and scholarship
 
@@ -37,10 +38,42 @@ Elam, J., & Wiley, S. (2020). Subjectivation in the making: The hybrid logics of
 ### Argument: What are the core argument(s) being made in the text?
 
 ### Evidence: What evidence is used to support the argument(s)?
+Case study of a university makerspace in two contexts:
+- An annual "Make-a-thon" that Is shaped heavily by the institutional context in which it occurs and also promotes an entrepreneurial ethos in makers who are seeking to develop some kind of innovative technology, especially in competition with one another 
+- An experimental play session During which the first author of the text sought to organically make use of the various materials that are available in that same maker space 
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Scholarship on hybridity
+- Deleuze and Guattari's model of subjectivation:
+    - "Desiring-production Involves three ontogenetic syntheses; the first two of these are the connective synthesis, which brings bodies into relation; and the disjunctive synthesis, which produces inscriptions and codings as an effect of embodied encounters... subjectivation---the formation of a temporary subject positioning---is the product of a third synthesis, the conjunctive synthesis" (p. 130)
 
 ## Key Terms / Concepts
+- Maker movement
+- DIY
+- Makerspace
+- Hybrid play
+- Hybridity
+- Hybrid human-data aggregate
+- Subjectivation
+- Synthetic sybjectivation
+- Desiring-production
+- Comparative analysis
+- Connective synthesis
+- Disjunctive synthesis
+- Conjunctive synthesos
+- Sense
+- Polysemioss
+- Commodity
+- Institutional logics
+- Entrepreneurial logics
+- Creative logics
+- Techncal logics
+- Experimental logics
+- Compositional logics
+- Signification
+- Encoding
+- Deterritorialization
+- Reterritorialization
 
 ## Qualifying Exam Relevance
 
