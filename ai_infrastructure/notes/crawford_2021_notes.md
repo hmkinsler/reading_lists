@@ -11,6 +11,23 @@ Crawford, K. (2021). *The atlas of AI: Power, politics, and the planetary costs 
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- Intro:
+
+- Ch. 1:
+
+- Ch. 2:
+
+- Ch. 3:
+
+- Ch. 4:
+
+- Ch. 5:
+
+- Ch. 6:
+
+- Conclusion:
+
+- Coda:
 
 ### Query: Write questions to consider as you read
 
@@ -18,6 +35,24 @@ Crawford, K. (2021). *The atlas of AI: Power, politics, and the planetary costs 
 - [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
+
+#### Introduction
+
+#### Chapter One | "Earth"
+
+#### Chapter Two | "Labor"
+
+#### Chapter Three | "Data"
+
+#### Chapter Four | "Classification"
+
+#### Chapter Five | "Affect"
+
+#### Chapter Six | "State"
+
+#### Conclusion | "Power"
+
+#### Coda | "Space"
 
 ### Relate: Identify connections or links to other readings and scholarship
 

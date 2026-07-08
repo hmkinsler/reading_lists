@@ -19,6 +19,34 @@ Suchman, L. (2007). *Human-machine reconfigurations*. Cambridge University Press
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
+#### Introduction (2nd Edition)
+
+#### Introduction (1st Edition)
+
+#### Interactive Artifacts
+
+#### Plans
+
+#### Situated Actions
+
+#### Communicative Resources
+
+#### Case and Methods
+
+#### Human-Machine Communication
+
+#### Conclusion (1st Edition)
+
+#### Plans, Scrips, and Other Ordering Devices
+
+#### Agencies at the Interface
+
+#### Figuring the Human in AI and Robotics
+
+#### Demystifications and Reenchantments of the Humanlike Machine
+
+#### Reconfigurations
+
 ### Relate: Identify connections or links to other readings and scholarship
 
 ## Intervention, Argument, Evidence

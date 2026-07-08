@@ -11,6 +11,9 @@ Mollen, A., & Kannengießer, S. (2025). Shaping AI (more) sustainably. Socio-tec
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- In this chapter, the authors seek to propose a "_socio-technological concept of AI infrastructures_," considering the ECO sociological impacts of AI technologies, and the possibility for a more ecologically and sustainably informed social orientation to the design and development of AI infrastructure: "The underlying theoretical assumption is that AI infrastructures come into being through **social practices** that can be altered towards sustainability" (p. 208).
+
+- They survey scholarship that has sought to account for the environmental impacts of AI systems, as well as scholarship Considering the relationship between society and AI technologies, arguing that their framework seeks to bridge the gap between these two approaches 
 
 ### Query: Write questions to consider as you read
 

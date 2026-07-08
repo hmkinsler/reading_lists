@@ -19,6 +19,20 @@ Eubanks, V. (2018). *Automating inequality: How high-tech tools profile, police,
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
+#### Introduction | "Red Flags"
+
+#### Chapter One | "From Poorhouse to Database"
+
+#### Chapter Two | "Automating Eligibility in the Heartland"
+
+#### Chapter Three | "High-Tech Homelessness in the City of Angels"
+
+#### Chapter Four | "The Allegheny Algorithm"
+
+#### Chapter Five | "The Digital Poorhouse"
+
+#### Conclusion | "Dismantling the Digital Poorhouse"
+
 ### Relate: Identify connections or links to other readings and scholarship
 
 ## Intervention, Argument, Evidence
