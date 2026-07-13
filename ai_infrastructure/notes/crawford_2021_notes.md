@@ -11,28 +11,29 @@ Crawford, K. (2021). *The atlas of AI: Power, politics, and the planetary costs 
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
-- Intro:
+- Intro: This chapter starts off with Crawford describing The case of a horse being trained in the late 19th century to perform various tricks , like respond to math problems identify the days of the week, or spell out sentences or words, And she points to this as an example of popular interest in the meaning of intelligence and whether it is something that can extend to non human entities . She uses this as a launching pad for explaining that the term "artificial intelligence" is really a misnomer, Leading her to propose that AI should be viewed as an Atlas, Or an aggregate of potentially desperate parts that can be search to answer specific questions res Specific problems. She structures her book on this basis with each chapter exploring different specific aspects or components of AI systems and technologies.
 
-- Ch. 1:
+- Ch. 1: The first chapter explores the materiality of AI technologies, especially in terms of the extraction of rare earth minerals, especially from countries in the global South, considering both the geopolitical and ecological implications or consequences of this mining practice.
 
-- Ch. 2:
+- Ch. 2: The second chapter then considers the issue of human labor, including of the outsourcing of data annotation and machine learning training tasks to communities in the Global South .
 
-- Ch. 3:
+- Ch. 3: She then interrogates the data that is used to develop and train AI models, especially large scale AI models. This introduces problems both in terms of intellectual property rights or copyright disputes, but it also points to the tendency of tech corporations to make use of predatory data collection practices.
 
-- Ch. 4:
+- Ch. 4: Chapter 4 then considers how the data that is collected is sorted through or classified in ways that often perpetuate bias or false binaries, including in terms of gender, sex, race, etc.
 
-- Ch. 5:
+- Ch. 5: Building on Chapter 4, This chapter looks at a case study from Papua New Guinea involving "affect recognition," Or the use of object detection models to attempt to identify or predict a person internal emotional state on the basis of their outward facial expressions.
 
-- Ch. 6:
+- Ch. 6: She then considers how AI systems have been developed and deployed for the purposes of building and maintain national sovereignty, especially in the context of military and national security research , which are tied up in surveillance of citizens, profit driven motivations on the part of the corporations that are contracted by the DOD and other federal agencies, At least in the context of the United States, and the motivations that driving the design choices of these technologies.
 
-- Conclusion:
+- Conclusion: Her final chapter provides a synthesis of each of the aspects of AI technologies that Crawford has explored in her "atlas," a synthesis that she writes, "assess how artificial intelligence functions as a structure of power that combines infrastructure, capital, and labor. From the Uber driver being nudged to the undocumented immigrant be tracked to the public housing tenants contending with facial recognition systems in their homes, AI systems are built with the logics of capital, policing, and militarization -- and this combination further widens the existing asymmetries of power. These ways of seeing depend on the twin moves of abstraction and extraction: Abstracting where the material conditions of their making while extracting more information and resources from those least able to resist" (p. 18).
 
-- Coda:
+- Coda: Her coda reads as a pessimistic speculative critique of the teleological perspectives Of major tech CEOs who seem to be prioritizing lofty visions of interplanetary space travel while neglecting to care for the current planet that we call home.
 
 ### Query: Write questions to consider as you read
+- How does Crawford take up the Atlas metaphor over the course of her book? When she describes the idea of an atlas of AI, is she solely interested in cataloging the various layers factors or components of AI technologies and systems, or is she also alluding to the idea that AI technologies, especially those that are generative, can themselves be understood best as atlases that provide discrete bundles of information or generated texts as a function of how their models are designed?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\crawford_2021.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
