@@ -11,8 +11,16 @@ Suchman, L. (2023). Imaginaries of omniscience: Automating intelligence in the U
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- Sachman explorers the rise in investment on the part of the United States Department of Defense in to the development of AI intelligence technologies, focusing her analysis on military base scholarship discussing the Observe, Orient Decide, Act (OODA) Loop, A Model for Situational awareness. She explains that the loop is undergirded by an ontological investment in objectivity, a closed-world imaginary aspiration that is Driven by neocon ideologies that seek to further the dynamics of US imperialism and intervention on the Global Stage. 
+
+- She describes her central argument as follows:
+
+    In conclusion I argued that the aspiration of closure itself is the source of the continued destructiveness of US interventions and the associated regeneration of enmity. The commitment to close the world drives the techno solutionism offered most recently by AI. The challenge that we need a radically different conception of situational awareness, in the form of public debate and a re-envisioning of the future place of the US and the world, founded in comparable investments in creative diplomacy and a transition to demilitarization (p. 763).
 
 ### Query: Write questions to consider as you read
+- Given the connection between a closed world perspective and an ontological orientation toward objectivity, Where does the militaristic perspective on situational awareness stand in relationship to the manner in which objectivity is discussed by Haraway (1998)?
+
+- Such a man seems to allude to a drop off in DOD funding an investment for AI Technologies, which begs the question of whether or not there's any alignment between this drop off and funding and the so called "AI winter," As well as what are the motivattions Behind this funding resurgence? Does the military perspective on objectivity and insistence on situational awareness is a key skill in maintaining US force projection capabilities continue during this interim? In a similar concern, How is situational awareness through the OODA Loop mediated through the development of AI technologies in particular in ways that are distinct from other military technologies?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
