@@ -11,8 +11,12 @@ Van Der Vlist, F., Helmond, A., & Ferrari, F. (2024). Big AI: Cloud infrastructu
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- In this article, authors consider the intertwined relationship between the development of AI technology is and the proprietary cloud infrastructures that are being developed by Massive technological corporations, including Amazon, Microsoft, and Google: " This analysis underscores the intricate interdependence between AI and cloud infrastructure, emphasising the industry-specific aspects of cloud AI" (p. 1). Essentially argue that the rise in AI technology is is reliant on the massive infrastructural development that, As of now, Only tech corporations have the access to the scale of resources and labor that are necessary for Their function. They understand this infrastructual substrate on which AI relies as a technical ecosystem in stack, comprising the hardware , software, labor, space, etc. that enables cloud computing. They make use of the "technography" methodology that is frequently employed in platform and algorithm study is to provide an extensive analysis of all of the components making up the stack of this cloud infrastructure.
 
 ### Query: Write questions to consider as you read
+- What makes the technographic approach that is employed in this study unique from other mapping methodologies that seek to render visible the Agents that are entangled in AI infrastructure, Such as Actor Network Theory or the like ?
+
+- Given the proprietary nature of the infrastructures that enable AI technologies, Where do the authors make connections to scholarship on surveillance, data extraction, or the democratization of information and design for hardware and software?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
