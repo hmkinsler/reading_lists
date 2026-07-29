@@ -143,8 +143,12 @@ The cloud layer is thus distinctly logistical, facilitating the movement of thin
     - Google: "For the Google platform model for the _Cloud Polis,_ these are all based on a grand vision encompassing (at least) _information cosmopolitanism, search, advertising, physicalized information,_ and _global infrastructure_" (p. 134).
 
 ##### City Layer
+The city layer it's described in a manner that is most predominantly reminiscent of scholarship on the social production of space, or even media space (Couldry & McCarthy, 2003). He argues that the city layer is comprised of a "single, distributed urbanism" (p. 369) That stretches across the entirety of the planet , containing within it a variety of urban nodes or centers, or perhaps even urban enclaves. He especially is interested by the way that cities act both as simultaneous enclosures or enclaves and routes of passage or entry, comparing them to airports as a metaphor for how mobility and immobility can exist in a singular space at the same time, So the degree of access to freedom of movement is not equally accessible to all users. He explains that the city, as the spatial site where users encounter the stack through the interface layer, Begins to more closely mirror the social formation of what Deleuze describes as societies of control, where power becomes decentralized in its social imposition. 
+
+What I found most useful or compelling in this chapter, however, was his discussion of parametricism and the development of corporate or company towns, and the impact of both on contemporary Urban Development. Given that the earth layer is the site where the possibilities of sensing for the purpose of extraction then enables the computational work of the cloud layer and the rise of platforms with their own polities and forms of sovereignty, It seems especially compelling to me that contemporary urban planning and management is so predominantly characterized by an interest in standardization, measurement, data collection, and the use of Quantitative analysis as the justificatory logic for future planning decisions. It explains the recursive practice employed in a state's vision (Scott, 1998), and the consequences of what a state fails to see and account for.
 
 ##### Address Layer
+The address layer is described as the site where things in the world are enabled to participating in the transmission and reception of information or communication by way of their assignment to an address that is matchable to a resolver, a kind of standardized access that organizes the location data for any given thing.
 
 ##### Interface Layer
 
@@ -172,3 +176,6 @@ The cloud layer is thus distinctly logistical, facilitating the movement of thin
 ## Qualifying Exam Relevance
 
 # References
+Couldry, N., & McCarthy, A. (2003). Orientations: Mapping mediaspace. In, _Mediaspace: Place, scale and culture in a media age_ (pp. 1-18). Routledge.
+
+Scott, J. C. (1998). _Seeing like a state: How certain schemes to improve the human condition have failed._ Yale University Press.
