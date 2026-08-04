@@ -154,25 +154,153 @@ The address layer is described as the site where things in the world are enabled
 He then moves on to discuss how the interface layer serves as the site of mediation between the user and all of the other layers of the stack. It explains that interfaces are, by nature, these mediators that enable users to both affect and be affected by things in the world to which the interface serves as some sort of relay or control device. Of course, he talks about the visual nature of guys and the way that everyday users become enculturated to the use of visual interfaces, Such that the digital and physical divide becomes flattened, but he also talks about how interfaces are deployed and operated in such ways that they themselves can beget further interfaces. At one point, he makes a comment about how technology turtles all the way down, creating an aggregate or complex layered and hierarchical system of interfaces upon interfaces that then are not apparently visible or traceable to users, who then ironically deploy interfaces for the purpose of attempting to make these complex hierarchies visible through the use of data visualizations and so on. He describes multiple aspects of the infrastructure layer, and he notably places a lot of emphasis on the use of augmented reality tools as a very specific kind of interface in which users are overlaying digital and visual or symbolic information over top their perception of the immediate physical world. Here, He emphasizes that it is not only that AR enables this overlay of digital or virtual information on top of the physical, But the fact that a well designed AR interface is so naturalized that our user can feel the immediacy by which they allow the digital to affect and be affected by the world, in a very clearly ontological way.
 
 ##### User Layer
+In his discussion of the user layer, described by Bratton as "not where the rest of the layers are mastered by some sovereign consciousness; It is merely where their effects are coherently personified" (p. 253). In other words, the user layer comprises the Actors or agents That embody or enact the computational effects of the stack at large .
 
 #### Part III: The Projects
 
 ##### The Stack to Come
+He then considers the relationship between the current existing stack and the potential stack or stacks that may unfold in the future, posing the relationship between these two states of the stack as a design problem. He essentially summarizes his discussion of each layer of the stack, and the mini stacks that comprise this totality of planetary computation , considering how this totality and its constituents stack simultaneously can be reimagined or confronted through design.
 
 ##### The Black Stack
+Building on the discussion of the previous chapter, however, Bratton emphasizes that the stack that is to come is not fully visible to us, Potentially a result of our hurtling toward a post-human (as opposed to posthuman) world brought forth by anthropogenic climate change as enacted by the Stack. He argues that we have a limited sense of the pending nature of the stack to come, And we certainly see ourselves as implicated in bringing forward this future stack , but what is to ultimately come is not entirely Within our ability to fully grasp. 
 
 ### Relate: Identify connections or links to other readings and scholarship
+I found this book incredibly challenging to read . Although I found the argument incredibly interesting and compelling, and there were some really strong connections to the idea of a state vision or seeing through the vision of a state, the manner in which Bratton outlines his argument is remarkably inaccessible. I read [Ian Bogost's review](https://criticalinquiry.uchicago.edu/ian_bogost_reviews_the_stack/), and I found it aligned quite strongly with my own sense of this text.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+The primary intervention of the text seems to be focused on troubling traditional , or Westphalian as he describes it, Models for understanding geopolitics, territorial jurisdiction, and sovereignty.
 
 ### Argument: What are the core argument(s) being made in the text?
+He argues that the computational nature of the stack requires that we revisit previous geopolitical models in favor of those that account for the mobile overlapping, and complex issues of sovereignty and governance that are seen in the context of contemporary planetary computation.
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Computation
+- Governance
+- Sovereignty
+- Planetary scale computation
+- Global information systems
+- Stack
+- Stacks
+- Cosmopolitanism
+- State machine
+- Governmentality
+- Seeing like a state
+- Machine as state
+- Accidental megastructure
+- Nomos
+- Infrastructural sovereignty
+- Platform sovereignty
+- Loop topology
+- Grossraum
+- Platform
+- Interoperability
+- User surplus
+- Platform surplus
+- Stack architectures
+- Conway's law
+- Basing-and-superstructuring
+- TCP/IP
+- Plane of immanence
+- Matter
+- Moore's law
+- Framing
+- Geography
+- Geoaesthetics
+- Very long baseline interferometry (VBLI)
+- Dark matter
+- Cosmograms
+- Ouroboros
+- Shannon's law
+- Sensing
+- State of emergency
+- Surveillance
+- Cloud computing
+- Platform immanence
+- Software-defined networking
+- Cartography
+- Cloud polis
+- Symbolic interactionism
+- Social capital
+- Artificial currencies
+- Internet balkanization
+- Domain name system (DNS)
+- Virtual states
+- Robot operating system (ROS)
+- Cloud feudalism
+- Reversibility
+- Metroeconomics
+- Apparatus
+- Dispositif
+- Program
+- Transborder Immigrant Tool (TBIT)
+- Alegal
+- Megastructure
+- Company town
+- Deep address
+- Ubiquitous computing
+- Semantic web
+- Application programming interface (API)
+- Internet of Things Bill of Rights
+- Topology
+- Globally unique identifier (GUID)
+- IPv4
+- IPv6
+- Haecceity
+- Agency
+- Algorithmic logic
+- Darknets
+- Denial of service (DoS)
+- Graphical user interface (GUI)
+- Weaponized skeuomorphism
+- Tangible user interface (TUI)
+- Interfacial regime
+- Interface design
+- Assemblage line
+- Habitus
+- Augmented reality (AR)
+- New media
+- Geoscape
+- Utopia
+- Persona
+- Death of the user
+- Reverse prostheticization
+- Controlo
+- Metadata
+- Comparative planetology
+- Stack effect
+- Cultural de-acceleration
+- Placebo technoradicalism
+- Geodesign
+- Total war
+- Pure war
+- Synthetic catallaxy
+- Capitalist pricing problem
+- Inverse Pantopticon effect
+- Earth layer
+- Cloud layer
+- City layer
+- Address layer
+- Interface layer
+- User layer
+- Algorithmic governance
+- Ambient interface
+- App
+- The Black Stack
+- Camp
+- Enclave
+- Internalization
+- Externalization
+- Column
+- Exit/Entrance
+- Google Gosplab
+- Interfacial totalities
+- Nomos of the cloud
+- Westphalian state
 
 ## Qualifying Exam Relevance
 
