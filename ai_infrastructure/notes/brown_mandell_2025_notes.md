@@ -28,7 +28,7 @@ Ultimately, they call for a feminist infrastructural ecosystem, or feminist digi
 - How did the authors point to a kind of infrastructural futurity, or an intentional building of new kinds of infrastructural arrangements?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\brower_mandell_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

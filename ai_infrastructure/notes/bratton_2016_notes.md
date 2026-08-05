@@ -39,7 +39,7 @@ Bratton, B. (2016). *The stack: On software and sovereignty*. The MIT Press. htt
 - At the time that this text was written, though there was certainly an interest in the design of algorithms and artificial intelligence technologies, How do we understand the structure of the stack in terms of emerging agentic AI technologies? Would the framework require the addition of a new layer in order to understand how Agentec AI systems are shaping geopolitics , or would agentic AI systems better be conceived as platforms that themselves are comprised of the many layers that make up the stack?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\bratton_2016.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
