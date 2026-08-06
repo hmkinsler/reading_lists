@@ -21,7 +21,7 @@ Jackson, S. J. (2014). Rethinking repair. In Gillespie, T., Boczkowski, P.J., & 
 - In what ways does Jackson either directly or indirectly allude to issues of power in regards to the right to repair?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\jackson_2014.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

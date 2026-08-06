@@ -19,7 +19,7 @@ Graham, S., & Thrift, N. (2007). Out of order: Understanding repair and maintena
 - In their description of the conclusion of the article, the authors state that those who see infrastructure as banal or mundane should heed to a call to action to see the emancipatory potential of repair and maintenance . At the same time, It seems to be the case that there are different perspectives on the banality of infrastructure depending on who is providing analysis on it's affordances and limitations. Given this, how do we understand the difference between banal perspectives versus emancipatory perspectives on infrastructure based on the power of the individual(s) making that assessment?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\graham_thrift_2007.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
