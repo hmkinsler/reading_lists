@@ -42,8 +42,37 @@ Ultimately, they call for a feminist infrastructural ecosystem, or feminist digi
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Liu's "diversity stack"
+- Bratton's "The Stack"
 
 ## Key Terms / Concepts
+- Xenofeminism
+- Infrastructure
+- Diversity stack
+- Habitus
+- Critical making
+- The Stack
+- Digital Humanities (DH)
+- Technological totality
+- LAMP stack
+- Care
+- Repair
+- Critical infrastructure development
+- Minimal computing
+- Poor theory
+- Cyborg
+- Infrastructural thinking
+- Artivism
+- Intra-action
+- Interface
+- Feminist interface design
+- Feminist design thinking
+- Rhetoric of interfaces
+- Cultural analytics
+- Interoperability
+- Ethics of care
+- Infrapuncture
+- Situatedness
 
 ## Qualifying Exam Relevance
 

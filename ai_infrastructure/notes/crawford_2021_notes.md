@@ -67,6 +67,67 @@ Crawford, K. (2021). *The atlas of AI: Power, politics, and the planetary costs 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Clever Hans Effect
+- Observer-expectancy effect
+- Artificial intelligence
+- ELIZA
+- Machine learning
+- Cartesian dualism
+- Atlas
+- Extractivism
+- Conflict minerals
+- Natural language processing (NLP)
+- Data centers
+- Megamachine
+- Hybrid
+- Surveillance
+- Algorithmic assessment
+- Modulation of time
+- Appendage of the machine
+- Mechanical turk
+- Ghost work
+- Human-fueled automation
+- Fauxtomation
+- Surveillance apparatus
+- Network Time Protocol (NTP)
+- TCP/IP
+- Precision Time Protocol (PTP)
+- Master-slave
+- Distributed time protocol
+- Technological determinism
+- Infrastructure
+- Computer vision
+- Inductive inference
+- Deductive inference
+- Facial recognition
+- Benchmark
+- Biometric tracking
+- Surveillance capitalism
+- Data mining
+- Datafication
+- Biodata
+- Politics of classification
+- Epistemic machinery
+- Digital epidermalization
+- Generalization
+- Classification
+- Variance
+- Looping effect
+- Chaotic enumeration
+- Affect recognition tools
+- WISARD
+- Infrastructural warfare
+- Feedback loop
+- Signature
+- Algorithmic exceptionalism
+- Enchanted determinism
+- Tech utopianism
+- Tech dystopianism
+- Neoliberalism
+- Austerity politics
+- Epistemological violence
+- Informatics of domination
+- Tech solutionism
 
 ## Qualifying Exam Relevance
 
