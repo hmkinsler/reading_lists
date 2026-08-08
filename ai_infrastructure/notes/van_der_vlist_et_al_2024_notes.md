@@ -19,7 +19,7 @@ Van Der Vlist, F., Helmond, A., & Ferrari, F. (2024). Big AI: Cloud infrastructu
 - Given the proprietary nature of the infrastructures that enable AI technologies, Where do the authors make connections to scholarship on surveillance, data extraction, or the democratization of information and design for hardware and software?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\van_der_vlist_et_al_2024.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -35,6 +35,24 @@ Van Der Vlist, F., Helmond, A., & Ferrari, F. (2024). Big AI: Cloud infrastructu
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Big AI
+- Big Tech
+- Technography
+- Cloud platform
+- Technology stack
+- Artificial intelligence (AI)
+- Hyper-scalability
+- Platform capitalism
+- Industrialization of AI
+- Great Houses of AI
+- Critical AI studies
+- Digital platform theory
+- Algorithm studies
+- Software development kits (SDK)
+- Application programming interfaces (APIs)
+- Politics of scaling
+- Material political economy
+- Machine learning
 
 ## Qualifying Exam Relevance
 
