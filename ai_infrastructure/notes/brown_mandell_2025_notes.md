@@ -33,13 +33,27 @@ Ultimately, they call for a feminist infrastructural ecosystem, or feminist digi
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+There were some parts of the analysis in this chapter that I struggled with , Especially the manner in which the authors discuss the concept of "The Stack." Given that I just recently read Bratton (2018), It was not always clear to me as a reader whether the authors were critiquing his theoretical model or if they were responding to Alan Liu's call for a "diversity stack" in the Digital Humanities (p. 79). At one point they write, for example, "Whereas Bratton argues that the stack is not deterministic, McPherson has argued that the very basis of contemporary computer operating systems is founded on a 'lenticular' logic in the way that certain things are partitioned off from others as computers store code separate from data" (p. 86). I was not sure that I agreed with this point because the stack that Bratton describes is comprised of the many extending layers that comprise planetary scale computation. I would certainly agree with the authors that there are technologies that are embedded in the many stacks that make up _the_ Stack that are deterministic in their design , but if The Stack is an accidental megastructure as Bratton argues, then it is not predetermined in its design, especially due to its scale.
+
+For this reason, I'm a bit apprehensive about the author's use of the stack as a conceptual model to argue instead for a shift toward ecological models of computation. It could be that I do not have as firm of a grasp of the argument that is being made by Bratton (2018), especially given the extreme technicality and density of his writing, But I ultimately interpreted his theoretical framework as being one that is ecological or relational in nature .
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 
 ### Argument: What are the core argument(s) being made in the text?
+The main crux of their argument is to consider what a feminist perspective on infrastructure looks like and can offer for Digital humanities scholarship, especially due to the explicit concern of infrastructure studies with rendering otherwise overlooked issues visible, which could help to remedy some of the naturalized classifications that employed in infrastructure or surface under appreciated and undervalued forms of Labor.
+
+To summarize their argument, they conclude:
+
+    "The 'ongoing practical, critical, and generative acts of engagement that constitute contributions to feminist DH infrastructure, broadly conceived, involve rethinking binaries, making labor visible, embracing pluralism, acknowledging affective and rhetorical effects, and redistributing power. An infrastructure becomes 'feminist' by making apparent in some way through its own inclusiveness the unstated exclusions endemic to digital infrastructures. Although infrastructure building is fueled by a concern to address gender and other forms of inequity encompasses a broad range of activities and scales from the local to the transnational, from the minimal to the platform, these threads are woven, variously in response to local situations or particular concerns, through them all" (p. 92).
 
 ### Evidence: What evidence is used to support the argument(s)?
+Discussion of various issues key to a feminist infrastructure for DH:
+- Hardware
+- Software
+- Interface and access
+- Relations and intimacies
+- Standards and classifications
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 - Liu's "diversity stack"
