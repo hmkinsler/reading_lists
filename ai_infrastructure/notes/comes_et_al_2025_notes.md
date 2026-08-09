@@ -21,9 +21,10 @@ Comes, T., Bögel, M. N., & Warnier, M. (2025). Where will they settle? On the r
 - With a similar concern as to the design and functioning of the model, what is it about the model's design that makes it distinctly agentic or agent based? This is of particular concern given that a Gentech models are often consider to have a greater degree of autonomy or, as the name would imply, agency and a decision making process. Given this how do the auth explain the role of planners in monitoring and responding to the actions of the model, or in other words, where is there a human in the loop?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\comes_et_al_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+This piece did not honestly end up being the most beneficial to me for the context of my reading list in particular.
 
 ### Relate: Identify connections or links to other readings and scholarship
 
@@ -37,6 +38,8 @@ Comes, T., Bögel, M. N., & Warnier, M. (2025). Where will they settle? On the r
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Infrastructure
+- Algorithm
 
 ## Qualifying Exam Relevance
 

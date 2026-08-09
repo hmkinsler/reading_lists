@@ -18,9 +18,10 @@ Mollen, A., & Kannengießer, S. (2025). Shaping AI (more) sustainably. Socio-tec
 ### Query: Write questions to consider as you read
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\mollen_kannengießer_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+I had some really high hopes for the chapters in this book, but these readings did not ultimately end up being super helpful to me. Some of the claims that were made in this chapter, like that there has been very little attention or concern within the humanities and social sciences about the ecological or environmental consequences of AI, and generative AI in particular, did not really resonate with me . Of course, that is not to say that I don't have my own perspectives on what further directions within the humanities and social sciences could look like for better understanding the material and ecological consequences of AI and technological development or computation in general, and I see a real need for interdisciplinary work especially with the developers and engineers who are actively designing these systems or with the policy experts who are providing a guidance to officials on local, state, and federal levels who may be able to intervene in and regulate the development of AI technologies, but I ultimately felt like this chapter ended up touching on these issues on a very surface level.
 
 ### Relate: Identify connections or links to other readings and scholarship
 
@@ -34,6 +35,17 @@ Mollen, A., & Kannengießer, S. (2025). Shaping AI (more) sustainably. Socio-tec
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Machine learning
+- Generative AI
+- Training
+- Large language model (LLM)
+- Sociological practice theory
+- Automation
+- Transformer
+- Human-computer interaction
+- Infrastructure
+- Infrastructuring
+- Agency
 
 ## Qualifying Exam Relevance
 
