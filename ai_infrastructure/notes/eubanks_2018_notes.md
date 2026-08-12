@@ -48,17 +48,54 @@ Eubanks, V. (2018). *Automating inequality: How high-tech tools profile, police,
 #### Conclusion | "Dismantling the Digital Poorhouse"
 
 ### Relate: Identify connections or links to other readings and scholarship
+The main connection between this book and some of the other scholarship that I've encountered is that the automated decision making technologies and tools that Eubanks is describing are still designed in a way where they are performing predetermined goals that have been set in place by those system designers or programmers. With the development and rise of agentic AI technologies, however, as discussed by Acharya et al. (2025), Van Der Vlist et al. (2024), and Shariatpour & Behzadfar (2026), The risks associated with automated technologies and systems are only compounded by Agentic AI technologies because those technologies require less human oversight or intervention and are designed with the intention of performing tasks based on their own self directed goals. This could lead to a further entrenchment of techno solutionist logics that shift the blame away from the designers of these systems when they act in (un)intended ways onto the low income and marginalized communities that are the least likely to have their needs considered when such technologies are being developed .
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+the opening and closing chapters of the book most strongly convey the intervention that Eubanks is making, Namely that The same kind of social divisions and power asymmetries that have existed between low income and impoverished communities and their middle class or wealthy counterparts has been maintained over the course of several hundred years in the United States. More specifically, she troubles arguments or a techno solutionist logics that frame automation as the solution to issues of class inequality, instead illustrating how automated and algorithmic technology is help to perpetuate and reify class divisions, a shift in orientation toward poverty that she refers to as the "digital poorhouse."
 
 ### Argument: What are the core argument(s) being made in the text?
+Her ultimate argument then is to demonstrate how algorithms and automated technological systems perpetuate biases and discrimination against low income people, especially Black, brown, and Indigenous people of color.
 
 ### Evidence: What evidence is used to support the argument(s)?
+She takes up three different automated and algorithmic systems that have been deployed as welfare management technologies across the United States within the last 10 to 15 years, including a system for managing health benefits in the Midwest, A coordinated entry system for housing placement of unhoused people in Los Angeles, and a risk assessment tool for predicting and preventing child abuse or neglect in Pennsylvania .
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Historical analysis
+- Data governance and provenance
+- Ethnographic fieldwork
+- Critical data studies
+- Algorithmic bias
+- Algorithm studies
+- Surveillance studies
 
 ## Key Terms / Concepts
+- Algorithm
+- Automation
+- Predictive analytics
+- Digital justice
+- Information technologies
+- Big Data
+- Surveillance
+- Freedom of Information Act
+- Digital infrastructure of poverty
+- Poorhouse
+- Digital poorhouse
+- Welfare administration technology
+- High-tech homelessness
+- Performance metrics
+- Housing first
+- Community policing
+- Coordinated entry
+- Outcome variables
+- Proxies
+- Data mining
+- Validation data
+- Cultural denial
+- Poverty profiling
+- Rational discrimination
+- Cybernation
+- Policing
 
 ## Qualifying Exam Relevance
 
