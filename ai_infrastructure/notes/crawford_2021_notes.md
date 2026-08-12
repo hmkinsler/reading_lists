@@ -36,7 +36,7 @@ Crawford, K. (2021). *The atlas of AI: Power, politics, and the planetary costs 
 - [Annotations](ai_infrastructure\readings\crawford_2021.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
-
+There are honestly so many topics that are covered in this book that it doesn't feel quite right to try to pin down just one or two major connections or takeaways from this text. Instead, I think the overarching kind of concern about the social aspect of AI technology is so broadly explored that each chapter itself could be connected to any number of things whether that has to do with platform studies and the way that the technological corporations that have major stakes in AI technologies and development are themselves becoming sovereigned or their own governing forces, or issues of surveillance capitalism and the data fication of people and labor, or materialist and ecological analysis of the resources that act as the substrate for these technologies and that continue to be implicated in a global political economy of materials and resources. Ultimately, I think the title of the book speaks to Crawford's goals quite well and that she is seeking to provide an atlas or survey or otherwise referential collection of all of this seemingly disparate information that somebody could pick up and use as a launching pad for falling down any kind of rabbit hole or lengthier interrogation into any specific aspect of AI technologies , their development, Their circulation, their use, and so on and so forth.
 #### Introduction
 
 #### Chapter One | "Earth"
