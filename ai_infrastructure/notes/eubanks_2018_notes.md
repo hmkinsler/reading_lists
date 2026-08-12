@@ -29,7 +29,7 @@ Eubanks, V. (2018). *Automating inequality: How high-tech tools profile, police,
 - although the algorithmic tools and technologies that are described in this book may not always be explicitly referred to as AI, Eubanks seems to allude to them having some kind of autonomy as they are able to make decisions about eligibility That ultimately results in people not having access to given services or resources. Could this be understood in some way as a kind of protoagentic model?  What lessons do these tools then offer for thinking about the decision making potential of agentic AI technologies if they are employed in infrastructural contacts, such as welfare programs and the like?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\eubanks_2018.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
