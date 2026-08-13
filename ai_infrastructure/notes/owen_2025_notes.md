@@ -31,7 +31,6 @@ Owens, L. (2025). Ground to cloud: A gallery of AI infrastructure. **. https://g
 - Given that this text serves almost as a kind of literature review, both for scholarship that explores the infrastructure of AI generally, but also for scholarship that looks at the various specific layers that make up AI technological stacks or systems, who are the key figures that Owen draws on, and how does that help to reveal the shape of the discussion that is emerging in critical infrastructure studies in response to the Rise of AI technologies in the past 5 to 10 years?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -47,6 +46,34 @@ Owens, L. (2025). Ground to cloud: A gallery of AI infrastructure. **. https://g
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Planetary extractive machine
+- Cloud architecvture
+- Wireless communication
+- Deep time
+- Extraction
+- Graphics processing unit (GPU)
+- Application-specific integrated circuit (ASIC)
+- Field-programmable gate array (FGPA)
+- Conflict minterals
+- Cobalt
+- Coltan
+- Tin
+- Fabless-foundry model
+- Integrated circuit (IC)
+- Rare Earth element (REE)
+- Superfund sites
+- Dark fiber
+- Hyperscale data center
+- Surveillance
+- Agentic AI
+- Sattelite
+- Infrastructural authority
+- Mechanical Turks
+- Fauxtomation
+- Potemkin AI
+- Planetary labor market
+- Data labeling
+- Digital gig work
 
 ## Qualifying Exam Relevance
 

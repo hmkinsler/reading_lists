@@ -19,11 +19,12 @@ Kittler, F. (1997). There is no software. In *Literature, media, information sys
 - What provoked the intervention that Kittler seems to make in this chapter? How does this particular argument sit within the larger structure of this book overall, And why does he take up this interest that is in scholarship by media archeologists to suggest that greater attention needs to be given to the way that materials enable flows of digital information?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\kittler_1997.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+- This chapter was a _bit_ dense, so I found this [blog post from Alan Shapiro](https://www.alan-shapiro.com/beyond-sociology-and-media-studies-by-alan-n-shapiro/) helpful
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?

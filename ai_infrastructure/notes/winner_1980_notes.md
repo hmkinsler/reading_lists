@@ -21,9 +21,14 @@ Winner, L. (1980). Do artifacts have politics?. *Daedalus*, *109*(1), 121-136. h
 - Given the time in which this article was published, how can we understand winners work as an interrogation into the social construction of technology, and how have the theoretical and analytical frameworks employed by STS scholars since sought to approach the relationship between society and technology in other ways?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\winner_1980.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+- Linking the social power dynamics/forces behind technologies with the material circumstances in which they are constructed (which also has social implications)
+    - I’m thinking about Congo, for example, and issues related to lithium mining and batteries
+- Two ways an artifact can be political
+    - “First are instances in which the invention, design, or arrangement of a specific technical device or system becomes a way of settling an issue in a particular community” (p. 123)
+    - “Second are cases of what can be called inherently political technologies, man-made systems that appear to require, or to be strongly compatible with, particular kinds of political relationships” (p. 123)
 
 ### Relate: Identify connections or links to other readings and scholarship
 
