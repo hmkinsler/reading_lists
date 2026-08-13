@@ -33,11 +33,16 @@ Owens, L. (2025). Ground to cloud: A gallery of AI infrastructure. **. https://g
 ### Read: Take notes on how you answer your questions as you read
 
 ### Recite: Consider what you want to remember, and put that into your own words
+This web text is similar in some ways to Crawford's attempt to compile A reference guide or atlas for understanding AI technologies. In this case, owen is largely focused on the infrastructure is that underlie and sustain these technologies, with several explicit references to Bratton's (2016) theoretical model of the Stack. in this case, Owen is offering a model for a stack of his own, With a specific focus on how AI technologies reach the scale of planetary computation.
+
+He mentions a few specific and compelling points about the materiality of microelectronics and computing chips, Such as the increasing use of tin as opposed to lead based solder. He also includes a number of cities or sites that act as case studies for various kinds of AI infrastructure, including port cities that act as logistical connective hubs that transport computing materials , hyperscale data centers that are used to store massive amounts of digitized information, and sites of mineral and material extraction including within the Democratic Republic of Congo.
 
 ### Relate: Identify connections or links to other readings and scholarship
+there are of course clear connections here between Owen's work and the work of Benjamin Bratton and Kate Crawford , but I also saw a lot of residents with scholarship on media ecologies (Taffel, 2015) and media archeology (i.e. work from Wolfgang Ernst and Jussi Parikka.)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+The function of this website seems to be to act as a reference tool or potentially something that is pedagogically useful, as the content is not particularly dense or long, and there is heavy reliance on icons, symbols, and photographs .
 
 ### Argument: What are the core argument(s) being made in the text?
 

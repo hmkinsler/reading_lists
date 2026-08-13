@@ -28,14 +28,34 @@ Kittler, F. (1997). There is no software. In *Literature, media, information sys
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+- Response to lack of attentiveness to materiality of media and technologies, especially in context of computing
 
 ### Argument: What are the core argument(s) being made in the text?
+- Software is limited by the material constraints of the hardware it relies on, hence his rather dramatic statement that "there is no hardware"
+
+- "In principle,l this kind of descent from software to hardware, from higher to lower levels of observation, could be continued over more and more orders of magnitude. All code operations, despite such metaphorical faculties as call or return, come down to absolutely local string manipulations, that is, I'm afraid, to _signifiers of voltage differences" (p. 150).
+
+- "When meanings come down to sentences, sentences to words, and words to letters, there is no software at all. Rather, there would be no software if computer systems were not surrounded by an environment of everyday languages" (p. 150).
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Poststructuralist theory?
+- Turing
 
 ## Key Terms / Concepts
+- Intel 4400
+- Hardware
+- Software
+- Computer Aided Design (CAD)
+- Turing machine
+- Universal Turing machines
+- Church-Turing hypothesis
+- Fractal theory
+- Shannon's mathematical theory of information
+- Discretization
+- Material substrate
+- Signification
 
 ## Qualifying Exam Relevance
 

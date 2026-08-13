@@ -21,22 +21,85 @@ Taffel, S. (2015). Towards an ethical electronics? Ecologies of Congolese confli
 - Likewise, What does it mean to view media through the lens of ecology, as opposed to infrastructure? Where are there points of alignment and difference between the two?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](ai_infrastructure\readings\taffel_2015.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+I first encountered this particular article within my first semester in the CRDM program, and I remembered not enjoying it particularly much because I found it rather dense and difficult to grasp, but I'm glad that I chose to revisit it because I found that Tafel offers a really compelling explanation of what he sees the difference between Object Oriented ontology and other monist or more process based philosophies that draw on the work of Deleuze and Guattari. More specifically, He considers how Object oriented ontology , by virtue of its attempt to reject anthropocentrism, instead reifies subject/object and individualistic perspectives Due to its isolationist analytical focus on objects. 
+
+In this case, Taffel Looks at the various complex factors that drives the political and material economy of rare earth minerals in the context of their extraction from the Democratic Republic of the Congo for the purpose of microelectronic production. He explains that it is not as though a singular object such as tin, tantalum, coltan, or gold is in and of itself responsible for the violent conflict that is unfolding in the region . If this were the case, he argues, then one would expect similar dynamics to unfold in other areas where the same minerals are being extracted . Instead, by taking a media ecological approach, Taffel Explains how a more complex and dynamic system of flows, effects, and so on, have to be taken into account to better understand where these minerals are situated in relation to things around them.
 
 ### Relate: Identify connections or links to other readings and scholarship
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+Problematizing the limitations of OOO, especially in the context of analyzing electronic media objects that require ethical intervention
 
 ### Argument: What are the core argument(s) being made in the text?
 
 ### Evidence: What evidence is used to support the argument(s)?
+- Case study with limitations of the Dodd-Frank Section 1502 that attempted to regulate companies' sourcing of 3TG from the DRC
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Critique of OOO
+- New materialism
+- Posthumanism
+- Posthumanist ethics
+- Media archaeology
+- Media ecology
+- Political economy
 
 ## Key Terms / Concepts
+- (Im)materiality
+- Object oriented ontology (OOO)
+- Microelectronics
+- Virtuality
+- Cyberspace
+- Cloud computing
+- Media ecology
+- Dodd-Frank Section 1502
+- Conflict minerals
+- Coltan
+- Gold
+- Tantalum
+- Tin
+- Assemblage
+- Immaterial labor
+- Materialism
+- New materialism
+- 3TG (tungsten, tantalum, tin, and gold)
+- Silicon wafer
+- Capacitative touchscreen
+- Thermal expansion coefficiant
+- Thermal conductivity
+- Actor networy theory (ANT)
+- Complexity
+- Self-organization
+- Process philosophy
+- Flows
+- Affect
+- Entanglement
+- E-waste
+- Affordances
+- Body
+- Cyberutopia
+- Meshwork
+- Deontology
+- Consequentialism
+- Ethics
+- Posthumanism
+- Hyperobject
+- Categorical imperative
+- Signification
+- Stratification
+- Body without Organs (BwO)
+- Deterritorialization
+- Individualism
+- Social constructivism
+- Network society
+- Pharmacology
+- Technics
+- Ethical consumerism
+- Neoliberalism
 
 ## Qualifying Exam Relevance
 
