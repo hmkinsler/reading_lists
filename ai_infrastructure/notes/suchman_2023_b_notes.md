@@ -26,19 +26,73 @@ Suchman, L. (2023). Imaginaries of omniscience: Automating intelligence in the U
 - [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
+There are a few key aspects of this argument that especially stood out to me, including:
+
+	- The issue of the "closed world" imaginary that positions things as either being noise or signal, which can be distinguished from one another to allow for systematic analysis of that which is "objective" 
+
+	- The politics of what is classified as "noise" vs. "signal" 
+
+	- Technology and data are viewed from the hegemonic onto-epistemology of the closed world imaginary as non-neutral, and this is extended to the emergence of recent AI technologies
+
+	- The consequences of technosolutionism
+
+	- Asymmetries in automated military decision making, especially around the politics of who is or is not seen as a "combatant" or "civilian"
 
 ### Relate: Identify connections or links to other readings and scholarship
+There are some clear connections here to the way that Bratton (2016) discusses governance or geopolitics as it is changing in the midst of planetary scale computation. For example, Suchman highlights the investment of the US military and DoD in "machine sensing" (p. 769) in which data is being collected at increasing scales and speeds, with a motivation to push toward the aggregation of "Big Data" in the same way that is characteristic of the Earth layer of the Stack.
+
+Suchman also comments on the meaning of the term "AI" in a manner similar to her other article in _Big Data & Society_ from the same year as this one.
+
+Her discussion of data discrimination and apparatuses of distinction also mirrors the concerns conveyed by Bowker and Star (1999) about the sociopolitical nature of classification.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+Trouble objectivist, cognitivist, and behaviorist models for situational awareness that are frequently employed by the US military, especially given the material implications of these ideological views on the people who the US engages through its military operations.
 
 ### Argument: What are the core argument(s) being made in the text?
+There needs to be a shift toward understanding the _situated_ (i.e. Haraway) nature of situational awareness, especially to allow for more critical interrogation of the sociopolitical values that are encoded and designed into AI technologies.
 
 ### Evidence: What evidence is used to support the argument(s)?
+Looks at literature from various DoD and US military partnerships with private technological corporations and their framing of AI technologies, especially in comparison to the observable on-the-ground effects and impacts of US military operations. 
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Artificial intelligence
+- Technopolitical imaginary
+- Observe, Orient, Decide, Act (OODA) loop
+- Closed world imaginary
+- Situational awareness (SA)
+- National Security Commission on AI (NSCAI)
+- Joint All-Domain Command and Control (JADC2)
+- Machine Learning (ML)
+- Technosolutionism
+- Dome of technological oversight
+- Objectivist onto-epistemology
+- Behaviorist model
+- Cognitivist model
+- Human-in-the-loop (HITL)
+- Human-on-the-loop (HOTL)
+- Autonomy
+- Automation
+- Situation prototypes
+- Scripted actions
+- Machine sensing
+- Defense Innovation Advisory Board (DIB)
+- Defense Innovation Unit (DIU/X)
+- Project Maven
+- Joint Artificial Intelligence Center (JAIC)
+- International Humanitarian Law (IHL)
+- Joint Enterprise Defense Infrastructure (JEDI)
+- Big Data
+- Transparency
+- Dispositif
+- Apparatus of distinction
+- Pattern discrimination
+- Sociocultural prisms of visibility
+- Magical realism
+- Datafication
+- Fog of war 
 
 ## Qualifying Exam Relevance
 
