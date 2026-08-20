@@ -34,14 +34,32 @@ Winner, L. (1980). Do artifacts have politics?. *Daedalus*, *109*(1), 121-136. h
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+- Attempt to argue in favor of a recognition of the sociopolitical effects of technology without risking furthering discourses of technological determinism
 
 ### Argument: What are the core argument(s) being made in the text?
+- Some technologies have political consequences that are identifiable once they have been built (i.e. politics of nuclear power as opposed to solar) whereas others are explicitly political by design (i.e. mass weapons systems or the atom bomb)
+
+- Regardless of the designers' intent, technologies carry with them sociopolitical consequences, or bring about certain sociopolitical formations, once they are put into use
 
 ### Evidence: What evidence is used to support the argument(s)?
+- Robert Moses' intentional design of bridges and overpasses in NYC to be too low to accomodate buses as an intentional act in infrastructurally instituting spatial segregation
+
+- Cyrus McCormick's acquisition of automated machines in his factory in the context of him battling the skilled union members who would be replaced by these new systems
+
+- Mechanical tomato harvester leads to a loss of jobs in tomato growing due to sheer scale of harvesting work that could be completed with the machine, decreasing the necessity of human labor
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Draws on Engels especially for his discussion of authority or authoritarian organization
 
 ## Key Terms / Concepts
+- Social construction of technology
+- Cultural pluralism
+- Technological determinism
+- Social determination of technology
+- Robert Moses
+- Techne
+- Mechanization
+- Autonomy
 
 ## Qualifying Exam Relevance
 
