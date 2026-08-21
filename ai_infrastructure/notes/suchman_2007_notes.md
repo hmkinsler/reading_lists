@@ -66,7 +66,7 @@ Building on the previous chapter, explores in a speculative manner how human-mac
 - How does this distinction between plans and situated actions show up in some of Suchman's later work on closed world or objectivist imaginaries that are driving US investment in AI research, infrastructure, and technological development?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](/ai_infrastructure/readings/suchman_2007.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
