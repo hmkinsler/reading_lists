@@ -69,19 +69,197 @@ Building on the previous chapter, explores in a speculative manner how human-mac
 - [Annotations](/ai_infrastructure/readings/suchman_2007.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+More than anything, I think this piece really digs into foundational issues in sociology, especially cognitivism, and the consequences of cognitivist paradigms on how we conceive humans, nonhumans or machines, and the focus of scientific research and knowledge production.
 
 ### Relate: Identify connections or links to other readings and scholarship
+I was really surprised by the connections to linguistic research in this book. I remember being so incredibly fond of Goodwin's "Professional Vision" when I first read it in my discourse analysis class, so it was really neat to see how I read about that piece differently from a perspective in STS as opposed to from within sociolinguistics.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+- Responding to cognitivist and behaviorist perspectives that frame plans as preceding and being determinant of actions, especially as something internal to a given actor's mental state
+
+- Her second edition, especially, builds on the original 1987 of Suchman's _Plans and Situated Actions_, especially to consider the implications of her original work in the wake of technological development, growing interest in autonomous or agentic AI technologies, and the rise of posthumanist or new materialist perspectives in science and technologies studies
 
 ### Argument: What are the core argument(s) being made in the text?
+- "I take the boundaries between persons and machines to be discursively and materially enacted rather than naturally effected and to be available, for better and worse and with greater and lesser resistances, for refiguring. It is precisely because the distinction between person and machine rests on the traffic back and forth between the two terms that questions of human-machine identity and difference matter" (p. 12).
+
+- Introduces concept of _situated action_: "every course of action depends in essential ways on its material and social circumstances" (p. 70).
+
+- "Rather than build a theory of action out of a theory of plans, the aim is to investigate how people produce and find evidence for plans in the course of situated action. More generally, rather than subsume the details of action under the study of plans, plans are subsumed by the larger problem of situated action" (p. 70).
 
 ### Evidence: What evidence is used to support the argument(s)?
+- Audio-visual analysis of two novice users attempting to use the "expert help system" to complete various tasks with a Xerox print and copy machine
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Interrogates cognitivist models of human planning
+- Interrogation of speech act theory
+- Ethnomethodology
+- Conversation analysis and face-to-face communication studies
+- Lots of ties to the work of Goodwin and colleagues in understanding the situated nature of conversational interaction
+- Ends the book with a move toward understanding the complicated implications of various conceptions of human-machine relations and agency for STS
 
 ## Key Terms / Concepts
+- Human-machine configurations
+- Nonhuman agency
+- Imaginary
+- Artificial intelligence (AI)
+- Human-computer interaction (HCI)
+- Agency
+- Situated computing
+- Xerox Palo Alto Research Center (PARC)
+- Codesign
+- Planning model of human action and communication
+- Knowledge representation
+- Goals
+- Plans
+- Conversation analysis
+- Observable-reportable
+- Reflexivity
+- AI planning
+- Critical technical practice
+- Situated action
+- Realism
+- Representationalism
+- Cybernetics
+- Neobehaviorism
+- Ethnomethodology
+- Immutable mobility
+- Participatory design
+- Disconcertment
+- Ontic/epistemic imaginaries
+- Universalism
+- Relativism
+- Science of singularity
+- Mutual intelligibility
+- Strong AI
+- Weak AI
+- Interaction
+- Reactive
+- Linguistic
+- Opaque
+- Automata
+- Behaviorist
+- Scientism
+- Mentalist
+- Informavores
+- Robustness
+- SCHOLAR
+- GUS
+- Habitability
+- WEST
+- Imitation game
+- ELIZA
+- Documentary method of interpretation
+- STRIPS
+- PLANEX
+- Nets of Action Hierarchies (NOAH)
+- Procedural net
+- Plan recognition
+- Intention
+- Process theory
+- Prior intentions
+- Intentions-in-action
+- Natural language
+- Speech act theory
+- Preconditions
+- Effects
+- Frame
+- Ready-to-hand
+- Unready-to-hand
+- Social facts
+- Cultural dope
+- Social world
+- Indexical
+- Indexicality
+- Deictic expressions
+- World taken for granted
+- Typification
+- Face-to-face interaction
+- Contextualization cues
+- Adjacency pair
+- Web of inferences
+- Garden path situation
+- Configuring the user
+- Program for action
+- Script
+- Direction of fit
+- Literal description
+- Analytic objects
+- Operability tests
+- Interface
+- User model
+- Modes of ordering
+- User interface
+- Machine as text
+- Technology transfer
+- De-scription
+- Boundary objects
+- Standard operating procedures
+- Local universality
+- Computer-aided design (CAD)
+- Professional vision
+- Informating
+- Imaginaries of AI
+- smart device
+- Ubiquitous computing
+- Neural networks
+- Artificial Linguistic Internet Computer Entity (ALICE)
+- Animated interface agent
+- Situated autonomous agent
+- Matter of fact
+- Matter of concern
+- Digital naturalism
+- Modest witness
+- Wearable computing
+- Semantic web
+- Being-at-home
+- Invisible worker
+- Invisible infrastructures
+- Classification
+- Figuration
+- Materialized figuration
+- Cultural analyusis
+- Functionalist
+- Affective computing
+- Sociable machine
+- Enchantment
+- Material essentialism
+- Posthuman
+- Rhetorics of machine intelligence
+- Mimesis
+- Avocation
+- Invocation
+- Evocation
+- Cutting the network
+- System design
+- Middle Kingdom
+- Difference
+- Actor Network Theory (ANT)
+- Mangle
+- Material agency
+- Epistemic cultures
+- Reality effects
+- Topical contextures
+- Ontological choreography
+- Design in configuration
+- Materialist constructivism
+- Agential realism
+- Intra-action
+- Material-semiotic
+- Apparatuses of observation
+- Labors of division
+- Dissymmetry
+- Asymmetry
+- Hybrid
+- Cyborg
+- Quasi-object
+- Materialization
+- Rematerialization
+- Feminist robotics
+- Torque
+- Computer-Supported Cooperative Work (CSCW)
+- Haptic visuality
+- Three-dimensional intimacy
 
 ## Qualifying Exam Relevance
 
