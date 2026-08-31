@@ -11,8 +11,14 @@ Suchman, L. (2011). Practice and its overflows: Reflections on order and mess. *
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- Focus of the paper is to consider "how STS researchers make the objects of their research, considering that researchers are an integral part of the practices through which their research objects are made" (p. 21)
+
+- This suggests, then, a methodological concern arising from the historic tendency of researchers to uphold various dualisms (i.e. mind/body, nature/culture, subject/object)
+
+- Looking at ethnomethodological research that Suchman conducted with workers maintaining airline schedules, considering the analytic objects that are constructed by researchers as they seek to analyze and understand a given research object
 
 ### Query: Write questions to consider as you read
+- If Deleuze and Guattari's _A Thousand Plateaus_ is also frequently thought of as a more methodological text, where are there points of connection to Suchman's methodological concerns here? Are there analogs to her interrogation of "order" and "mess"?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
