@@ -21,9 +21,10 @@ Suchman, L. (2011). Practice and its overflows: Reflections on order and mess. *
 - If Deleuze and Guattari's _A Thousand Plateaus_ is also frequently thought of as a more methodological text, where are there points of connection to Suchman's methodological concerns here? Are there analogs to her interrogation of "order" and "mess"?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](/new_materialism/readings/suchman_2011.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
+- I put together some pretty extensive [presentation notes on this article](new_materialism\notes\Suchman_2011_memo.pdf) as part of my work for CRD 703: Communication Networks
 
 ### Relate: Identify connections or links to other readings and scholarship
 
