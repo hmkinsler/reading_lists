@@ -27,10 +27,11 @@ Suchman, L. (2011). Practice and its overflows: Reflections on order and mess. *
 - I put together some pretty extensive [presentation notes on this article](new_materialism\notes\Suchman_2011_memo.pdf) as part of my work for CRD 703: Communication Networks
 
 ### Relate: Identify connections or links to other readings and scholarship
+There are are a surprising amount of connections between this article and that from Tamboukou (2019) and Mitchell (2002), In that all three texts Are primarily focused on methodological issues or the assumptions that underpin a theoretical and analytical frameworks in the context of humanities and social sciences research. 
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
-this piece is meant to act as an ethno methodological reflection or response to the tendency of STS researchers to overlook how they are implicated not only in the findings that emerged from the various analyses they perform, but the very analytical tools that they apply are themselves objects that come out of the researchers making.
+this piece is meant to act as an ethnomethodological reflection or response to the tendency of STS researchers to overlook how they are implicated not only in the findings that emerged from the various analyses they perform, but the very analytical tools that they apply are themselves objects that come out of the researchers' making. 
 
 ### Argument: What are the core argument(s) being made in the text?
 
