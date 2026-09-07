@@ -11,6 +11,8 @@ De Landa, M. (1997). *A thousand years of nonlinear history*. Zone Books.
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+De Landa's book follows a three-part structure, tracing history from 1000 - 2000 CE from the lens of geological, biological, and linguistic flows. Given this structure and the intentional progression that he draws on from chapter to chapter to outline his major points, I likewise have organized this memo based on his three-part structure, as well as the introduction that outlines the basis for this organization and his overall reflections on viewing history from the lens of different kinds of materials. In each section, I synthesize key points from his chapters, drawing connections to my own research and the scholarship I am currently engaging both in this class and beyond. Though very accessible in its presentation, as a theoretical text that draws heavily from the work of Deleuze and Guattari, the primary aim of this memo is to understand and reflect on the possible uses of object oriented ontologies in tracing historical processes and the various actors involved in those processes.
+
 #### Introduction
 - Explains how historians like Braudel have shaped philosophical thought on history by way of their materialist analyses -- he is basically using the introduction to make an argument about the intertwining of history and philosophy and the necessity of viewing the historical processes from which a number of things emerge -- an ontology of history
     
@@ -33,6 +35,10 @@ De Landa, M. (1997). *A thousand years of nonlinear history*. Zone Books.
     - Nail (2016) *Theory of the Border* -- offers a compelling figure on the issue of bifurcation and historical solidification in urban design and the construction of various material structures (i.e. border walls, cells, etc.) in Fig I.1 on page four of the intro
 
 #### I: LAVAS AND MAGMAS
+De Landa begins his three-part investigation into multiple material histories by first tracing the circulation of geological materials in history, with a particular focus on what he describes as processes of mineralization, calcification, or other geological accumulations of various kinds. He highlights the accumulation of calcium and other minerals that give rise to the bones and skeletons of early humans, for example, as part of a historical process that thus gives way to new forms of movement that were otherwise not accessible to pre-skeletal life. He extends this type of solidifying process as akin to the accumulation of geological and mineral materials used to build structures in towns and cities, such as walls, homes, and roads. Here, the accumulation of these materials in one place again makes new kinds of movement possible, as local communities are newly able to organize themselves and their lives around a central place, as opposed to moving in the more migratory patterns that they had previously in order to find adequate food and materials.
+
+This interest in the accumulation of materials in cities, in particular, mirrors some of the disciplinary interests of the historians he cites notably including Fernand Braudel, whose research has sought to understand the historical processes by which cities developed and began to connect with each other through the development of trade routes and the emergence of a global economic network. Here, he begins to outline the role of geological materials in terms of the emergence of nations, which both contain central places (capitals) and gateways (as connections) in a larger entangled network where these city structures are situated in relation to one another. Here, he extends the central place and gateway city model to argue that central places are hierarchical, homogeneous, and thus stratified, drawing on the particular process by which a place becomes organized in a distinctly layered way as described by Deleuze and Guattari (1987). Gateway cities, in contrast, are heterogeneous, more akin to a meshwork or self contained aggregate, as they act as the meeting point between central places in the flow of goods, people, and other resources or materials. He thus ends the chapter by arguing that following the flow and circulation of geological materials in urban development, and thus exploring the contingencies of such flows as any given city takes the form of either a gateway or a central place, illustrates the necessity of nonlinear approaches to history as these models require a certain level of intensity for the flows of these materials to reach the point of accumulation and also require for flows to reflect back on themselves, either to strengthen or impede and thus redirect them.
+
 ##### **Geological History: 1000-1700 A.D.**
 - Processes of solidification that give rise to particular ways of movement and accumulation in structures (i.e. bone, building walls)
     
@@ -310,6 +316,23 @@ Honestly, after the first time of having read this, and now pushing through so m
 - [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
+#### Introduction
+De Landa's work opens with reflections on linear and nonlinear models and approaches to a variety of disciplines, whether in physics, mathematics, biology, chemistry, and makes the argument that the social sciences and humanities, and studies of history in particular, have too often focused on the development of linear theories to be applied from the top-down in explaining historical phenomena, such as the rise of cities and urban spaces. He argues that top-down models of history based around linear progress toward an optimal point depict the historical development of Western societies and their domination of oppressed societies in terms of a natural inclination toward progress and modernity, thus invisibilizing the more complex systems that give rise to European colonialism and imperialism. In other words, the primacy of linear causality in historical research erroneously frames such historical outcomes as natural.
+
+Rather than presuming that historical outcomes are natural, then, De Landa argues in favor of a “bottom-up” approach to history, one that looks at historical development on various scales in such a way that is neither solely focused on individual subjects or their collective societies. To do so, he outlines the structure of his book as an experiment in this new materialist approach to history, looking at the emergence of historical outcomes as a process of accumulation of various kinds. Divided into three major parts, he looks at geological, biological, and linguistic accumulations throughout history. Notably, he explains that his interest in non-linearity does not mean that he will take a non-chronological approach to history; instead, he divides each section into three chapters, first tracing these accumulations from years 1000-1700 CE, then reflecting on the utility of this philosophy of history, and finally picking up his analysis again in years 1700 - 2000 CE. 
+
+- My thoughts on critiques of De Landa and the view that he perhaps views material physical processes in such a way that lends itself to mobilization of Deleuze and Guattari’s philosophical work in non-ontological ways – my feeling that something like an engineering diagram has to be understood as related to, but not the same as, the abstract machine that it is informed by
+
+- Engagement with other philosophers of history (i.e. Braudel, Deleuze and Guattari)
+
+- This is really helpful for breaking into the idea of heterogeneous/homogeneous organizations and also the central place vs. gateway city theories that are often discussed in historical research, particularly regarding the development of cities, spatial relations, etc.
+
+- Thoughts on his use of scholarship from a variety of fields, including linguistics
+
+- Non-linearity as an ontology that rejects linearity and optimal theories as opposed to non-linearity as not being possible of co-existence with chronology (whatever that may mean for us in terms of historical narratives and their presentation) – this shows up nicely in the arrangement and organization of the book, seeing the “breaks” and the ontological turns within them (i.e. geologic, biologic, linguistic)
+
+
+#### 
 
 ### Relate: Identify connections or links to other readings and scholarship
 
