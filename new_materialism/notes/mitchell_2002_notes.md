@@ -34,9 +34,11 @@ Mitchell, T. (2002). Can the mosquito speak?. In *Rule of experts: Egypt, techno
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+I see a lot of clear connections here to Scott (1998)'s _Seeing like a state: How certain schemes to improve the human condition have failed._ I see this especially because Mitchell often points to moments in which the political or economic goals of a historical actor resulted in unexpected outcomes that they were not attentive to. For example, He highlights how international efforts to eradicate mosquitoes and other parasitic or destructive pests with the use of DDT unintentionally resulted in the spread of a chemical that carries with it long term effects for mammals, who store the byproducts of the pesticide that they are not able to breakdown in their fat. In other words, I see a common interest between Scott and Mitchell in pushing back against the tendency toward measurement and objectification that is so characteristic of a Western onto epistemology rooted in rationalism, positivism, logic, and empiricism, particularly as part of the technopolitical goals of a state apparatus.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+The primary concern of of this chapter is the tendency of socio historical research to isolate the objects of their research , which Mitchell feels fails to account for the more connected and relational manner in which historical events unfold.
 
 ### Argument: What are the core argument(s) being made in the text?
 "The chain is in fact more than a triangle. The connections between a war, an epidemic, and a famine depended upon connections between rivers, dams, fertilizers, food webs, and, as we will see, several additional links and interactions. What seems remarkable is the way the properties of these various elements interacted. They were not just separate historical events affecting one another at the social level. The linkages among them were hydraulic, chemical, military, political, etiological, and mechanical. No one writing about Egypt in this period describes this interaction. There are studies of military tactics, irrigation methods, Anglo-Egyptian relations, hydraulic engineering, parasites, the sugar industry, and peasants. But there are no accounts that take seriously how these elements interact. It is as if the elements are somehow incommensurable. They seem to involve very different forces, agents, elements, spatial scales, and temporalities. They shape one another, yet their heterogeneity offers a resistance to explanation.
@@ -44,10 +46,23 @@ Mitchell, T. (2002). Can the mosquito speak?. In *Rule of experts: Egypt, techno
 The resistance may have something to do with the mixing of natural and social worlds..." (p. 7).
 
 ### Evidence: What evidence is used to support the argument(s)?
+He focuses the vast majority of the chapter on tracing How the spread of mosquitoes and malaria in Egypt and beyond during the early to mid 20th century was influenced by a myriad of other factors, including war and the Rise of industrial agriculture. He offers a few sections of close analysis to more fully illustrate his point that historical narratives and accounts risk understanding the complexity of the various forces that shape the outcome of historical events, but he also suggests that many of the historical actors themselves were not aware of the full complexity of the environment in which they were operating and making a various choices that often led to unexpected outcomes .
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+Non-dualist / new materialist approaches to history
 
 ## Key Terms / Concepts
+- Relationality
+- Actor
+- Agent
+- Infrastructure
+- Social theory
+- Capitalism
+- Agency
+- Power
+- Technics
+- Techno-science
+- Techno-politics
 
 ## Qualifying Exam Relevance
 
