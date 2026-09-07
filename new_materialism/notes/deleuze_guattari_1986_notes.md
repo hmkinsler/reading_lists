@@ -11,6 +11,7 @@ Deleuze, G., & Guattari, F. (1986). *A thousand plateaus*. University of Minneso
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+I'm not even going to attempt to try and skim this text. I'm just about halfway through and it's just not going to happen.
 
 ### Query: Write questions to consider as you read
 
@@ -18,6 +19,14 @@ Deleuze, G., & Guattari, F. (1986). *A thousand plateaus*. University of Minneso
 - [Annotations]()
 
 ### Recite: Consider what you want to remember, and put that into your own words
+
+#### Rhizome
+
+#### Body without Organs
+
+#### Becoming-animal
+
+#### Geology of morals
 
 ### Relate: Identify connections or links to other readings and scholarship
 
