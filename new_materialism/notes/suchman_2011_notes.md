@@ -30,6 +30,7 @@ Suchman, L. (2011). Practice and its overflows: Reflections on order and mess. *
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+this piece is meant to act as an ethno methodological reflection or response to the tendency of STS researchers to overlook how they are implicated not only in the findings that emerged from the various analyses they perform, but the very analytical tools that they apply are themselves objects that come out of the researchers making.
 
 ### Argument: What are the core argument(s) being made in the text?
 
