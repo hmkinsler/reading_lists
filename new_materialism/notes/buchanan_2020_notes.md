@@ -19,7 +19,7 @@ To make things all the more complex, he explains that the notion of assembly has
 - How does Buchanan offer analytical requirement to the term assemblage in a way that is both responsive to and also building upon the way that the term has been used by a variety of other scholars, especially those who are represented in this reading list, such as Jane Bennett, Jasbir Puar, Manuel De Landa, Gilles Deleuze and Felix Guattari, etc.
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\buchanan_2020.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
