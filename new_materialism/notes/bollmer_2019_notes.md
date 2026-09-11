@@ -38,7 +38,7 @@ Bollmer, G. (2019). Objects and affects. In *Materialist media theory: An introd
 - Related to the earlier two questions, it seems in other words, the big picture question is whether or not we can attempt a mapping of the "ontological turn" in the humanities and social sciences, and more specifically, whether we can do this mapping in terms of how this turn took hold in STS and media studies specifically.
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\bollmer_2019.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
