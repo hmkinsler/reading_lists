@@ -27,7 +27,7 @@ Todd, Z. (2016). An Indigenous feminist's take on the ontological turn: ‘Ontol
 - Additionally, Todd focuses heavily on Latour's work, which has been notably distinguished from more explicitly new materialist scholarship. How do we make sense of the common interest in nondualist ontologies without collapsing ANT and new materialist perspectives as though they are the same, and what are the consequences of Todd's critique for both approaches?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\todd_2016.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
