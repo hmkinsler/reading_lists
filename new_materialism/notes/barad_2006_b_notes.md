@@ -11,8 +11,20 @@ Barad, K. (2006). Spacetime re(con)figurings: Naturalcultural forces and changin
 # Reading Notes
 ## SQR3
 ### Survey: Skim the text and identify main ideas
+- The chapter opens with considering different kinds of spatial or temporal models and consequences of using them to form analytical frameworks or representations of reality and phenomena in the world, especially given recent feminist scholars interest in the forces of power behind construction of these models in implications for knowledge production.
+
+- Barad Traces the development of humanists and social science understandings of space, Touching on the work of Henri Lefevre and cultural geographers , who have led a shift to recognize space as something that is experienced and embodied, as well as socially or communally constructed
+
+- Barad Seeks to apply her agent whole realism framework to analysis of space, writing that her chapter aims "to dislocate the container model of space, the spatialization of time, and the reification of matter by reconceptualizing the notions of space, time, and matter using an alternative framework that shakes loose the foundational character of notions such as location and opens up a space of agency in which the dynamic intra-play of indeterminacy and determinancy reconfigures the possibilities and impossibilities of the world's becoming such that indetermincies, contingencies, and ambiguities coexist with causality" (p. 225)
+
+When it comes to Barad's work, I find that the section titles of her chapter actually speak rather aptly to the structure of her argument:
+    --> PRODUCING WORKERS/PRODUCTING STRUCTURES: THE SHOP FLOOR AS A MATERIAL-DISCURSIVE APPARATUS OF BODILY PRODUCTION (p. 226)
+    --> TOWARD A POLITICAL ECONOMY OF APPARATUSES, OR HOW APPARATUSES WORK (p. 230)
+    --> SHIFTING GEARS/SHIFTING DYNAMICS: MANIFOLD POSSIBILITIES FOR THE TOPOLOGICAL RE(CON)FIGURINGS OF RELATIONS OF POWER (p. 236)
+    --> TOPOLOGICAL MANIFOLDS: SPATIALITY, TEMPORALITY, AND FUTURITY (p. 243)
 
 ### Query: Write questions to consider as you read
+- I mostly want to dig more into the idea of material-discursivity. What / how does this construct? How does this shape the way we would otherwise approach a discursive analysis if we are shifting away from a focus limited to language or representation?
 
 ### Read: Take notes on how you answer your questions as you read
 - [Annotations]()
