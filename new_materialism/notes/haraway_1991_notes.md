@@ -34,7 +34,7 @@ Haraway, D. (1991). A cyborg manifesto: Science, technology, and socialist-femin
 - Where and how might we situate this text within the context of the transition from second to third wave feminist writing, activism, and scholarship?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\haraway_1991.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -45,6 +45,8 @@ As I often do with readings that feel a bit more dense or new, I found a few art
     - Bayne, S. (2026). Haraway's cyborg manifesto in education: After AI. _AI & Society, 41_, 5859-5870. https://doi.org/10.1007/s00146-026-02972-4. 
 
     - ["Haraway's theory of history in The Cyborg Manifesto"](https://medium.com/cool-media/haraway-s-theory-of-history-in-the-cyborg-manifesto-9a85faa0a1e9)
+
+    - [Part I The Gendered Cyborg | Donna Haraway & Cyborg Theory](https://edspace.american.edu/cy-candy/the-gendered-cyborg/donna-haraway-cyborg-theory/)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
