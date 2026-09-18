@@ -29,7 +29,7 @@ Puar, J.K. (2012). "I would rather be a cyborg than a goddess": Becoming-interse
 - The affordances of taking a material-semiotic approach, as seems to be the case in Puar's invoking of Barad and De Landa, also calls to mind Suchman's (2011) ethnomethodological concerns. How does Puar, then, like these other scholars, trace the relationship between language and representation and materiality, embodiment, or identity? 
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\puar_2012.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
