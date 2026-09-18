@@ -42,11 +42,14 @@ Use of Darwinian theory and mapping onto social Darwinism to link Black and Indi
 - Todd (2016) offers a critique of the uptake of the "ontological turn" in the humanities and social sciences due to a lack of attention to the nondualist ontologies that are not only fundamental to many Indigenous communities and their ontoepistemological perspectives, but that have been systematically and violently surpressed. Knowing this, could a similar critique of new materialist scholarship be made in relationship to the decolonial perspectives of scholars like Wynter?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\wynter_2003.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+Some helpful related links that informed my reading a bit:
+- Alana Lentin ["A word on sociogeny and 'lived experience'"](https://www.alanalentin.net/2021/08/03/a-word-on-sociogeny-and-lived-experience/)
+
 Connection / synthesis reflection from CRD 701:
 
 The Quijano article did a nice job of framing a major issue posed by the subject/object dichotomy that underpins so many European and Western ontological frameworks. He writes:
