@@ -54,6 +54,43 @@ Bollmer, G. (2019). Objects and affects. In *Materialist media theory: An introd
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Phenomenology
+- Epoche
+- Present-at-hand
+- Ready-to-hand
+- Extensions of man
+- Intentionality
+- Orientation
+- Process of mattering
+- Correlationism
+- Object-oriented ontology (OOO)
+- Vital materialism
+- Object-oriented feminism (OOF)
+- _Objet petit a_
+- Immaterial labor
+- Feminization of labor
+- Commodity fetishism
+- Objectification
+- Speculative realism (SR)
+- Anthropocentrism
+- Idealism
+- Anti-realism
+- Simulacra
+- Reductionism
+- Fourfold causality
+- Formal cause
+- Material cause
+- Efficient cause
+- Final cause
+- Elan vital
+- Affective energetics
+- Thing-power
+- Affect
+- Aether
+- Animism
+- Anthropomorphism
+- Alterity
+- Military-industrial-entertainment-media network
 
 ## Qualifying Exam Relevance
 

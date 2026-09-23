@@ -35,6 +35,13 @@ To make things all the more complex, he explains that the notion of assembly has
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Assemblage
+- Mesh
+- Assembly
+- Order/Mess
+- Heap of fragments
+- Actor Network Theory
+- _Agencement_
 
 ## Qualifying Exam Relevance
 

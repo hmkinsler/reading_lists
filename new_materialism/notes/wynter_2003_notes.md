@@ -87,6 +87,25 @@ Furthermore, I was curious about the meaning of the “arboreal structure of int
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Colonial difference
+- Man1
+- Man2
+- Coloniality of power
+- New Poor
+- Global design
+- Modernity
+- Coloniality
+- invention of Man
+- Descriptive statement
+- Racism/Ethnicism complex
+- Race concept
+- Politics of truth
+- Coloniality of Being/Power/Truth/Freedom
+- Ontogeny
+- Sociogeny
+- Episteme
+- Politics of Being
+- Eugenics
 
 ## Qualifying Exam Relevance
 
