@@ -50,14 +50,34 @@ As I often do with readings that feel a bit more dense or new, I found a few art
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+Critique of essentialism / dualism / determinism in science and feminist scholarship
 
 ### Argument: What are the core argument(s) being made in the text?
+"To recapitulate, certain dualisms have been persistent in Western traditions; they have all been systemic to the logics and practices of domination of women, people of color, nature, workers, animals--in short, domination of all constituted as others, whose task is to mirror the self. Chief among these troubling dualisms are self/other, mind/body, culture/nature, male/female, civilized/primitive, reality/appearance, whole/part, agent/resource, maker/made, active/passive, right/wrong, truth/illusion, total/partial, God/man. The self is the One who is not dominated, who knows that by the service of the other, the other is the one who holds the future, who knows that by the experience of domination, which gives the lie to the autonomy of the self. The be One is to be autonomous, to be powerful, to be God; but to be One is to be an illusion, and so to be involved in a fialectic of apocalypse with the other. Yet to be other is to be multiple, without clear boundary, frayed, insubstantial. One is too few, but two are too many.
+
+High-tech culture challenges these dualisms in intriguing ways. It is not clear who makes and who is made in the relation between human and machine. It is not clear what is mind and what body in machines that resolve into coding practices. In so far as we know ourselves in both formal discourse (for example, biology) and in daily practice..., we find ourselves to be cyborgs, hybrids, mosaics, chimeras" (p. 325).
 
 ### Evidence: What evidence is used to support the argument(s)?
+Science fiction writing
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+Traces issues of representationalism and identity politics in contemporary feminism.
+
+Also lays out the concept of the informatics of domination to consider the risks of trying to capture people, resources, etc. through classification and oversight.
 
 ## Key Terms / Concepts
+- Cyborg
+- Biopolitics
+- Border
+- Biological-determinist ideology
+- Hybrid
+- Technological determinism
+- Textualization
+- Floating signifier
+- Affinity
+- Identity
+- Oppositional consciousness
+- Informatics of domination
 
 ## Qualifying Exam Relevance
 
