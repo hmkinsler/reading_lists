@@ -9,6 +9,7 @@ date_created: 2026-07-06
 De Landa, M. (1997). *A thousand years of nonlinear history*. Zone Books.
 
 # Reading Notes
+
 ## SQR3
 ### Survey: Skim the text and identify main ideas
 De Landa's book follows a three-part structure, tracing history from 1000 - 2000 CE from the lens of geological, biological, and linguistic flows. Given this structure and the intentional progression that he draws on from chapter to chapter to outline his major points, I likewise have organized this memo based on his three-part structure, as well as the introduction that outlines the basis for this organization and his overall reflections on viewing history from the lens of different kinds of materials. In each section, I synthesize key points from his chapters, drawing connections to my own research and the scholarship I am currently engaging both in this class and beyond. Though very accessible in its presentation, as a theoretical text that draws heavily from the work of Deleuze and Guattari, the primary aim of this memo is to understand and reflect on the possible uses of object oriented ontologies in tracing historical processes and the various actors involved in those processes.
@@ -313,7 +314,7 @@ This interest in the accumulation of materials in cities, in particular, mirrors
 Honestly, after the first time of having read this, and now pushing through so much of Deleuze and Guattari's work and new materialism or poststructuralism yet again, my only question is whether I'm getting this stuff better this time around or not?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+Since this was a print text, I just didn't scan the annotations in. My reading notes are in my physical copy of this book.
 
 ### Recite: Consider what you want to remember, and put that into your own words
 #### Introduction
@@ -330,9 +331,6 @@ Rather than presuming that historical outcomes are natural, then, De Landa argue
 - Thoughts on his use of scholarship from a variety of fields, including linguistics
 
 - Non-linearity as an ontology that rejects linearity and optimal theories as opposed to non-linearity as not being possible of co-existence with chronology (whatever that may mean for us in terms of historical narratives and their presentation) – this shows up nicely in the arrangement and organization of the book, seeing the “breaks” and the ontological turns within them (i.e. geologic, biologic, linguistic)
-
-
-#### 
 
 ### Relate: Identify connections or links to other readings and scholarship
 

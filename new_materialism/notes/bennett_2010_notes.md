@@ -29,6 +29,8 @@ Bennett, J. (2010). *Vibrant matter: A political ecology of things*. Duke Univer
 ### Read: Take notes on how you answer your questions as you read
 [Annotations](/new_materialism\readings\bennett_2010.pdf)
 
+Since this was a print text, I just didn't scan the rest of my annotations in. My reading notes are in my physical copy of this book.
+
 ### Recite: Consider what you want to remember, and put that into your own words
 
 #### Chapter One
