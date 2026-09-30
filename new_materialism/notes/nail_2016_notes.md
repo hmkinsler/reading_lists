@@ -61,12 +61,108 @@ In this part of the book, Nail applies his analysis and theorizing of the border
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 
 ### Argument: What are the core argument(s) being made in the text?
+Consequences of a border theory:
+    - "The border is in between" (p. 2)
+    - "The border is in motion" (p. 5)
+    - "The border is a process of circulation" (p. 7)
+    - "The border is not reducible to space" (p. 9)
+
+"If we want to understand the border, we should start with the border and not with societies or states, which presuppose its existence. The border has become the social condition necessary for the emergence of certain dominant social formations, not the other way around" (p. 4).
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Border
+- Informational border
+- Limology
+- Bifurcation
+- Extensive division
+- Intensive division
+- Movement
+- Circulation
+- Motion
+- Transition zones
+- Technologies of division
+- Division
+- Sovereignty
+- Spatial turn
+- Bounding
+- Bordering
+- Transcendental idealism
+- Critical limology
+- Pre-Westphalian borders
+- Post-Westphalian borders
+- Statism
+- _Kino_ --> movement
+- Primitive accumulation
+- Expulsion
+- Periodicity
+- Kinopolitics
+- Flow
+- Junction
+- Demography
+- Political geography
+- Border circuit
+- Detention circuit
+- Conjoined flow
+- Disjoined flow
+- Limit junction
+- Nonlimit junction
+- Circulation
+- Social expulsion
+- Territory
+- Mark
+- Expansion
+- Limit
+- Boundary
+- Frontier
+- Border regime
+- The fence
+- The wall
+- The cell
+- The checkpoint
+- Corral
+- Palisade
+- Megalith
+- Centripetal force
+- Centrifugal force
+- Geodesy
+- Siege tower
+- Rampart wall
+- Citadel
+- Urban Revolution
+- _polis_
+- Standardization
+- Border geodesty
+- _agrimensores_
+- Acropolis
+- Territorial limit walls (limes)
+- Timetable
+- Technologies of enclosure
+- Feudalism
+- Feudal law
+- Linkage
+- "archaic societies of the mark"
+- Penitentiary
+- "Crisis of the Seventeenth Century"
+- Treaty of Westphalia
+- Social elasticity
+- Homeostasis
+- Homeorhesis
+- Border authority
+- Checkpoint
+- Cameralism
+- Kinopticism
+- Panopticism
+- Kinography
+- Security checkpoint
+- Private property
+- Quetelet's "average man"
+- Biometry
+- Classification
+- In(fo)dividual
 
 ## Qualifying Exam Relevance
 
