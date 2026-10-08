@@ -51,7 +51,7 @@ In this part of the book, Nail applies his analysis and theorizing of the border
 - This is also one of the texts on this list that is specifically interested in new ways to approach history, Especially from a sociomaterial perspective-- where are points of alignment or tension, then, with the approach is too historical analysis taken up by Mitchell (2002) and De Landa (2002)?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations]()
+- [Annotations](new_materialism\readings\nail_2016.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -68,6 +68,8 @@ Consequences of a border theory:
     - "The border is not reducible to space" (p. 9)
 
 "If we want to understand the border, we should start with the border and not with societies or states, which presuppose its existence. The border has become the social condition necessary for the emergence of certain dominant social formations, not the other way around" (p. 4).
+
+"The twenty-first century will thus be the century of borders not simply because more techniques of social division exist today than ever before, but because the entire history of border technologies has now re-emerged and combined to form the most complex hybrid divisions civilization has ever know. Borders can no longer simply be understood as the geographical divisions between nation-states. Their form and function has become too complex, too hybrid. What we need now is a theory of the border that can make ense of this hybridity" (p. 221).
 
 ### Evidence: What evidence is used to support the argument(s)?
 
@@ -163,6 +165,18 @@ Consequences of a border theory:
 - Biometry
 - Classification
 - In(fo)dividual
+- National Terrorism Advisory System (NTAS)
+- Mnemotechnics
+- Kinotechnics
+- Treaty of Guadalupe Hidalgo
+- No More Deaths camp
+- US Border Patrol (USBP)
+- Immigrations and Customs Enforcement (ICE)
+- _Charta vista_
+- 287(g) agreements
+- Electronic monitering
+- Community policing
+- Drones
 
 ## Qualifying Exam Relevance
 
