@@ -85,6 +85,7 @@ Furthermore, I was curious about the meaning of the “arboreal structure of int
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Bateson's "descriptive statement"
 
 ## Key Terms / Concepts
 - Colonial difference

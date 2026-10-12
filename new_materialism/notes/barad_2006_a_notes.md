@@ -15,7 +15,7 @@ Barad, K. (2006). Agential realism: How material-discursive practices matter. In
 
 - She describes her perspective as an "agential realist ontology" (p. 136)
 
-- She traces the development of Neil's Bo indeterminate model of the atom , which she states requires a new ontoepistemological framework: "This account refuses the representationalist fixation on words and things and the problematic of the nature of the relationship, advocating instead _a relationality between specific material reconfigurings of the world through which boundaries, properties, and meanings are differentially enacted_ (i.e., discursive practices, in my posthumanist sense) _and specific material phenomena_ (i.e., differentiating patterns of mattering)" (p. 139).
+- She traces the development of Neil's Bo indeterminate model of the atom , which she states requires a new ontoepistemological framework: "This account refuses the representationalist fixation on words and things and the problematic of the nature of the relationship, advocating instead _a relationality between specific material reconfigurings of the world through which boundaries, properties, and meanings are differentially enacted_ (i.e., discursive practices, in my posthumanist sense) _and specific material phenomena_ (i.e., differentiating patterns of mattering). This causal relationship between the apparatuses of bodily production and the phenomena produced is one of agential intra-action" (p. 139).
 
 - It is on this basis that she proposes the concept of _intra-action_
 
@@ -44,17 +44,71 @@ Barad, K. (2006). Agential realism: How material-discursive practices matter. In
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+- Barad's view of dynamics as opposed to the perspective offered by De Landa (1997), which she mentions briefly on pg. 141
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 
 ### Argument: What are the core argument(s) being made in the text?
+"Difference cannot be taken for granted; it matters--indeed, it _is_ what matters" (p. 136).
+
+"My agential realist elaboration of apparatuses entails the following significant developments beyond Bohr's formulation: (1) apparatuses are specific material-discursive practices (they are not merely laboratory setups that embody human concepts and take measuremenets); (2) apparatuses produce differences that matter--they are boundary-making practices that are formative of matter and meaning, productive of, and part of, the phenomena produced; (3) apparatuses are material configurations/dynamic reconfiguratings of the world; (4) apparatuses are themselves phenomena (constituted and dynamically reconstituted as part of the ongoing intra-activity of the world); (5) apparatuses have no intrinsic boundaries but are open-ended practices; and (6) apparatuses are not located in the world but are material configurations or reconfigurings of the world that re(con)figure spatiality and temporality as well as (the traditional notion of) dynamics (i.e. they do not exist as static structures, nor do they merely unfold or evolve in space and time") (p. 146).
+
+"...apparatuses are _material-discursive practices--causal intra-actions through which matter is iteratively and differentially articulated, reconfiguring the material-discursive field of possibilities and impossibilities in the ongoing dynamics of intra-activity that is agency._ Apparatuses are not bounded objects or structures; they are open-ended practices. The reconfiguring of the world continues without end. Matter's dynamism is inexhaustible, exhuberant, and prolific" (p. 170).
+
+- "I argue that my ontological rendering of Bohr's notion of phenomenon is the basis for a stronger _ontological_ understanding of objectivity, indeed a posthumanist conception, in contrast to Bohr's epistemic human-based rendering" (p. 173).
 
 ### Evidence: What evidence is used to support the argument(s)?
+- She draws on Bohr's example of a stick being experienced in a subjective vs. objective way, depending on whether it is being used as a walking cane and thus an extension of the subjective body to navigate a room without sight or whether it the stick is being inspected as an object via touch: "The line between subject and object is not fixed, but once a cut is made (i.e. a particular practice is being enacted), the identification is not arbitrary but in fact materially specified and determinate for a given practice" (p. 155). I noted that this connects to some of the Heideggarian and phenomenological issues that Bollmer (2019) discusses (i.e. "ready at hand" v.s. "present at hand"). The same example comes up in the work of Maurice Merleau-Ponty.
+
+- Stern and Gerlach's space quantization experiment
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Linguistic turn
+- Semiotic turn
+- Interpretative turn
+- Cultural turn
+- Nature vs. culture divide
+- Representationalism
+- Traditional realism
+- Realism
+- Social constructivism
+- Performativity
+- Metaphysical individualism
+- Humanism
+- Poststructural theory
+- Posthuman performativity
+- Ontology
+- Materiality
+- Agency
+- Diffraction
+- Anthropocentrism
+- Agential realism
+- Posthumanism
+- Matter(ing)
+- Atomism
+- Quantum model of the atom
+- Cartesian dualism
+- Apparatus
+- Phenomenon
+- Intra-action
+- Agential cut
+- Agential separability
+- Exteriority-within-phenomena
+- Causality
+- Diffraction patterns
+- Discourse
+- Multiplicity
+- Discursive practice
+- (In)determinate
+- Empiricism
+- Mediation
+- "Being-in-the-world"
+- "Being-of-the-world"
+- Entanglement
+- Externality
 
 ## Qualifying Exam Relevance
 
