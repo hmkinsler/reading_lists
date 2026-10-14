@@ -32,17 +32,26 @@ When it comes to Barad's work, I find that the section titles of her chapter act
 ### Recite: Consider what you want to remember, and put that into your own words
 
 ### Relate: Identify connections or links to other readings and scholarship
+- Bratton (2016)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 
 ### Argument: What are the core argument(s) being made in the text?
+"In this chapter, I diffractively read Ferndandes' notion of the structural-discursive relations of power and an agential realist understanding of material-discursive relations of power through each other. This makes it possible to provide a deeper understanding of the nature of structural relations in their materiality and their relationship to discourses, and a new understanding of the dynamics of power relations. It will also suggest a need for remilling some of our most important feminist tools" (p. 226).
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 
 ## Key Terms / Concepts
+- Euclidian geometric imaginary
+- Geodesy
+- Lefebvre's production of space
+- Cultural geography
+- Bodies-in-the-making
+- Contingent spatiotemporalities
+- Politics of possibilities
 
 ## Qualifying Exam Relevance
 
