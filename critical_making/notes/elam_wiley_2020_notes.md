@@ -34,6 +34,7 @@ The primary argument of the paper is that one can look to the arrangements of a 
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+The interest of the authors here Seems to be in understanding The way that A subject emerges, Especially in terms of Their situatedness in technical contexts, Especially Given the interest of media scholars Media scholars And philosophers in understanding the relationship between Human subjects And the broader world around them in ways that do not reproduce Cartesian dualism. In order to do so, they are seeking to consider How a makerspace and all of the goals, systems and items within that space factor into the emergence of a sense of self or synthetic subjectivation.
 
 ### Argument: What are the core argument(s) being made in the text?
 
