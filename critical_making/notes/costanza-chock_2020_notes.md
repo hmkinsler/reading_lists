@@ -39,6 +39,8 @@ There are really compelling connections to Black feminist and Indigenous scholar
 ### Argument: What are the core argument(s) being made in the text?
 As an introduction to the book, much of this chapter is focused on introducing key terms and scholarship from which the larger argument of the text is based, specifically with a focus on considering how a design justice framework informs design theory and practice in a way that is resistant to dominant norms present in the matrix of domination (including white supremacist, settler-colonial logics) and instead allows for community-rooted speculative design practices that resist, subvert, refuse, or imagine otherwise in response to these systems of oppression.
 
+"Design justice is a framework for analysis of how design distributes benefits and burdens between various groups of people. Design justice focuses explicitly on the way that design reproduces and/or challenges the matrix of domination (white supremacy, heteropatriarchy, capitalism, ableism, settler colonialism, and other forms of structural inequity). Design justice is also a growing community of practice that aims to ensure a more equitable distribution of design's benefits and burdens; meaningful participation in design decisions; and recognition of community-based, Indigenous, and diasporic design traditions, knowledge, and practices" (p. 23).
+
 ### Evidence: What evidence is used to support the argument(s)?
 - Each chapter focuses on different issues that are relevant for design justice theorists and practioners, whether in terms of the values that are encoded in design, the narratives or practices shaping who is engaging in design, the sites where design work takes place, and how design justice is taught. In each case, the author draws on examples from design justice practitioners in the field, whether encountering algorithmic bias and its consequences in facial recognition technologies, or in student and teacher experiences in critical design classes.
 
@@ -78,5 +80,6 @@ The author brings up several projects that are either born out of or related to 
 - Constructionist design education theory
 
 ## Qualifying Exam Relevance
+
 
 # References

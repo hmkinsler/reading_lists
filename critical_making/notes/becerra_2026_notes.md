@@ -50,18 +50,19 @@ Becerra, T. (2026). Decolonizing methodology: Co-designing research with the voi
 - Relationality
 - Participatory Action research
 - Community based design research
-- Sentipensar
-- Axiology
+- Sentipensar (feeling-thinking)
+- Axiology --> from Bang et al. (2016, p. 28): "the theories, practices, and structures of values, ethics, and aesthetics--that is what is good, right, true, and beautiful that shape current and possible meaning, meaning-making, positioning, and relations in cultural ecologies"
 - Co Experience
 - Relational rigor
-- oídora
-- saberes locales
+- oídora (i.e. a listener as opposed as one who "gives voice to")
+- saberes locales (local literacies)
 - historias
 - Multimodal discourse analysis
-- Axio Epistemology
+- Axio-epistemology: "In this article, axio-epistemology refers to the set of values that guide people's sense-making" (p. 95)
 - Interdependence
 - Pluriverse
 
 ## Qualifying Exam Relevance
+The primary notable thing about this article Is that Becerra is essentially How Research Can be transformed from the extractive models that are Active models that are often present in academic contexts in working with local communities to One that is more reciprocal and relational and co-constructed or collaborative in nature. is is true not Just in terms of the The feedback is... The community members in regards to to her methodology, But also in terms of the way that the collaborators Acted as co-researchers in her Analysis and in reviewing her work, And so... She talks about... The community's axo-epistemology, or Epistemology, or basically the, intersection of the Axioms or underlying, first principles that shape The, epistemology of the community and how that Is a critical, kind of issue to, kind of issue to take into consideration When it comes to developing A method and analysis or framework in the or framework in the context of academic Research, and so she's essentially arguing against the Logical model in favor Of allowing the community to actively to actively guide the design Of the research project such that It aligns with their axioepistemological views. 
 
 # References

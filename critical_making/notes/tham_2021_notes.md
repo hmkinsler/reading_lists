@@ -76,6 +76,7 @@ A fair portion of the book involves ethnographic analysis of various university 
 - Constructionism
 
 ## Qualifying Exam Relevance
+One of the interesting limitations of this book Is that... Tam is is really heavily exploring issues of design thinking. And although he opens the book by saying that he's interested, saying that he's interested in connecting, design thinking to critical making, The reality is that critical making as a conceptual and as a conceptual and theoretical and methodological framework is not really figured into The actual discussion of the book, and I think that that's a potential gap that I would be interested in I think There is a little bit of tension, eh, In terms of Navigating the relationship between The process of making and then the Ultimate products and technologies that are developed, and this is something that comes Developed, and this is something that comes up in the Resch Et al. chapter about thinking as handwork is the tension. So I think That's an That's an interesting kind of gap in this particular text.
 
 # References
 Shipka, J. (2011). _Toward a composition made whole._ University of Pittsburgh Press.

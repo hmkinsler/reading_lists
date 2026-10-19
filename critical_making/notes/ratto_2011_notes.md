@@ -56,6 +56,11 @@ Draws most heavily on scholarship in STS (Latour, Haraway), social construction 
 - Constructionism
 - Heterogeneity
 - Theory-technology mapping
+- Matters of fact
+- Matters of concern
+- Caring of vs. caring for
+- Design-oriented research
+- Research-oriented design
 
 ## Qualifying Exam Relevance
 
