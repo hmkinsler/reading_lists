@@ -24,7 +24,7 @@ Ratto, M. (2011). Critical making: Conceptual and material studies in technology
 
 ### Read: Take notes on how you answer your questions as you read
 
-[Annotations](critical_making\readings\ratto_2011.pdf)
+[Annotations](../readings/ratto_2011.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 In this article, Ratto outlines critical making as an approach for bridging gaps between conceptual ideas an engagement with the materiality of technology. He offers a three step approach for engaging in this critical making work: (1) Surveying the relevant literature, theories, and approaches that might shape the design of a given prototype, (2) the process of developing that prototype, often collaboratively, and (3) critical discussion, analysis, and / or reflection on that process.

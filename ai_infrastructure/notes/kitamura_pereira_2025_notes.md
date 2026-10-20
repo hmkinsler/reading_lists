@@ -18,7 +18,7 @@ Kitamura, M., & Pereira, G. (2025). "A network of collaborative intelligence": T
 ### Query: Write questions to consider as you read
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\kitamura_pereira_2025.pdf)
+- [Annotations](../readings/kitamura_pereira_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 unfortunately, This piece is only a few pages long and is surveying a selected paper that I have not seen the full publication for yet , but once it is fully published, This is definitely a study that I would like to revisit.

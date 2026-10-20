@@ -17,7 +17,7 @@ Shivers-McNair, A. (2021). Relational rhetorics. In *Beyond the makerspace: Maki
 - n/a -- read previously, focused instead on this iteration of reading
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\shivers-mcnair_2021_b.pdf)
+- [Annotations](../readings/shivers-mcnair_2021_b.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 Although there is a lot of helpful work that is done in this chapter, there is so much weaving of different strains of scholarship that is taking place here in terms of drawing on Karen Barad's work on intra-action and new materialism and also STS or scholarship on the social construction of technology and then also cultural rhetorics, storytelling, multimodal composition, that I'm not entirely sure how I want to respond to this text. what I do think, however, is that a more fruitful reading would be possible if one were to dig more into the concept of boundaries or boundary marking, is that seems to be the missing piece for me here in understanding the intervention that Shivers McNair is trying to make.

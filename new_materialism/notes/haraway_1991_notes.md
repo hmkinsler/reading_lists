@@ -34,7 +34,7 @@ Haraway, D. (1991). A cyborg manifesto: Science, technology, and socialist-femin
 - Where and how might we situate this text within the context of the transition from second to third wave feminist writing, activism, and scholarship?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](new_materialism\readings\haraway_1991.pdf)
+- [Annotations](../readings/haraway_1991.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

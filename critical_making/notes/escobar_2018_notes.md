@@ -35,7 +35,7 @@ Escobar, A. (2018). *Designs for the pluriverse: Radical interdependence, autono
 - How does Escobar respond to existing research and scholarship on participatory design and action research? What intervention is he making in that area specifically, and how does his argument in this book shape future decolonial participatory work in turn?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\escobar_2018.pdf)
+- [Annotations](../readings/escobar_2018.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
@@ -107,7 +107,7 @@ This design framework is defined by:
 - From this inquiry, the community-designers iteratively and recursively articulate the problems and possibilities at stake as they design
 - They may build “a model of the system that generates the problem of communal concern” (p. 185)
 
-[! model for autonomous design](critical_making\images\escobar_2018_pp_188_189.png)
+[! model for autonomous design](../images/escobar_2018_pp_188_189.png)
 
 #### Conclusion
 Gonna be honest– my brain is fried at this point, he mostly lays out some remaining questions, tensions in the earlier discussion of the book, etc.

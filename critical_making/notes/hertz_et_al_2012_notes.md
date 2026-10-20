@@ -13,7 +13,7 @@ date_created: 2026-06-23
 ### Survey: Skim the text and identify main ideas
 - This is a bit of an unusual text because it is comprised of multiple zines that make up a singular book, And each of the individual zines cover different topics or aspects of critical making scholarship
 
-![Various individual zines from the _Critical making_ book project are depicted spread out on a table.](critical_making\images\critical-making--covers-800x536.jpg)
+![Various individual zines from the _Critical making_ book project are depicted spread out on a table.](../images/critical-making--covers-800x536.jpg)
 
 - The first of the zines, titled "Introduction" offers an introduction to the book project and also an introduction to critical making scholarship more generally 
 
@@ -42,7 +42,7 @@ date_created: 2026-06-23
 - In some cases, contributors may be humanities or social science researchers who employ critical making in their research and pedagogical practice, but they may also be designers, engineers, or artists working in industry or otherwise. How do the positionalities of the contributors shape their described orientation to critical making?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\hertz_et_al_2012.pdf)
+- [Annotations](../readings/hertz_et_al_2012.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 This book project, or compilation of several zines, Felt relevant less for all of the arguments or theories that are invoked throughout the text by the many contributors to this project , and much more relevant because of the Way that the text is representative of ongoing disciplinary conversations, debates, cultural and political shifts , and institutional issues facing scholars, researchers, artists, scientists, engineers, designers, business owners, and others who identify themselves in some way as part of the maker community, especially as "critical" makers.

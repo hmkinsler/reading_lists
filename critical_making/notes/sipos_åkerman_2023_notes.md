@@ -31,13 +31,13 @@ Sipos, R., & Åkerman, M. (2023). Introducing the critical making responsibility
 - How exactly are Participatory Action Research and Participatory Design Research similar or different?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations](critical_making\readings\sipos_åkerman_2023.pdf)
+[Annotations](../readings/sipos_åkerman_2023.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 - In some ways, this article feels like it is serving a distinct kind of institutional need given that the authors are reporting on early stages of work that was being done by the Critical Making consortium. as I understand it, The consortium noticed that some prior existing frameworks were not suitable for understanding innovation and making or design practices in local contexts outside of institutional spaces. for that reason, they draw on some of these prior existing frameworks to more effectively try to generate a framework that researchers and scholars can use reflexively as they evaluate their role in grassroots innovation research. The two frameworks that they merged together include The 4 RRI dimensions (Anticipation, Reflexivity, Responsiveness, and Inclusiveness), and the Grassroots Innovation Movements Framework's four dimensions (Spaces and Strategies, Pathways, Context, and Framings). By creating a matrix out of these two frameworks in combination with one another, the Critical Making Consortium developed a new framework for considering the intersections between research and grassroots innovation.
 
 Critical Making Responsibility Frmework:
-[Screenshot showing Table 1 from Sipos and Åkerman, 2023, page 662.](critical_making\images\sipos_åkerman_2023_table_1.png)
+[Screenshot showing Table 1 from Sipos and Åkerman, 2023, page 662.](../images/sipos_åkerman_2023_table_1.png)
 
 - I did questions that I personally had about the efficacy of this kind of framework for the colonial researchers. The authors do notably mention that they feel as though the development of this kind of framework and matrix is a bit too abstract and thus would be better supported by more concrete examples or tool kit for researchers to respond to, and I agree that that would help fill some of the gap that I'm sensing here. at the same time, Some of the abstract language that is employed in the critical making Responsibility Framework makes me wonder about the risks of reifying some of the technosolutionist or corporate invested and neoliberal perspectives and discourses that we already see in maker research. In one instance, the authors offer examples of where the RRI Reflexivity Dimension intersects with the GIM Spaces/Strategies Dimension:
 
@@ -80,14 +80,20 @@ Now, I certainly agree with the necessity to engage in this kind of reflective a
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 - As mentioned before, the intervention being made in this article largely seems to be institutional in nature, as the critical making consortium was specifically seeking to try to draw on affordances that they felt they'd identified in two existing frameworks that would allow for better understanding of the intersection between responsible research practices for innovation and grassroots maker and innovation practices. 
 
+"RRI as a concept is thus originally created to provide a responsibility approach for institutionalized research and refers to strategies and practices which enable researchers and a variety of stakeholders to become mutually responsibe to each other and to anticipate the societal impacts of the outcomes of research" (p. 655).
+
 ### Argument: What are the core argument(s) being made in the text?
 - Overall, The idea seems to be that this kind of framework is a good jumping off point for researcher reflexivity when either participating in or studying grassroots innovation processes and practices. 
+
+[Screenshot showing summary of the Critical Making Responsibility Framework in terms of overlap between RRI and GIM in Sipos and Åkerman, 2023.](../images/sipos_åkerman_2023_table_summary.png)
 
 ### Evidence: What evidence is used to support the argument(s)?
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 - Surveys previous research highlighting issues of technoliberalism, discourses of innovation, and technosolutionism in maker research and communities
 - Explains development of RRI and GIM frameworks and how the Critical Making Consortium draws on both respective frameworks to form their own
+
+Of great importance is that they draw on the importance of reflection and reflexivity that is offered in Ratto (2011) as the core aspect of how they approach revision of the RRI to develop the GIM.
 
 ## Key Terms / Concepts
 - Critical making

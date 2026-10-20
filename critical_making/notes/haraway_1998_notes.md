@@ -19,7 +19,7 @@ Haraway, D. (1998). Situated knowledges: The science question in feminism and th
 - How do we make sense of Haraway's call to critically interrogate both of the dichotomous responses to objectivity that she describes, especially in conversation with the non-dual ontology that underlies the posthumanist and new materialist perspective that undergirds much of her work?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\haraway_1998.pdf)
+- [Annotations](../readings/haraway_1998.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 Much of the argument in this chapter reminds me of Escobar's concern with the modernist onto-epistemological regime characterized by Rationalism, cartesianism, Objectivism, Positivism , and the like. in particular, Haraway's move away from a singular, totalizing epistemological vision of objectivity seems to take resonant with his argument that "..._it is practically impossible to demarcate a single, stable real" (Escobar, 2018, p. 87), a "real" that seems to point at "objectivity." He continues, "to be able to do so, one has to parcel out entire domains of the meshwork as inanimate; this is precisely one of the modern operations par excellence; indeed, moderns imagine the world as an inanimate surface to be _occupied_; for many relational cultures, on the contrary, humans and other beings _inhabit_ a world that is alive."

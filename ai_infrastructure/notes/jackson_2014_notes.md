@@ -21,7 +21,7 @@ Jackson, S. J. (2014). Rethinking repair. In Gillespie, T., Boczkowski, P.J., & 
 - In what ways does Jackson either directly or indirectly allude to issues of power in regards to the right to repair?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\jackson_2014.pdf)
+- [Annotations](../readings/jackson_2014.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 I think what I valued the most from this chapter was his interest in an epistemology of repair and whether the field of science and technology studies or media studies can fully account for the standpoint epistemology is those who engage in the labor of maintenance and repair . This has been an ongoing question for me my own critical making work and scholarship, as it still tends to be the case in most academic institutions that text based forms of scholarship take priority, so to make a critically made piece legible as a publication or account toward 10 year review and so on and so forth, one is required to fit the conceptual, theoretical, and conceptual work that corresponds with that piece into a textual mode.

@@ -21,7 +21,7 @@ Tiwari, A. (2025). Conceptualising the emergence of Agentic Urban AI: from autom
 - The article's abstract also alludes to shifts in urban governance resulting from the recent deployment of Agentic AI technologies in city space. Here, Where are their points of alignment or divergent from the manner in which Benjamin Bratton discusses the city layer of The Stack? In other words, how do we account for the emergence of AI technologies, and especially agentic AI, in the continual (re)development of urban space within the context of planetary scale computation?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\tiwari_2025.pdf)
+- [Annotations](../readings/tiwari_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 The author here seems interested in defining the aspects that make agentic AI technologies distinct from their earlier autonomous AI counterparts, the former of which is most characteristically defined bye the ability to independently set and manage its own goals. Tiwari acknowledges that the deployment of Agentic AI technologies in urban spaces is emergent, but he sees some of the risks associated with these technologies as severe enough to warrant anticipatory regulatory action and ethical analysis before the shift from existing "smart city" models to post-smart urbanism fully takes hold.

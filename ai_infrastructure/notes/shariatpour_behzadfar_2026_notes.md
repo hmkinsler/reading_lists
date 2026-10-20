@@ -21,7 +21,7 @@ Shariatour, F., & Behzadfar, M. (2026). Governing agentic cities: Platform cogni
 - Given that both this article and Tiwari (2025) draw on the City Brain initiative as case studies, Where are their similarities and differences in the way that both articles conceive of that initiative as necessitating new theoretical frameworks for understanding the deployment of contemporary technologies in urban space?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\shariatpour_behzadfar_2026.pdf)
+- [Annotations](../readings/shariatpour_behzadfar_2026.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

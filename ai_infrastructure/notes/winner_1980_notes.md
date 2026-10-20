@@ -21,7 +21,7 @@ Winner, L. (1980). Do artifacts have politics?. *Daedalus*, *109*(1), 121-136. h
 - Given the time in which this article was published, how can we understand winners work as an interrogation into the social construction of technology, and how have the theoretical and analytical frameworks employed by STS scholars since sought to approach the relationship between society and technology in other ways?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\winner_1980.pdf)
+- [Annotations](../readings/winner_1980.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 - Linking the social power dynamics/forces behind technologies with the material circumstances in which they are constructed (which also has social implications)

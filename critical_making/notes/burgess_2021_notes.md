@@ -27,7 +27,7 @@ Burgess, H. (2021). Machine dream anthropocene: On taking a bot to the MLA. *Con
 - What methodological lessons from this research might I draw on in thinking about the compiling of various materials and forces that make up the DIY book scanner?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\burgess_2021.pdf)
+- [Annotations](../readings/burgess_2021.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 Although this article does not explicitly cover scholarship and critical making, Burgess narration of her experience with developing and investigating the various costs associated with the Twitter bot project certainly offers a compelling model for thinking about the material and ecological consequences of maker practice. I could see this being relevant for some of the questions that I have about the materials that I'm using in the DIY book scanner, especially when it comes to things like filament waste and all the necessary byproducts that come out of 3D printing, but also I don't know what what the costs associated with the cloud platforms on which the archival materials are stored and then made publicly available are. 

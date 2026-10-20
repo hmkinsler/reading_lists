@@ -39,7 +39,7 @@ Bowker, G.C., & Star, S.L. (1999). *Sorting things out: Classification and its c
 - Is not the object of focus in this text, How does the issue of classification inform the way that we think about the development of modern AI technologies, especially in the context of a growing emergence of agentic AI tools and technologies?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](F:\vscodeprojects\reading_lists\ai_infrastructure\readings\bowker_star_1999.pdf)
+- [Annotations](../readings/bowker_star_1999.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

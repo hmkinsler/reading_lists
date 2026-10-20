@@ -51,7 +51,7 @@ In this part of the book, Nail applies his analysis and theorizing of the border
 - This is also one of the texts on this list that is specifically interested in new ways to approach history, Especially from a sociomaterial perspective-- where are points of alignment or tension, then, with the approach is too historical analysis taken up by Mitchell (2002) and De Landa (2002)?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](new_materialism\readings\nail_2016.pdf)
+- [Annotations](../readings/nail_2016.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

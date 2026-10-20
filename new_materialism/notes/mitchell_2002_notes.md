@@ -29,7 +29,7 @@ Mitchell, T. (2002). Can the mosquito speak?. In *Rule of experts: Egypt, techno
 - Since much of my research thus far has been centered on developing an archival workflow simply for the processing and digitization of historical materials, what can I adopt from this chapter in terms of extending my analysis to the actual content of the contained within historical materials pertaining to the Fourth Ward? 
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](new_materialism\readings\mitchell_2002.pdf)
+- [Annotations](../readings/mitchell_2002.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

@@ -19,7 +19,7 @@ Kittler, F. (1997). There is no software. In *Literature, media, information sys
 - What provoked the intervention that Kittler seems to make in this chapter? How does this particular argument sit within the larger structure of this book overall, And why does he take up this interest that is in scholarship by media archeologists to suggest that greater attention needs to be given to the way that materials enable flows of digital information?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\kittler_1997.pdf)
+- [Annotations](../readings/kittler_1997.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

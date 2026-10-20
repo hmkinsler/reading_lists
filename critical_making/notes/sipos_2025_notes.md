@@ -34,7 +34,7 @@ Sipos, R. (2025). In the field: Grassroots critical making. In *Critical technic
 - Itchuaqiyaq & Matheson (2021) highlight a tendency for TPC scholars to employ "decolonial" as a metaphor for work that is more aptly described as "anticolonial," given the centrality of rematriation and explicit focus on Indigenous sovereignty over land that is described by the word "decolonial." Given this, how is the notion of a decolonial perspective to design and participatory action research employed or potentially troubled in Sipos' analysis?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\sipos_2025.pdf)
+- [Annotations](../readings/sipos_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 The first portion of the chapter largely helps to lay the groundwork for explaining the timeline, theoretical focus and interests, and methods used for the author's field work in Indonesia. Here, Sipos explains how she found herself drawn to critical making largely because she felt like it reflected some of the critical making and crafting practices of grassroots communities comment especially in the Global South. She explains, however, that from her experience with attendees at hacker conferences and through mapping various maker spaces or grass roots practitioner sites throughout Indonesia , that reception and self identification with the term "critical making" varied. in some cases, practitioners prefer to think of themselves as engaging in technical practice , or hackers, or part of maker collectives, though there did still seem to be resonance with the critical making framework and ethos, especially as it has been described by Matt Ratto and Garnet Hertz.

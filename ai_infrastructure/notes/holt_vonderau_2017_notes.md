@@ -23,7 +23,7 @@ Holt, J., & Vonderau, P. (2017). "Where the Internet lives": Data centers as clo
     - How has this change in public discourse around data centers been further troubled by the development of new chip technologies that are leading to a more rapid obsolescence of the chips and storage components that are used in these data centers?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\holt_vonderau_2017.pdf)
+- [Annotations](../readings/holt_vonderau_2017.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 I think there's one paragraph from this text that encompasses the most key point I took away from the reading:

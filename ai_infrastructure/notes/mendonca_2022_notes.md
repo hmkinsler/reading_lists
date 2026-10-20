@@ -25,7 +25,7 @@ Mendonca, K. (2022). Beyond representation: Using infrastructure studies to refr
 - Given Mendonca's point that industry researchers are culpable not only in the stakes of the research practice but also in the resulting effects of the products that they develop, how might we understand those products themselves as infrastructural?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\mendonca_2022.pdf)
+- [Annotations](../readings/mendonca_2022.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

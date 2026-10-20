@@ -35,7 +35,7 @@ This strand notably has some overlap with decolonial strands of participatory de
 - Relatedly, is there any sound reasons behind this collapsing? Are there more holistic frameworks that could help bring these related strands together without fully reducing the nuanced differences between decolonial, anticolonial, and postcolonial perspectives?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\winschiers-theophilus_et_al_2024.pdf)
+- [Annotations](../readings/winschiers-theophilus_et_al_2024.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

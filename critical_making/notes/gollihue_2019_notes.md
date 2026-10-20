@@ -17,7 +17,7 @@ Gollihue, K. N. (2019). Re-making the makerspace: Body, power, and identity in c
 - n/a -- read previously, focused instead on this iteration of reading
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\gollihue_2019.pdf)
+- [Annotations](../readings/gollihue_2019.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

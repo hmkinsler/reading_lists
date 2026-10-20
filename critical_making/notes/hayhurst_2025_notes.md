@@ -21,7 +21,7 @@ Hayhurst, L. M. C. (2025). (En)tangled ethics and relational mobilities: Reflect
 - How does this article align with other decolonial participatory action Research or Participatory design research Practices? For example, What does it mean to consider a community that is the center of a study as Co researchers who have in the design of those research practices? Likewise, how are decolonial research practices defined by their focus on local epistemologies, rejection of positivism, reflexivity, and feminist ethics of care?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](critical_making\readings\hayhurst_2025.pdf)
+- [Annotations](../readings/hayhurst_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 - This was another article where I saw a lot of commonality between Hayhurst's experience working with communities as a researcher, and I especially found in her introduction and section on decolonial feminist research a really compelling model for how to right about the tensions that decolonial researchers encounter. 

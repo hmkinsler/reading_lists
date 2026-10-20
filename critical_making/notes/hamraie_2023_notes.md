@@ -23,7 +23,7 @@ Hamraie, A. (2023). Crip making. In Mills, M., & Sanchez, R. (Eds.), *Crip autho
 - In what ways does Hamraie's crip making framework continue to push forward the goals outlined in their crip technoscience manifesto?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations](critical_making\readings\hamraie_2023.pdf)
+[Annotations](../readings/hamraie_2023.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

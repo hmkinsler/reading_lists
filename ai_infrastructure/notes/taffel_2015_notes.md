@@ -21,7 +21,7 @@ Taffel, S. (2015). Towards an ethical electronics? Ecologies of Congolese confli
 - Likewise, What does it mean to view media through the lens of ecology, as opposed to infrastructure? Where are there points of alignment and difference between the two?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\taffel_2015.pdf)
+- [Annotations](../readings/taffel_2015.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 I first encountered this particular article within my first semester in the CRDM program, and I remembered not enjoying it particularly much because I found it rather dense and difficult to grasp, but I'm glad that I chose to revisit it because I found that Tafel offers a really compelling explanation of what he sees the difference between Object Oriented ontology and other monist or more process based philosophies that draw on the work of Deleuze and Guattari. More specifically, He considers how Object oriented ontology , by virtue of its attempt to reject anthropocentrism, instead reifies subject/object and individualistic perspectives Due to its isolationist analytical focus on objects. 

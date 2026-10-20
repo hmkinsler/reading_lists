@@ -19,7 +19,7 @@ Acharya, D. B., Kuppan, K., & Divya, B. (2025). Agentic AI: Autonomous intellige
 - What kinds of contexts do the authors suggest will be the most apt for deploying agentic AI technologies? Is their focus on private industry sectors, or do they also suggest the use of agentic AI in public contacts including government and education as well? 
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](ai_infrastructure\readings\acharya_et_al_2025.pdf)
+- [Annotations](../readings/acharya_et_al_2025.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 This article read more like a glossary or atlas of Agentic AI more than anything else-- it does a nice job of surveying all of the kinds of design choices that go into the development of agentic technologies, including different methodologies or paradigms for AI training and overseeing machine learning, but its attentiveness to ethical issues ground the development and deployment of AI technologies is fairly limited.

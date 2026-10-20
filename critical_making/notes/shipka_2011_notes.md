@@ -38,7 +38,7 @@ She analyzes two vignettes of working with first-year composition students to il
 - Given the pedagogical focus of this book, how can we draw on Shipka's framework for making sense of the process and multimodal engagement that is relevant for critical making scholarship? How do scholars like Shivers-McNair and Gollihue take up the argument outlined by Shipka in their work on critical making?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](/critical_making\readings\shipka_2011.pdf)
+- [Annotations](../readings/shipka_2011.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 

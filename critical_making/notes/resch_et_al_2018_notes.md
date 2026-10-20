@@ -27,7 +27,7 @@ Resch, G., Southwick, D., Record, I., & Ratto, M. (2018). Thinking as handwork: 
 - The title, "thinking as handwork," suggests an embodied-epistemological perspective to knowledge production, which calls back to Ratto's (2011) investment in the critical making framework as a model for conceptualization through direct and active engagement with materials and technologies. How does this article continue to build on, trouble, or respond to his original description of that framework?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations](critical_making\readings\resch_et_al_2018.pdf)
+[Annotations](../readings/resch_et_al_2018.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 This chapter was a bit Different than what I initially anticipated because it was much more closely Interested in the material and digital divide and the implications of how we theorize this divide, particularly for digital humanities, rather than exploring issues of embodiment, as I had initially anticipated given the interest in "handwork."

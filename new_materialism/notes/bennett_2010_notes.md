@@ -27,7 +27,7 @@ Bennett, J. (2010). *Vibrant matter: A political ecology of things*. Duke Univer
 - In what ways does Bennett make her work specifically political? What are the political implications of vitalist materialism, and how is her work informed by a critical feminist perspective?
 
 ### Read: Take notes on how you answer your questions as you read
-[Annotations](/new_materialism\readings\bennett_2010.pdf)
+[Annotations](../readings/bennett_2010.pdf)
 
 Since this was a print text, I just didn't scan the rest of my annotations in. My reading notes are in my physical copy of this book.
 

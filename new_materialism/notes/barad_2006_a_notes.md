@@ -39,7 +39,7 @@ Barad, K. (2006). Agential realism: How material-discursive practices matter. In
 - The author's interest in uh the overall shift from Classic Newtonian models for physics to quantum models Might suggest some connections to the work of philosophers of science and knowledge production. Where might there be connections to the work of Kuhn, for example?
 
 ### Read: Take notes on how you answer your questions as you read
-- [Annotations](new_materialism\readings\barad_2006_a.pdf)
+- [Annotations](../readings/barad_2006_a.pdf)
 
 ### Recite: Consider what you want to remember, and put that into your own words
 
