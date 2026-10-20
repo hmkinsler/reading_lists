@@ -31,10 +31,17 @@ The primary goal of this chapter is to develop Shivers-McNair’s relational rhe
 ### Argument: What are the core argument(s) being made in the text?
 she ties together scholarship in science and technology studies, anthropology, new materialism, and rhetoric to make the argument that a “more-than-human” rhetorics enables rhetors to better understand “not only the making of technologies and objects, but also the making and remaking of bodies and relations—and all the possibilities and pitfalls entailed” (p. 33)
 
+Expanding our understanding of rhetorc beyond written forms of communication, persuasion, and argumentation:
+
+"All these articulations expand a traditional focus in Western rhetorics on soken written words by suggesting that both the processes and the products of rhetoric can and do exceed symbolic forms" (p. 30)
+
+"In drawing attention to the ways in which rhetoric and making are more than symbolic and more than human, I have emphasized that definitions of making and rhetoric mark boundaries that include who counts as rhetors and who counts as makers. These boundaries are both the mechanism adn the product of unfolding relations" (pp. 35-36).
+
 ### Evidence: What evidence is used to support the argument(s)?
+She draws on storytelling as a method for narrative analysis and interrogation of how makers, scholars, and herself as a researcher participate in the continual relational unfolding of boundary making practice in constructing knowledge, what counts as making, and who counts as a maker. This is an approach that is especially drawn from scholarship in cultural rhetorics.
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
-See concepts list.
+Shivers-McNair's interest in relationality and boundary marking especially draws on the work of Karen Barad, especially in her explanation of Barad's intra-action (cited on pg. 37).
 
 ## Key Terms / Concepts
 - Relational rhetorics
@@ -48,7 +55,7 @@ See concepts list.
 - More-than-human rhetorics
 - Materiality
 - Agency
-- Intra-action
+- Intra-action --> "In other words, there are not _a priori_ subjects and objects that exist as stable, absolute entities outside of their engagements with and relations to each other. Instead, subjects and objects emerge--are continually marked and redefined--through their relations and intra-actions" (p. 37)
 - Eurocentrism
 - Epistemic genealogies
 - Decolonial methodologies
@@ -71,7 +78,14 @@ See concepts list.
 - Empiricism
 - Story
 - Critical making
+- More than humanist --> "I mean that I do not take the traditional Western humanist boundaries of who gets counted as 'human' for granted, particularly since some bodies are recognized as more human or less human than others" (p. 33)
 
 ## Qualifying Exam Relevance
+What is interesting and a little bit tricky about this text is that the Shivers McNair is drawing pretty heavily on the work of Karen barrage think about the relational ontology that underpins the process by which a boundaries for various dimensions of what we understand about making and rhetoric come to be made through the process of intraction.  it definitely is important not to white as deeply into a barodian ontology given that that text is placed on my new materialism list but I think that what Shivers McNair offers is some contextualization of her work and her metaphysics to explain its consequences for thinking about rhetoric and how the boundaries of who is or is not recognized as a rhetor or as a maker come to be. She placed her interest in an anti-colonial approach to understanding how a variety and ontology can be mapped on to a critical analysis of the relational nature of making and makerspaces which puts her in a conversation with Scholars on my list such as Itchuaqiyaq and Escobar. 
+
+She doesn't really nice job of drawing on Broad and a self-critical or reflexive way because she explains that bring these theoretical Traditions together is an intentional choice in order to have more of a critical awareness of her own knowledge and Theory making practices so she is bringing together multiple genealogies of scholarship in an attempt to address Some of the epistemic silences that are often present in Humanities and social sciences research.  for this reason she brings together scholarship on De Colonial and anticolonial methods, Feminist scholarship on intersectionality and the multidimensional nature of identity,  disability studies Frameworks including interdependence and care or Mutual Aid.  overall with these Frameworks are used to show is that to analyze what comes to matter and how boundaries are marked and enacted requires an understanding of the entangled and multi-dimensional or messy and layered nature of what is captured in bounding a phenomena:
+
+“My approach to relationality, rhetorics, and making seeks to account for boundary marking both in the construction of concepts, lineages, and methodologies, and in phenomena like acts of making in a makerspace. This means continually asking not only ‘What counts as making?’ and ‘Who counts as a maker?’ but also ‘What counts as knowledge?’ and ‘Who counts as a knowledge maker?’” (p. 47).
+
 
 # References

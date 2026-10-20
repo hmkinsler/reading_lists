@@ -50,6 +50,9 @@ for this reason, the authors consider how a crip perspective in conversation wit
 - There are several instances in which the authors draw on the history of disability justice activism in the United States and globally as evidence of the historical tendency of disabled people to powerfully, communally, and autonomously act to enact policies, develop technologies to meet their own needs, and reject the imposition of able bodied normative ideologies upon them. 
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
+- Disability justice frameworks (i.e. access as friction, interdependence, rejecting able-body normativities)
+
+- Feminist technoscience (i.e. modest witnessing, the non-innocence of technological production, considering the relationship between technology and knowledge production and their consequences for world-building)
 
 ## Key Terms / Concepts
 - World making
@@ -64,7 +67,7 @@ for this reason, the authors consider how a crip perspective in conversation wit
 - Hacktivism
 - Critical making
 - Tactical biopolitics
-- Modest witnessing
+- Modest witnessing --> "Simultaneously resisting systems of domination and finding ways to hack and tinker with them" (p. 1997)
 - Universal design
 - User-initiated design
 - Accessibility
@@ -73,5 +76,17 @@ for this reason, the authors consider how a crip perspective in conversation wit
 - Disability justice
 
 ## Qualifying Exam Relevance
+This text can be useful for thinking about myself as a maker as I am a disabled scholar but also I think what is even more important is the way that this manifests are really highlights several dimensions of technoscientific practice that are accountable to communities and their knowledge making practices and the like.  this is a good example of how accessibility measures or disability Justice often benefits communities as a whole especially given that definitions of disability are complex and are often unstable and are an act of boundary marking in their own right and so a lot of the lessons from hamry's work are useful in thinking about the collaborative and interdependent and often frictional nature of the work that I do with the fourth ward community.
+
+For example if we were to map the four tenets of a cryptekno science onto the fourth ward project as a whole, the commitments would include:
+
+- An explicit recognition that Fourth Ward residents are makers and knowers in their own right and that they are active participants who are shaping the production of knowledge about their own communities history and needs and they are engaging an active World building measures to shape the future of their community
+
+- Fourth Ward residents are advocating and organizing for access to historical materials and a stake in the future development of the neighborhood through friction including with developers and city planners and local officials and their Associated institutional values and logics
+
+- The fourth ward project requires an explicit valuing of interdependence as a relational technology that is necessary for World building and working together in community to ensure shared access to resources and materials the sharing of skills and knowledge and the building of Connections in order to create the kind of organized Coalition that is able to resist The imposition of top down and narratives and decision making in the context of an asymmetrical power relation between everyday residents from a historically marginalized and minoritized community and the institutions that often control and shape local land use and planning decisions
+
+- And the fourth ward project is one that is implicitly and explicitly rooted in the development of more Equitable outcomes and worlds for Raleigh residents and this includes an interest in disability Justice particularly in understanding that resonance are whole and complete people who are not in need of fixing or correction but instead should be recognized as active knowers with their own cultural histories and social contacts that they carry with them and who are valued outside of the restrictive Logics of value in a capitalist productive system
+
 
 # References

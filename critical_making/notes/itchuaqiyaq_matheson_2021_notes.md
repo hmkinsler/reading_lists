@@ -37,10 +37,18 @@ One of the issues that the authors brought up that stood out to me was there ref
 The major goal of this article is for the authors to respond to what they see as a trend in technical and professional communication scholarship of employing the use of the term "decolonial" in contexts where it may obfuscate the action-oriented, material goals of decolonial efforts.
 
 ### Argument: What are the core argument(s) being made in the text?
- The primary argument that the authors make is that scholars in technical and professional communication should be careful to ensure that when they describe their methodologies or research practices as decolonial, that that means they are specifically focusing on working toward the goals of rematriation and Indigenous sovereignty. Otherwise, if their focus is on the challenging of colonial norms, ideologies, discourses, and epistemologies, then that scholarship would be more appropriately described as anticolonial.
+The primary argument that the authors make is that scholars in technical and professional communication should be careful to ensure that when they describe their methodologies or research practices as decolonial, that that means they are specifically focusing on working toward the goals of rematriation and Indigenous sovereignty. Otherwise, if their focus is on the challenging of colonial norms, ideologies, discourses, and epistemologies, then that scholarship would be more appropriately described as anticolonial.
+
+"Scholars doing work that concerns social, racial, and other kinds of restorative justice should the select theoretical frames that more accurately represent their work adn that do not appropriate ideas of decolonization as a metaphor for purpsoes that do not serve the framework's intention toward Indigenous rematriation" (p. 303).
+
+They make a really interesting point that the inclusion of an Indigenous scholar in the research is not sufficient for rendering this project "decolonial" and that to suggest such is itself an act of tokenization (p. 305).
+
+"Through our whole process, we struggled with our desire to do this complex work without doing harm adn the realization that we didn't know how. We had to unsettle what we learned in our academic training and the results felt messy. Decolonial methods are not meant to be flexible to bend to settler-academic will" (p. 307).
 
 ### Evidence: What evidence is used to support the argument(s)?
-Many of the insights from the authors emerged from an experiential narrative analysis that recount their reflections and critical engagement with the meaning of decolonial research as they participated in urban foraging together. They highlight their exploration of Indigenous epistemologies in tension with Western settler-colonial hegemonic perspectives on plants and natural environments, especially in discrepencies between their own perspectives on the plants they encountered, the way they were described in a plant identification app that one of the researchers had paid access for, and a plant identification guide book that they brought along with them.
+Many of the insights from the authors emerged from an experiential narrative analysis that recount their reflections and critical engagement with the meaning of decolonial research as they participated in urban foraging together. They highlight their exploration of Indigenous epistemologies in tension with Western settler-colonial hegemonic perspectives on plants and natural environments, especially in discrepencies between their own perspectives on the plants they encountered, the way they were described in a plant identification app that one of the researchers had paid access for, and a plant identification guide book that they brought along with them:
+
+"Although technology can provide a vital and convenient means to learning substistence skills, technological tools also present complex ethical and theoretical issues that may also undermine decolonial efforts by imposing a colonial ethos onto the user" (p. 304).
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 The authors draw heavily on Tuck and Yang (2012)'s warning against the use of the term "decolonial" in contexts that are not explicitly geared toward its goals for rematriation, the undoing of settler-colonialism, and Indigenous sovereignty and world-building:
@@ -48,10 +56,10 @@ The authors draw heavily on Tuck and Yang (2012)'s warning against the use of th
     - "Within settler colonialism, the most important concern is land/water/air/subterranean earth (land, for shorthand, in this article.) What is most valuable, contested, required. This is both because the settlers make Indigenous land their new home and source of capital, and also because the disruption of Indigenous relationships to land represents a profound epistemic, ontological, cosmological violence. This violence is not temporarily contained in the arrival of the settler but is reasserted each day of occupation" (Tuck & Yang, 2012, p.5)
 
 ## Key Terms / Concepts
-- Decolonial
+- Decolonial --> "'[d]ecolonization is accountable to Indigenous sovereighty and futurity" and "cannot be supplanted by definitions that simply use decolonization as a metaphor for using Indigenous knowledges or traditions to improve systems or ideas'" (Tuck and Yang, 2012, p. 35, as cited on pg. 300)
 - Foodways
 - Techne
-- Anticolonial
+- Anticolonial --> "anticolonial theory 'works with the ideas that all knowledge must purposively serve to challenge colonial imposition'" (Simmon & Dei, 2012, p. 74, as cited on p. 302)
 - Rematriation
 - Indigenous sovereignty
 - Experiental narrative
@@ -60,7 +68,7 @@ The authors draw heavily on Tuck and Yang (2012)'s warning against the use of th
 - Indigenous futurity
 - Epistemic injustice
 - Indigenous epistemologies
-- Settler-colonialism
+- Settler-colonialism --> Specific conflict in sovereingty or stewardship of land
 
 ## Qualifying Exam Relevance
 

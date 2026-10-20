@@ -31,6 +31,7 @@ Elam, J., & Wiley, S. (2020). Subjectivation in the making: The hybrid logics of
 The primary argument of the paper is that one can look to the arrangements of a makerspace to understand how the various Kinds of logic that are informing that space thus produce various kinds of subjects.
 
 ### Relate: Identify connections or links to other readings and scholarship
+I put it the reading in this section of the list section because I was interested in the tensions between institutional logics and experimentation or play. And I think this is part of the problem of decolonial scholarly approaches to design and making as well, is how to operate within or to respond to. Institutions and the kinds of hierarchies and models for productivity and research that they impose on researchers and academics and the communities that they work with. Uh, and how to do so, though, without reifying those institutional logics and instead working from the needs of the community and their local axio epistemologies, to use Becerra's term. Or to allow for a more pluriversal understanding of what design can look like in terms of Escobar's terminology.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
@@ -42,6 +43,10 @@ The interest of the authors here Seems to be in understanding The way that A sub
 Case study of a university makerspace in two contexts:
 - An annual "Make-a-thon" that Is shaped heavily by the institutional context in which it occurs and also promotes an entrepreneurial ethos in makers who are seeking to develop some kind of innovative technology, especially in competition with one another 
 - An experimental play session During which the first author of the text sought to organically make use of the various materials that are available in that same maker space 
+
+- In terms of sensation, there is a difference in the makeathon case in which students are really focused on the successful development of their prototype. So they are focused on attempting to achieve some type of a goal. Which means that they are oriented more closely to the specific institutional logics that have to do with productivity and innovation and orienting themselves toward completing the goal of the makeathon, whereas in terms of the experimental play session in the second case study, there is a
+
+- There is a move toward open experimentation and play in terms of sensation. And so when uh, Elam is looking to translate her pulse into the values on the IDE serial monitor, there is a connection, a, a, an affective connection that is formed between her body and the Technical system that she is connected to via these sensors. And as she is considering how she is creating or triggering the MP3s based on the range of values of her pulse, there is again this kind of interest in affective connection between her embodied experience. And the values and responses of the sensor and the monitor, and the way that the program has been written. And this is more so than rooted in an orientation toward open exploration and understanding the association between data and music and the body.
 
 ### How: What methods and theories are used to make the intervention or argument and support it?
 - Scholarship on hybridity
@@ -63,7 +68,9 @@ Case study of a university makerspace in two contexts:
 - Disjunctive synthesis
 - Conjunctive synthesos
 - Sense
-- Polysemioss
+- Sensation --> "an affective shift that is the product of an encounter between bodies and the sensual perception of that encounter" (p. 130)
+- Polysemiosis --> "a coding according to multiple modes of inscription and semiosis" (p. 130)
+- Orientation --> "a perceptual and epistemological positioning within a constellation of inscriptions and codes that is also an orientation toward action" (p. 130)
 - Commodity
 - Institutional logics
 - Entrepreneurial logics

@@ -57,8 +57,8 @@ Synthesizing of Hamraie's previous work on crip technoscience (also highlighted 
 - Crip onto-epistemology
 - Crip knowing-making
 - Design theory of disability
-- Technoscience
-- Crip technoscience
+- Technoscience --> "a term that STS scholars use to describe the mutual reliance of knowledge production and technological innovation" (p. 308)
+- Crip technoscience --> "Beyond knowledge itself, crip technoscience provides a framework for studying disability design with specific political commitments, specifically resistance to imperatives for normalization and assimilation" (p. 308)
 - Crip science
 - Interdependence
 - Disability justice framework
@@ -71,10 +71,11 @@ Synthesizing of Hamraie's previous work on crip technoscience (also highlighted 
 - Digital activism
 - Cultural locations of disability
 - Distantism
-- Protocol
+- Protocol --> "feminist STS concept... describes methodological practices that become both standardized and reiterated in pursuit of particular political goals" (p. 312)
 - Access doula
-- Mutual aid
+- Mutual aid --> "a central tenet of the disability justice movement, led by disabled people of color and queer disabled people, and enacted through principles of collective access and liberation, anticapitalist politics, and leadership of the most affected" (p. 314)
 
 ## Qualifying Exam Relevance
+I would consider this more than anything a kind of application piece, showing how crip technoscience can be understood as a framework when analyzed in the specific context of the _Remote Access: A Crip Nightlife Party_ event.
 
 # References
