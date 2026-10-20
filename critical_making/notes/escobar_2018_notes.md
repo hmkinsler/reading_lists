@@ -113,6 +113,7 @@ This design framework is defined by:
 Gonna be honest– my brain is fried at this point, he mostly lays out some remaining questions, tensions in the earlier discussion of the book, etc.
 
 ### Relate: Identify connections or links to other readings and scholarship
+Escobar presented a very helpful [lecture](https://youtu.be/8Ouy7aN6XPs?si=fGcDTZNNauypz_3_) where he reviews the major arguments of this book.
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
@@ -239,5 +240,6 @@ The key terms / concepts section probably capture this best.
 - Epistemic decolonization
 
 ## Qualifying Exam Relevance
+
 
 # References

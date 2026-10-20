@@ -41,6 +41,8 @@ in order to address these limitations, Haraway Offers her metaphor for "vision" 
 
 Vision is thus a process of mediation, through which a partial insight is given into the very thing being mediated. Given the partiality of such knowledge, Haraway suggests that a feminist ontology is one that considers multiple knowledges, enmeshed and entangled in the collectivity of people, semiotic systems, materials, and so on. Given that "self-knowledge requires a semiotic-material system to link meanings and bodies" and "self-identity is a bad visual system" (p. 585), she calls for feminists to recognize the more extensive ontological complexity in which this epistemological work is taking place.
 
+"Subjectivity is multidimensional; so, therefore, is vision. The knowing self is partial in all its guises, never finished, whole, simply there and original; it is always constructed and stitched together imperfectly, and _therefore_ able to join with another, to see together without claiming to be another" (p. 586).
+
 ### Evidence: What evidence is used to support the argument(s)?
 She largely walks through her metaphor for "vision"
 

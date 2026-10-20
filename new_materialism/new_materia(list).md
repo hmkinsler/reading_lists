@@ -7,3 +7,30 @@ Such an approach is meaningful in theoretically informing my work for the Fourth
 
 ## Selected Readings
 
+| Text Type | Citation | 
+| --------- | -------- | 
+|  ARTICLE  |  Ahmed, S. (2008). Open forum imaginary prohibitions: Some preliminary remarks on the founding gestures of the ‘new materialism’. _European Journal of Women’s Studies, 15_(1), 23-39. http://doi.org/10.1177/1350506807084854.  |
+|  CHAPTER  |  Barad, K. (2007). Agential realism: How material-discursive practices matter. In _Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning._ Duke University Press. https://doi.org/10.1215/9780822388128-005.  |
+|  CHAPTER  |  Barad, K. (2007). Spacetime re(con)figurings: Naturalcultural forces and changing topologies of power. In _Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning._ Duke University Press. https://doi.org./10.1215/9780822388128-007.   |
+|  ARTICLE  |  Bennett, J. (2005). The agency of assemblages and the North American blackout. Public Culture, 17(3), 445-465. https://doi.org/10.1215/08992363-17-3-445.  |
+|  BOOK  |  Bennett, J. (2010). _Vibrant matter: A political ecology of things._ Duke University Press.  |
+|  CHAPTER  |  Bollmer, G. (2019). Objects and affects. In _Materialist media theory: An introduction_ (pp. 141-172). https://doi.org/10.5040/9781501337086.  |
+|  CHAPTER  |  Buchanan, I. (2020). Introduction. In, _Assemblage theory and method_ (pp. 1-22). Bloomsbury Academic.  |
+|  TYPE  |  Coole, D., & Frost, S. (2010). Introducing the new materialisms. In D. Coole & S. Frost (Eds.), _New materialisms: Ontology, agency, and politics_ (pp. 1 - 43). Duke University Press. https://doi.org/10.1215/9780822392996-001.  |
+|  BOOK  |  De Landa, M. (1997). _A thousand years of nonlinear history._ Zone Books.  |
+|  BOOK  |  Deleuze, G., & Guattari, F. (1986). _A thousand plateaus._
+University of Minnesota Press.
+
+Selected Chapters:
+Rhizome
+Body without Organs
+Becoming-Animal
+Geology of Morals  |
+|  CHAPTER  |  Haraway, D. (1991). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In _Simians, cyborgs, and women: The reinvention of nature_ (pp. 149-182). Routledge.  |
+|  CHAPTER  |  Mitchell, T. (2002). Can the mosquito speak? In _Rule of experts: Egypt, techno-politics, modernity_ (pp. 1-27). University of California Press.  |
+|  BOOK  |  Nail, T. (2016). Theory of the border. Oxford University Press.  |
+|  CHAPTER  |  Puar, J. K. (2020). “I would rather be a cyborg than a goddess”: Becoming-intersectional in assemblage theory. In _Feminist theory reader._ Routledge.  |
+|  ARTICLE  |  Suchman, L. (2011). Practice and its overflows: Reflections on order and mess. _Tecnoscienza, 2_(1), 21-30. https://doi.org/10.6092/issn.2038-3460/16991.  |
+|  ARTICLE  |  Tamboukou, M. (2019). New materialisms in the archive: In the mode of an oeuvre à faire. _MAI: Feminism and Visual Culture._ https://www.maifeminism.com/issues/focus-issue-4-new-mate rialisms/.  |
+|  ARTICLE  |  Todd, Z. (2016). An Indigenous feminist’s take on the ontological turn: ‘Ontology’ is just another word for colonialism. _Journal of Historical Sociology, 29_(1), 4-22. https://doi.org/10.1111/johs.12124.  |
+|  ARTICLE  |  Wynter, S. (2003). Unsettling the coloniality of being/power/truth/freedom: Towards the human, after man, its overrepresentation– an argument. _The New Centennial Review, (3)_3, 257-337. https://doi.org/10.1353/ncr.2004.0015.  |
