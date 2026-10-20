@@ -200,7 +200,7 @@ The key terms / concepts section probably capture this best.
 - Positivism
 - Computaionalism
 - Logocentrism
-- Mond-body problem
+- Mind-body problem
 - Cartesian license
 - Cognition as enaction
 - Historicity
@@ -240,6 +240,19 @@ The key terms / concepts section probably capture this best.
 - Epistemic decolonization
 
 ## Qualifying Exam Relevance
+This is a really important book for thinking about the way that design itself is a cultural practice that is not uniform across communities and contexts and itself is a worthy site for analysis and investigation and the implications of the kinds of design models and Frameworks that we draw one given the ontological and political consequences of design practice in shaping our worlds and ways of being.
 
+Escobar takes very seriously the historicity of design practice and follows it from scholarship that is historically seen design as primarily productive in nature for the purpose of developing tools and systems to be designed for particular purposes and as solutions to problems. He traces the emergence of models of design that are more cognizant of the implications for the communities who are affected by design, including approaches such as co-design or participatory design. What he sees is the importance of these approaches to design that are more accountable to issues of communities and how they are affected by underlying principles that shape design is the ontological and relational nature of design:
+
+“Design is ontological in that all design-led objects, tools, and even services bring about particular ways of being, knowing, and doing” (p. x).
+
+This is of particular importance because of the way that an ontological or onto epistemological model based on the view of the “One World World,” which he draws from John Law’s work , is taken as the unmarked and assumed Universal framework for thinking about what it means to design. As he explains, however, Indigenous communities in locations such as Columbia have pushed back on this singular ontological perspective and the way that it both shapes design approaches and the way that the resulting designed objects and systems and practices shape communities in turn. These indigenous activists thus are pushing back on the four four tenets that Escobar identifies as characteristic of the universalized One World world for modern onto epistemological model for design and designed communities, including a belief in The individual as it has been defined by Cartesian dualism, a belief in the real as it is understood as a separate and observable, objectified, rationalizable, and logical entity, a belief in science as a model for Gathering empirical, objective, undeniable, uncontestable, and verifiable information about reality, and a belief in the ability to apply principles of reality and science to the economy in a way that reveals the inherent value of neoliberalism and capitalism. In contrast to the imposition of this monolithic and Universal onto epistemology onto indigenous and marginalized communities across the globe, Escobar embraces a pluriversal approach to design, drawing on the conception for pluriverse from the Zapatistas as “a world in which many worlds fit.”
+
+For this reason, he offers a framework for _autonomous design,_ as a model for design that affirms the autonomous capacity of all communities to design for themselves and thus create the worlds they would like to inhabit and continue to create for themselves. The framework is characterized by the following tenets:
+- “_Every community practices the design of itself_” (p. 184)
+- “Every design activity must start with the strong presupposition that _people are practitioners of their own knowledge_ and from there must examine how people themselves understand their reality” (p. 184)
+- “What the community designs, in the first instance, is _an inquiring of learning system about itself_” (p. 184)
+- “Every design process involves a _statement of problems and possibilities_ that enables the designer and the group to generate agreements about objectives and to decide among alternative courses of action” (p. 185)
+- “This exercise may take the form of building a model of _the system that generates the problems of communal concerns_” (p. 185)
 
 # References
