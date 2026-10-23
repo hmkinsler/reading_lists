@@ -67,7 +67,7 @@ they explained that the invisible and embedded or transparent nature of infrastr
     - Ubiquity of classifying and standardization
     - The materiality and texture of classifications and standards-- they are "_material_, as well as symbolic"
     - The indeterminancy of the past, or a multivocal perspective on history
-    - The practical politics of classifying an dstandardizing
+    - The practical politics of classifying and standardizing
 
 #### Part I: Classification and Large-Scale Infrastructures
 
@@ -195,5 +195,14 @@ Classification systems...
 - Ties
 
 ## Qualifying Exam Relevance
+"Each standard and each category valorizes some point of view and silences another. This is not inherently a bad thing---indeed it is inescapable. But it _is_ an ethical choice, and as such it isi dangerous--not bad, but dangerous" (pp. 5-6).
+
+"We seek to understand classification systems according to the work that they are doing and the networks within which they are embedded. That entails both an understanding of the categories of those designing and using the systems, and a set of analytic questions derived from our own concerns as analysts" (p. 42).
+
+I think when it comes To applying the lessons from this chapter to thinking about contemporary infrastructure in the Contemporary infrastructure in the age of artificial intelligence, or More specifically, generative Artificial intelligence and the way that Agentic models are being deployed rapidly through A variety of Computational information systems serving as the infrastructural components for other kinds of work, components for Other kinds of Work like the use of real-time surveillance cameras and technologies to feed into real-time crime reporting and data centers that are used by local municipalities and police forces.
+
+One example of a potential consequence Here would be In terms of facial recognition Technologies, for example, in the case In the case of how people And objects and vehicles Specifically, are Identified and classified through the use of computer vision Models that enable Search using natural language, as is the case for the Flock Or the Flock ALPR system. In this case, a police A police officer can associate A search for Individuals that are wearing specific colored clothing, for example, or that are of a specific race with a case number And thus return through the Flock's database all images database all images that are identified by the model as corresponding with the terms of the search. This has had some pretty drastic consequences in terms Drastic consequences In terms of how police investigations are unfolding in In response to The model search results. So there have been some instances where Some instances where an individual Was incorrectly classified as being in a where a crime occurred and thus arrested by police as a result of the model's truth claims. 
+
+What is Especially interesting here, And I think differs in many ways from what Bowker and Star are exploring And what Bowker and Star are exploring Is that The act of classification is itself Being automated. And So That presents us new challenges in thinking about The Aristotelian nature of classification And the articulation work that actually unfolds in real time when people are making use of these classificatory And infrastructural systems. Here, it is hard to map a negotiation on It is hard to map a Negotiation on the part of A police officer between the classification system that system that they're using And the real-time necessity of their investigation City of their Investigation work Because The development of the classification system itself is proprietary and hidden from the public entities that are making use of that system.  ntities that are making use of that system. This offers a lot of that system. This offers a lot of really challenging questions about how questions about how we respond to And understand classification systems and the development of in systems and the development of infrastructure when humans are not Sure. When Humans are not the primary actor that is developing the system itself. 
 
 # References
