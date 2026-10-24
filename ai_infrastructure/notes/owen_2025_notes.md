@@ -6,7 +6,7 @@ date_created: 2026-07-13
 # Notes for Ground to cloud: A gallery of AI infrastructure (Owens, L., 2025)
 
 ## Citation Information
-Owens, L. (2025). Ground to cloud: A gallery of AI infrastructure. **. https://g2c.owenleonard.dev/
+Owen, L. (2025). Ground to cloud: A gallery of AI infrastructure. **. https://g2c.owenleonard.dev/
 
 # Reading Notes
 ## SQR3

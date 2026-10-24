@@ -57,6 +57,26 @@ the opening and closing chapters of the book most strongly convey the interventi
 ### Argument: What are the core argument(s) being made in the text?
 Her ultimate argument then is to demonstrate how algorithms and automated technological systems perpetuate biases and discrimination against low income people, especially Black, brown, and Indigenous people of color.
 
+"Models are useful because they let us strip out extraneous information and focus only on what is most critical to the outcomes we are trying to predict. But they are also abstractions. Choices about what goes into the reflect the priorities and preoccupations of their creators" (p. 115).
+
+She identifies three primary ways in which algorithms and other computational systems (re)produce inequalty through automation via her three case studies:
+
+(1) "Divert the poor from public resources: Indiana" (p. 143)
+
+(2) "Classify and criminalize the poor: Los Angeles" (p. 144)
+
+(3) "Predict the future behavior of the poor: Allegheny County" (p. 145)
+
+She also identifies several characteristics of the digital poorhouse that require interrogation in the development of public policy, legislation, and through critical analysis in scholarship:
+
+- "The digital poorhouse is massively scalable" (p. 148).
+
+- "The digital poohouse is persistent" (p. 149).
+
+- "The digital poorhouse is eternal" (p. 150).
+
+- "We all live in the digital poorhouse" (p. 150).
+
 ### Evidence: What evidence is used to support the argument(s)?
 She takes up three different automated and algorithmic systems that have been deployed as welfare management technologies across the United States within the last 10 to 15 years, including a system for managing health benefits in the Midwest, A coordinated entry system for housing placement of unhoused people in Los Angeles, and a risk assessment tool for predicting and preventing child abuse or neglect in Pennsylvania .
 
@@ -93,10 +113,23 @@ She takes up three different automated and algorithmic systems that have been de
 - Validation data
 - Cultural denial
 - Poverty profiling
-- Rational discrimination
+- Rational discrimination --> from Oscar Gandy, "Rational discrimination does not require class or racial hatred, or even unconscious bias, to operate. It only requires ignoring bias that already exists" (p. 152)
 - Cybernation
 - Policing
 
 ## Qualifying Exam Relevance
+Data, as it is used against poor people, is employed as a border technology to maintain circulations of social economic and class division:
+
+"Marginalized groups face higher levels of data collection when they access public benefits, walk thruogh highly policed neighborhoods, enter the healthcare system, or cross national borders. That data acts to reinforce their marginality when it is used to target them for suspicion and extra scrutiny. These groups seen as undeserving are singled out for punitive public policy and more intense surveillance, and the cycle begins again. It is a kind of collective red-flagging, a feedback loop of injustice" (p. 11).
+
+"Automated decision-making shatters the social safety net, criminalizes the poo, intensifies discrimination, and compromises our deepest national values. It reframes shared social decisions about who we are and who we want to be as systems engineering problems. And while the most sweeping digital decision-making tools are tested in what could be called 'low rights environments' where there are few expectations of political accountability and transparency, systems first designed for the ppor will eventually be used on everyone" (p. 15).
+
+Eubanks offers an explanation of the kind of social beliefs around managing of class divisions and how to respond to inequalities that result in a population of poor people who rely on assistance of various forms in order to support themselves. And she explains that prior to a financial crisis in the late nineteenth century, the use of poor houses as an institution helped to isolate low income people as they were viewed as morally deficient. The rise of the scientific charity movement, however, led to a shift from the use of poor houses as formal institutions for managing property to instead a system of data fication and tracking and surveilling of poor people and their behaviors and practices, especially in instances where they were seeking social support through a variety of systems and institutions that have been implemented in the United States, especially through the tenure of President Roosevelt and the New Deal. She draws a clear link between the underlying beliefs in eugenics and the emergence of the scientific charity movement, which sought to empirically identify what it saw as the biological and social inferiorities that cause poverty, as opposed to identifying the systemic forces of inequality that produce poverty. There is, here, a clear connection to the overrepresentation of Man2 that Wynter (2003) describes.
+
+It is in these biological and eugenicist models of poverty that have been transformed into the didification and tracking of poor people's behaviors, especially through algorithms and predictive analytic models, that leads Eubanks to argue that the contemporary digital poorhouse is not a natural outcome of social inequality as opposed to placing the blame on the poor: "It will take more than high-tech tweaks to bring down the institutions we have build to profile, police, and punish the ppor. It will take profound changes to culture, politics, and personal ethics" (p. 162).
+
+There is an interesting question that has been raised about the way that automated inequality functions in design as opposed to in practice. So one of the notable cases that UBANCS brings up around page one hundred fifty two has to do with the practice of redlining and the way that the homeowners' loaned practices and patterns in spatial segregation that was associated with each of those developments. Now, one of the tricky things about redlining is that there's a question as to whether or not the classification system that systematically targeted low income black neighborhoods to deny black people's access to integrated communities.
+
+This reading does some of the most useful work in explaining how data, automation, algorithms, and surveillance work together in scrutinizing and further punishing poor people in ways that continually (re)produces their oppression across several institutions and systems: "...in new data-based surveillance, the _target often emerges from the data._ The targeting comes after the data collection, not before. Massive amounts of information are collected on a wide variety of individuals and groups. Then, the data is mined, analyzed, and searched in order to identify possible targets for more thorough scrutiny. Sometimes this involves old-school, in-person watching and tracking. But increasingly, it only requires finer sifting of data that already exists. If the old surveillance was an eye in the sky, the new surveillance is a spider in a digital web, testing each connected strand for suspicious vibrations" (p. 99). The example of the coordinated entry system that classifies and renders visible homeless people who are seeking access to housing and are unable to be considered for placement into subsidized housing is a useful model for thinking about how inequality and classification are continually (re)produced through these systems in the context of the context of Flock Safety, Inc.'s ALPR cameras. When it comes to these cameras and their centralized databases, for example, police officers have more ready of access of records for people who have already encountered the criminal justice system at some prior time, regardless of whether or not they are found guilty of an offense for which they are charged or stopped or detained, or whether or not they have been convicted of a violent or non-violent offense. Regardless, the fact of the matter is that if they have already done through intake and booking and even conviction, through North Carolina's Department of Justice or the State Bureau of Investigation, and have their image on file, then police officers can more readily identify those same individuals through the integration of facial recognition technologies into their network of live streamed video data feeds, which are then predisposed to identifying individuals through future searches or investigations, as these are people who are already present within law enforcement's records and databases. Importantly, even if someone experiences racial profiling and disciminatory policing practices, they are subsequently more likely to continue to be profiled and falsely implicated in law enforcement investigations.
 
 # References
