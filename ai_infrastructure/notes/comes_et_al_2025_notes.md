@@ -42,5 +42,6 @@ This piece did not honestly end up being the most beneficial to me for the conte
 - Algorithm
 
 ## Qualifying Exam Relevance
+The ultimately most interesting finding from the article that I found was that their analysis results suggested that "_...if behavioural uncertainties exist and shape the expension of the [refugee] camp, the results improve when these uncertainties are integrated into the model._"
 
 # References

@@ -81,5 +81,35 @@ The function of this website seems to be to act as a reference tool or potential
 - Digital gig work
 
 ## Qualifying Exam Relevance
+Identifying key components that are the infrastructural underbelly of AI technologies and systems:
+
+**Extract**
+- Cobalt mines in the Democratic Republic of the Congo
+- Rare Earth minerals and conflict minerals
+
+**Produce**
+- Complexes for refining and processing minerals to be used in the development of integrated circuits (ICs) and computing hardware
+- Baogang Steel and Rare Earth Complex in China
+- Global chip manufacturing and chip markets
+
+**Transport**
+- Political ecoomy of chips in context of shipping and global supply chains
+- Interesting contemporary connection to issue of global supply chain crises resulting from the instability of the Strait of Hormuz as a shipping corridor during the US and Israeli conflict with Iran in 2026
+- Environmental impacts from reliance on carbon-based transportation systems
+
+**Connect**
+- Use of cables (especially fiber) to enable high-speed data transmission, especially in an environment of continuous data extraction
+- Hyperscale data centers
+- Real-time transmission of urban sensor data (i.e. the Malaysia "City Brain" project)
+
+**Compute**
+- NSA Utah Data Center (connects to Suchman 2023 on automating of military intelligence)
+- Three Mile Island
+
+**Train**
+- Digital gig work in classification of training data
+- Mechanical Turks
+
+In some ways, it seems as though what Owen is capturing here is a kind of infrastructural stack that is comprised of a multitude of layers that hierarchically make up what enables AI systems and technologies. And as Bratten notes, the very nature of the stack is such that components of one layer can be changed or modified so long as they are still able to connect to the layers below and above them in the stack. But ultimately, this seems like an interesting way to think about what it would look like to try and envision a technology as having some sort of infrastructural stack that underlies it.
 
 # References

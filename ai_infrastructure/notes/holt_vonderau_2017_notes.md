@@ -38,7 +38,16 @@ Though published a year prior to his book, this chapter has a lot of clear reson
 The authors are building on infrastructure studies scholarship to consider data centers as a case study for interrogating the infrastructure of cloud media, especially as cloud computing becomes and increasing ecological or environmental concern.
 
 ### Argument: What are the core argument(s) being made in the text?
-^^
+"...any infrastructure's peculiar ontology lies precisely in the fact that it forms the relation between things while also being a thing in itself" (p. 80).
+
+Despite claims to transparency on the part of major technological corporations in regards to their development and operation of (hyperscale) data centers, the design choices that inherently shape the politics of the cloud infrastructure that underlies the internet are blackboxed. They are shaped by the protocols and standards that are not accessible to us but impact our experience of cloud based systems, products, and services all the same. They point out the irony of this hypervisibility, alluding to the quip popularized in the film _Fight Club_-- "The first rule of data centers is don't talk about the data centers" (p. 75).
+
+Hypervisibility and concealment strategies that naturalize infrastructure:
+- Parks' "antenna trees"
+- Google's data centers as abstract art
+- Placing data centers in natural scenery, linking the notion of nature to cloud infrastructure despite data centers' negative environmental impacts
+
+"Currently, it is almost a legal impossibility to discern, for example, the jurisdiction and often the sovereignty of the data that is processed, stored, circulated, and transmitted by the millions of data centers all over the globe" (p. 82).
 
 ### Evidence: What evidence is used to support the argument(s)?
 By looking at the topology of data centers and cloud infrastructure in Sweden, the authors are able to illustrate how much more relationally complex the storage, circulation, distribution, and ownership of cloud data is.
@@ -67,7 +76,7 @@ By looking at the topology of data centers and cloud infrastructure in Sweden, t
 - Free cooling
 - Power Usage Effectiveness (PUE)
 - Water Usage Effectiveness (WUE)
-- Topology
+- Topology --> the "networks of [media infrastructure's] relations" (p. 80).
 - Internet architecture
 - Overlay network
 - Autonomous System (AS)
@@ -78,5 +87,20 @@ By looking at the topology of data centers and cloud infrastructure in Sweden, t
 - Internet exchange point (IXP)
 
 ## Qualifying Exam Relevance
+What is really outstanding to me about this chapter is that because it was published in 2017 the landscape of social commentary on the political and social consequences of data centers in their design and operation and development has really changed with the rapid development of AI technologies, tools, and systems in recent years, making this so pressing a concern that it is informing the perspectives of voters as they prepare for the 2026 midterm elections, with many communities calling for data center moratoriums, as is the case in Raleigh, North Carolina, at the time of writing.
+
+In their interrogation of the political economy and topology of data centers as part of the digital media infrastructure that underlies the internet and its cloud systems and technologies and tools, Holt and Vonderau essentially find that there is an increasing degree of hierarchy and homogenization that is taking place in which an increasingly small group of major technological corporations are providing that infrastructure as the support for a public service, as is the case with the contractual partnership between Amazon Web Services and the US Department of Defense.
+
+They compare how digital media infrastructure is understood in its imaginaries as opposed to its actual topologies. In looking at the actual architecture or topology of the internet in the context of Sweden, they identify three major topological layers:
+
+(1) **Overlay network level**: "...such as the World Wide Web, email, or peer-to-peer" (p. 85).
+
+(2) **Interdomain level**: "...the Internet is made up of tens of thousands of loosely connected networks called Autonomous Systems (AS) employing different business models and profiles (so-called Tier 1 prodivers, retail services, business services, network access, Web hosting, and the like)" (p. 85).
+
+(3) **Router level**: "...the Internet's physically meaningful topology, that is, the way it builds connectivity at the router level" (p. 85).
+
+Because of this, they argue that a relational account of infrastructure is such that analysis should be conducted on a case by case basis, as "data centers are merely one element among may; they do not form the one central node in the network from which to unravel digital distribution's mysteries" (p. 87).
+
+This aspect of their argument is really useful when we're thinking about the infrastructure of the real-time crime and data centers that are used by local law enforcement and local administrations for the purposes of surveillance and policing. In some jurisdictions, for example, there is the use of integrated tools from providers other than Flock Safety Incorporated that are then integrated into the analysis of the real-time video feeds collected from cameras that are being deployed. In other words, if we take a relational approach to understanding ALPR infrastructure and the way that it feeds into a real-time data center, then we can see that it is not just about the actual materiality of the cameras themselves and where they are placed in relationship to one another, but also a question of the kinds of data licensing agreements that municipalities sign on to, whether or not they partner with other providers to gain access to specialized systems that are able to interface with their ALPR systems and so on and so forth.
 
 # References

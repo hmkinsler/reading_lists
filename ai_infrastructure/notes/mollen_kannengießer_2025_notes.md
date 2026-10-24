@@ -48,5 +48,10 @@ I had some really high hopes for the chapters in this book, but these readings d
 - Agency
 
 ## Qualifying Exam Relevance
+They do provide somenotes on the importance of addressing AI risks, or their degree of safety and alignment with human, social goals and needs.
+
+I guess one thing I would agree is that they are explicit about taking a broader approach to issues of sustainability in the development and operation of AI technologies, stating that attention should look beyond single-dimension frameworks of sustainability, including many that are focused more broadly on carbon emissions, to look at "socio-ecological-economic impacts" (p. 209) of AI more holistically.
+
+I think that perhaps upon revisiting this chapter that what I find the most helpful about it is the way that it is connected to or reminiscent of the argument present in Burgess's analysis of her stylistic Twitter bot maker project in her attempt to generate or develop a life cycle audit of that technology. As Mollen and Kannengießer put it, such lifecycle report approaches to understanding the cost of AI technologies are limited: "Here, the emphasis primarily falls on technical components and production logics (e.g. computing hardware, data sets, Machine Learning algorithms, computing) and the role they play in sustainability questions. ALthough helpful as a structuring element, this approach has little analytical value for understanding processes and agency behind (un)sustainable AI; it thus lacks the foundations for profound, socially oriented analyses. Therefore, we argue for a socio-technological perspective on the life cycle of generative AI, one that acknowledges not only the technological components of the infrastructures of generative AI but also the actors and practices that shape these technologies" (p. 210).
 
 # References
