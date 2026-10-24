@@ -35,7 +35,9 @@ there is a lot of very clear resonance between this chapter and the chapter from
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 
 ### Argument: What are the core argument(s) being made in the text?
-See survey of text.
+Jackson explains that his specific interests in repair is motivated by his belief that it is point of which and which the point of which that br the gap between a perspective of the world as something that is in constant state of decay and breakdown that is outpacing our ability to respond to it and a perspective of the world focused on sites of production and innovation and the development of new technologies as a site of solution various kinds of problems, be they environmental, social, political, and so on:
+
+"Here, then, are two radically forces and realities. On one hand, a fractal world, a centrifugal world, an always-almost-falling-apart world. On the other, a world in constant process of fixing and reinvention, reconfiguring and reassembling into new combinations and new possibilities--a topic of both hope and concern. It is a world of pain and possibility, creativity and destruction, innovation and the worst excesses of leftover habit and power" (p. 222).
 
 ### Evidence: What evidence is used to support the argument(s)?
 There are a few specific instances or potential case studies that Jackson brings up to illustrate how fundamental maintenance and repair processes are to sustaining infrastructure, especially computational infrastructure, but I was especially struck by his discussion of the design choice is made by Apple for several of their products that reduce users ability to make repairs or replace parts on their own. When there was public outcry and response from the user or consumer base in response to these changes , the company argued that repair is lots of concern for the vast majority of consumers today And that there was more of an interest in functionality or other kinds of design affordances.
@@ -72,5 +74,6 @@ Although Jackson does not specifically speak to the politics of right to repair 
 - Human-machine reconfiguration
 
 ## Qualifying Exam Relevance
+Like the text from Graham and Thrift there's a really clear focus on considering moments of breakdown and the resulting labor of maintenance and repair in response should be seen as generative sites for scholarly inquiry as opposed to exceptional failures of infrastructural and technological systems, with Jackson explicitly stating that "our modes of academic and popular representation around these two moments of technological life are deeply unbalanced" (p. 225).
 
 # References
