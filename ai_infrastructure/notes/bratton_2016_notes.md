@@ -167,6 +167,8 @@ Building on the discussion of the previous chapter, however, Bratton emphasizes 
 ### Relate: Identify connections or links to other readings and scholarship
 I found this book incredibly challenging to read . Although I found the argument incredibly interesting and compelling, and there were some really strong connections to the idea of a state vision or seeing through the vision of a state, the manner in which Bratton outlines his argument is remarkably inaccessible. I read [Ian Bogost's review](https://criticalinquiry.uchicago.edu/ian_bogost_reviews_the_stack/), and I found it aligned quite strongly with my own sense of this text.
 
+- [The Stack and the Post-human User: an Interview with Benjamin Bratton](https://nieuweinstituut.nl/en/projects/tuin-van-machines/stack-and-posthuman-user-een-interview-met-benjamin-bratton)
+
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
 The primary intervention of the text seems to be focused on troubling traditional , or Westphalian as he describes it, Models for understanding geopolitics, territorial jurisdiction, and sovereignty.

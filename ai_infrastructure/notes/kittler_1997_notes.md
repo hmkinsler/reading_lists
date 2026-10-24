@@ -25,6 +25,8 @@ Kittler, F. (1997). There is no software. In *Literature, media, information sys
 
 ### Relate: Identify connections or links to other readings and scholarship
 - This chapter was a _bit_ dense, so I found this [blog post from Alan Shapiro](https://www.alan-shapiro.com/beyond-sociology-and-media-studies-by-alan-n-shapiro/) helpful
+- [Blog response from Medina](https://inigomedina.co/library/work/kittler-there-is-no-software)
+- [Hui Yie's Blog](https://huiyiethinkswithink.wordpress.com/2016/01/20/friedrich-kittler-1995-there-is-no-software/)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
