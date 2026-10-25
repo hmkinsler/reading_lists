@@ -58,9 +58,12 @@ Bennett largely focuses on introducing the concept of an assemblage in this chap
 #### Chapter Eight
 
 ### Relate: Identify connections or links to other readings and scholarship
+- ["Bennett's thing-power"](https://blog.uvm.edu/aivakhiv/2010/05/26/bennetts-thing-power/)
+- [Vibrant Matter: A Political Ecology of Things, Reading Group](https://philosophyinatimeoferror.wordpress.com/2010/05/26/vibrant-matter-a-political-ecology-of-things-reading-group/)
 
 ## Intervention, Argument, Evidence
 ### Intervention: What is the intervention that the scholar is making, and where is that intervention being made? In other words, how do you place that intervention relative to existing disciplinary conversations that are taking place?
+"A guiding question: How would political responses to public problems change were we to take seriously the vitality of (nonhuman) bodies? By 'vitality' I ean the capacity of things--edibles, commodities, storms, metals--not only to impede or block the will and designs of humans but also to act as quasi agents or forces with trajectories, propensities, or tendencies of their own" (p. viii).
 
 ### Argument: What are the core argument(s) being made in the text?
 In order to understand the notion of distributive agency, you also have to understand the idea of an assemblage, which is something that Bennett adapts from Deleuze and Guattari's work, but even more closely from Spinoza. And she makes the argument that assemblages are these ad hoc arrangements of various kinds of bodies. The term body largely coming from Spinoza. Bodies being derived from a common substance that appears in a variety of kinds of forms. But what is notable here is that rather than thinking of agency as being something that is bound to a singular subject, uh, then it is actually something that is distributed amongst the various um, entities or actants that are part of an assemblage in a given configuration. So in the context of the North American blackout, her argument is that there is no singular entity that could be seen as having the agentive capacity to have caused the blackout and thus the responsibility of the blackout can also not be pinned to any given individual. So for example, she explains that The nature of the blackout is very closely tied to the problem of uh, electrical current, for example, and reactive power. as well as the various um, kinds of amounts of electricity that were being used by users or the distribution of power substations and the, uh, the corporate practices of utility companies. But uh, overall, her point about distributed agency is that it is tied to a collection, uh, it emerges from a collection of actors in an assemblage rather than from an individual.
@@ -75,6 +78,7 @@ Um, and in this case, for the blackout, this is an assemblage where it's the com
 
 ## Key Terms / Concepts
 - thing-power
+- biopower --> "coined by French social theorist Michel Foucault,[1] refers to various means by which modern nation states control their populations" - from [Wikipedia](https://en.wikipedia.org/wiki/Biopower)
 - vitalism 
 - material vitalism
 - conative
@@ -94,7 +98,8 @@ Um, and in this case, for the blackout, this is an assemblage where it's the com
 - agency vs. structure debate
 - substance
 - Spinoza's affective bodies and modes
-- élan
+- élan vital
+- thing(s) --> "...vivid entities not entirely reducible to the contexts in which (human) subjects set them, never entirely exhausted by their semiotics" (p. 5)
 
 ## Qualifying Exam Relevance
 
