@@ -90,5 +90,16 @@ Tracing the risks posed by new models of governance emerging with the deployment
 - Open standards
 
 ## Qualifying Exam Relevance
+They look at nine dimensions, that they note are interrelated, for developing a more holistic and complex framework for evaluating agentic AI systems, especially in the context of their integration or deployment as urban infrastructure:
+
+1. Technology
+2. Governance
+3. Power
+4. Spatiality
+5. Autonomy
+6. Ethics
+7. Economy
+8. Culture
+9. Materiality
 
 # References

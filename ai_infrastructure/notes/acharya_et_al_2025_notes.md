@@ -43,9 +43,9 @@ Given the institutional and industry contacts that the authors are operating wit
 ## Key Terms / Concepts
 - Agentic AI
 - Artificial intelligence
-- Classic AI
+- Classic AI --> "rule-based and requires instructions to be performed" (p. 18913)
 - Generative AI
-- Reinforcement learning (RL)
+- Reinforcement learning (RL) --> Learning through interaction, receives feedback as learning via trial and error
 - Large language model (LLM)
 - Goal-oriented architecture
 - Adaptive control mechanism
@@ -56,7 +56,7 @@ Given the institutional and industry contacts that the authors are operating wit
 - Operative agent
 - Multi-agent system (MAS)
 - Hierarchical reinforcement learning (HRL)
-- Goal-oriented modular architecture
+- Goal-oriented modular architecture --> "provide a structural framework for managng complex objectives within Agentic AI systems... enable agents to prioritize and purseu multiple objectives simultaneously" (p. 18915)
 - AI learning paradigms
 - Supervised learning
 - Unsupervised learning
@@ -84,8 +84,8 @@ Given the institutional and industry contacts that the authors are operating wit
 - Failsafe mechanism
 - Cybersecurity
 - Real-time monitoring system
-- Human-in-the-loop (HITL)
-- Human-on-the-loop (HOTL)
+- Human-in-the-loop (HITL) --> "When HITL configurations are deployed, human operators tend to approve some actions and directly interact with the AI while making certain decisions" (p. 18927)
+- Human-on-the-loop (HOTL) --> "On the other hand, in HOTL systems, the human supervisor monitors the AI without deciding on every action but can intervene when necessary" (p. 18927)
 - Override protocol
 - Last-line system
 - Audit trail
@@ -115,5 +115,50 @@ Given the institutional and industry contacts that the authors are operating wit
 - Meta-cognition
 
 ## Qualifying Exam Relevance
+This paper overall raises important questions about **governance**, as agentic AI systems are increasingly granted autonomy to navigate complex decision making and perform activities to complete goals, often with little human supervision or oversight, shifting governance in part to the models themselves. This raises several questions about what that governance or autonomy truly entails:
+
+- Is governance tied to the developers of a model, especially in the case of major corporate developers such as Anthropic and Open AI? How does that change in the case of open-source, community developed, open-weight models?
+
+- How do we make sense of governance, property, sovereignty, and ownership when large-scale models are developed often using the massive extraction of data and many peoples' intellectual property without their consent?
+
+- How do we legislate, regulate, and provide oversight for these models given these issues? How does the blackboxing of AI systems pose new challenges to us in this regard?
+
+The core that sets agentic AI systems apart from their earlier counterparts, including classic AI systems or generative AI systems and tools, is that agentic AI systems have a degree of autonomy in setting goals and completing those goals. So there are several core frameworks that are especially important in ensuring that agentic AI systems are capable of working with this degree of complexity and autonomy. And those foundations include reinforcement learning, goal-oriented architectures, and adaptive control mechanisms. And as Acharya et al. write, "...these technical foundations equip agentic AI with the structural and functional capabilities necessary to manage complex, evolving tasks independently, setting it apart from traditional AI systems that rely on rigidly defined parameters and instructions" (p. 18915). In other words, they state, "Compared to linear systems of regulation, Agentic AI stands out because of its improved ability to remain autonomous, function within an ever-chanigng context, and cope with multiple goals" (p. 18917).
+
+They highlight multiple methodologies in the development of Agentic AI systems:
+
+#### Architectural Approaches
+1. Multi-Agent Systems (MAS)
+2. Hierarchical Reinforcement Learning (HRL)
+3. Goal-Oriented Modular Architectures
+
+#### Learning Paradigms
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+#### Advancements in Methodologies
+1. Reasoning and planning
+2. Tool use and integration (i.e. APIs)
+3. Memory mechanisms (i.e. episodic and semantic memory)
+4. Retrieval-augmented generation
+5. Instruction fine-tuning
+
+#### Training and Evaluation Techniques
+1. Simulation-based training
+2. Curriculum learning
+3. Multi-task learning
+
+#### Technical challenges and limitations in agentic AI
+1. Goal alignment and complexity
+2. Environmetnal and situational adaptability
+3. Resource constraints
+4. Scalability
+
+#### Ethical and governance considerations for agentic AI
+1. Accountability and responsibility
+2. Bias, fairness, and transparency
+3. Privacy and security
+4. Regulatory and legal perspectives
 
 # References
